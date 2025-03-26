@@ -8,11 +8,13 @@ import re
 import urllib.parse
 
 
+
 class ContestFetcher:
     def __init__(self):
         self.output_file = 'contests.json'
         self.timezone = pytz.timezone('Asia/Shanghai')
-        
+
+
     def fetch_codeforces_contests(self):
         """
         获取Codeforces比赛信息
@@ -203,7 +205,7 @@ class ContestFetcher:
         """
         获取牛客网比赛信息
         """
-        print("Fetching Nowcoder contests...")
+        print("Fetching nowcoder contests...")
         url = "https://ac.nowcoder.com/acm/calendar/contest"
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
@@ -247,21 +249,21 @@ class ContestFetcher:
                     # 如果比赛时间在未来一个月内
                     if contest_time >= now and contest_time <= one_month_later:
                         future_contests.append({
-                            'platform': '牛客网',
+                            'platform': 'NowCoder',
                             'name': contest.get('contestName', 'Unknown Contest'),
                             'start_time': contest_time.strftime('%Y-%m-%d %H:%M:%S'),
                             'duration': f"{hours}小时{minutes}分钟",
                             'url': contest.get('link','https://ac.nowcoder.com/acm/contest/vip-index')
                         })
                 except Exception as e:
-                    print(f"Error processing Nowcoder contest: {e}")
+                    print(f"Error processing nowcoder contest: {e}")
                     continue
             
-            print(f"Found {len(future_contests)} future Nowcoder contests")
+            print(f"Found {len(future_contests)} future nowcoder contests")
             return future_contests
             
         except Exception as e:
-            print(f"Error fetching Nowcoder contests: {e}")
+            print(f"Error fetching nowcoder contests: {e}")
             return []
     
     def fetch_jisuanke_contests(self):
@@ -285,7 +287,7 @@ class ContestFetcher:
             contest_items = soup.select('.contest-item')
             
             # 获取当前时间和一个月后的时间
-            now = datetime.datetime.now()
+            now = datetime.datetime.now(self.timezone)
             one_month_later = now + datetime.timedelta(days=30)
             
             future_contests = []
@@ -397,7 +399,7 @@ class ContestFetcher:
                 return []
             
             # 获取当前时间和一个月后的时间
-            now = datetime.datetime.now()
+            now = datetime.datetime.now(self.timezone)
             one_month_later = now + datetime.timedelta(days=30)
             now_timestamp = int(now.timestamp())
             one_month_later_timestamp = int(one_month_later.timestamp())
@@ -420,7 +422,7 @@ class ContestFetcher:
                         minutes = (duration_seconds % 3600) // 60
                         
                         future_contests.append({
-                            'platform': '洛谷',
+                            'platform': 'luogu',
                             'name': contest.get('name', 'Unknown Contest'),
                             'start_time': contest_time.strftime('%Y-%m-%d %H:%M:%S'),
                             'duration': f"{hours}小时{minutes}分钟",
@@ -471,7 +473,7 @@ class ContestFetcher:
                             # 如果比赛时间在未来一个月内
                             if contest_time >= now and contest_time <= one_month_later:
                                 future_contests.append({
-                                    'platform': '洛谷',
+                                    'platform': 'luogu',
                                     'name': title,
                                     'start_time': contest_time.strftime('%Y-%m-%d %H:%M:%S'),
                                     'duration': f"{hours}小时{minutes}分钟",
@@ -490,7 +492,86 @@ class ContestFetcher:
         except Exception as e:
             print(f"Error fetching Luogu contests: {e}")
             return []
+    def fetch_atcoder_contests(self):
+        """
+        获取AtCoder比赛信息
+        """
+        print("Fetching AtCoder contests...")
+        url = "https://atcoder.jp/contests"
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
     
+        try:
+            response = requests.get(url, headers=headers)
+            response.raise_for_status()
+    
+            soup = BeautifulSoup(response.text, 'html.parser')
+            contest_table = soup.select_one('#contest-table-upcoming')
+            if not contest_table:
+                print("Could not find AtCoder contest table")
+                return []
+    
+            contests = contest_table.select('tbody > tr')
+            future_contests = []
+            now = datetime.datetime.now(self.timezone)
+            one_month_later = now + datetime.timedelta(days=30)
+    
+            for contest in contests:
+                try:
+                    # 获取比赛时间
+                    time_elem = contest.select_one('.text-center > a')
+                    if not time_elem:
+                        continue
+                    
+                    time_str = time_elem.text.strip()
+                    # 将比赛时间转换为带时区的datetime对象
+                    contest_time = datetime.datetime.strptime(time_str, "%Y-%m-%d %H:%M:%S%z").astimezone(self.timezone)
+    
+                    # 只获取未来一个月的比赛
+                    if contest_time < now or contest_time > one_month_later:
+                        continue
+    
+                    # 获取比赛名称和链接
+                    title_elem = contest.select_one('td:nth-child(2) > a')
+                    if not title_elem:
+                        continue
+    
+                    title = title_elem.text.strip()
+                    contest_url = f"https://atcoder.jp{title_elem['href']}"
+    
+                    # 获取比赛时长
+                    duration_elem = contest.select_one('td:nth-child(3)')
+                    if not duration_elem:
+                        continue
+    
+                    duration_str = duration_elem.text.strip()
+                    duration_parts = duration_str.split(':')
+                    if len(duration_parts) != 2:
+                        continue
+    
+                    hours = int(duration_parts[0])
+                    minutes = int(duration_parts[1])
+                    duration = f"{hours}小时{minutes}分钟"
+    
+                    future_contests.append({
+                        'platform': 'AtCoder',
+                        'name': title,
+                        'start_time': contest_time.strftime('%Y-%m-%d %H:%M:%S'),
+                        'duration': duration,
+                        'url': contest_url
+                    })
+    
+                except Exception as e:
+                    print(f"Error processing AtCoder contest: {e}")
+                    continue
+    
+            print(f"Found {len(future_contests)} future AtCoder contests")
+            return future_contests
+    
+        except Exception as e:
+            print(f"Error fetching AtCoder contests: {e}")
+            return []
     def fetch_all_contests(self):
         """
         获取所有平台的比赛信息并合并
@@ -498,10 +579,11 @@ class ContestFetcher:
         codeforces_contests = self.fetch_codeforces_contests()
         leetcode_contests = self.fetch_leetcode_contests()
         nowcoder_contests = self.fetch_nowcoder_contests()
-        jisuanke_contests = self.fetch_jisuanke_contests()
+        #jisuanke_contests = self.fetch_jisuanke_contests()
         luogu_contests = self.fetch_luogu_contests()
+        atcoder_contests = self.fetch_atcoder_contests()
         
-        all_contests = codeforces_contests + leetcode_contests + nowcoder_contests + jisuanke_contests + luogu_contests
+        all_contests = codeforces_contests + leetcode_contests + nowcoder_contests + luogu_contests + atcoder_contests
         
         # 按开始时间排序
         all_contests.sort(key=lambda x: x['start_time'], reverse=True)
