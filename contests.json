@@ -1,0 +1,145 @@
+{
+  "last_updated": "2025-03-26 15:26:21",
+  "contests": [
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 3)",
+      "start_time": "2025-04-08 22:35:00",
+      "duration": "2小时15分钟",
+      "url": "https://codeforces.com/contest/2093"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Kotlin Heroes: Episode 12",
+      "start_time": "2025-04-07 22:35:00",
+      "duration": "2小时30分钟",
+      "url": "https://codeforces.com/contest/2087"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
+      "start_time": "2025-04-05 22:35:00",
+      "duration": "3小时0分钟",
+      "url": "https://codeforces.com/contest/2084"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Educational Codeforces Round 177 (Rated for Div. 2)",
+      "start_time": "2025-04-03 22:35:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2086"
+    },
+    {
+      "platform": "洛谷",
+      "name": "【LGR-(-25)】2025 年洛谷愚人节比赛",
+      "start_time": "2025-04-03 18:00:00",
+      "duration": "72小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/231658"
+    },
+    {
+      "platform": "洛谷",
+      "name": "RMI 2019 Day 1 Unofficial Mirror",
+      "start_time": "2025-04-01 14:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/237211"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Kotlin Heroes: Practice 12",
+      "start_time": "2025-03-31 21:35:00",
+      "duration": "168小时0分钟",
+      "url": "https://codeforces.com/contest/2088"
+    },
+    {
+      "platform": "牛客网",
+      "name": "牛客周赛 Round 87",
+      "start_time": "2025-03-30 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/1105623"
+    },
+    {
+      "platform": "牛客网",
+      "name": "2025年华为杯广东工业大学程序设计竞赛（同步赛）",
+      "start_time": "2025-03-30 13:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/1106333"
+    },
+    {
+      "platform": "洛谷",
+      "name": "【MX-X10】梦熊 X 组 · 章鱼赛 & LSOT Round 4（同步赛）",
+      "start_time": "2025-03-30 13:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/237310"
+    },
+    {
+      "platform": "洛谷",
+      "name": "【MX-J12】梦熊 J 组 · 章鱼赛 & LSOT Round 4（同步赛）",
+      "start_time": "2025-03-30 13:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/237311"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 443",
+      "start_time": "2025-03-30 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-443"
+    },
+    {
+      "platform": "牛客网",
+      "name": "2025年贵州工程应用技术学院团体天梯赛（同步赛）",
+      "start_time": "2025-03-30 09:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/1103975"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Round 1014 (Div. 2)",
+      "start_time": "2025-03-29 22:35:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2092"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Biweekly Contest 153",
+      "start_time": "2025-03-29 22:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/biweekly-contest-153"
+    },
+    {
+      "platform": "洛谷",
+      "name": "【LGR-219-Div.2】洛谷蓝桥杯模拟赛 & 洛谷算法基础赛 #3",
+      "start_time": "2025-03-29 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/236568"
+    },
+    {
+      "platform": "牛客网",
+      "name": "广州大学第十九届ACM大学生程序设计竞赛（同步赛）",
+      "start_time": "2025-03-29 13:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/1104870"
+    },
+    {
+      "platform": "牛客网",
+      "name": "牛客小白月赛113",
+      "start_time": "2025-03-28 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/1105825"
+    },
+    {
+      "platform": "洛谷",
+      "name": "KTSC 2025 R2 Unofficial Mirror",
+      "start_time": "2025-03-27 14:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/235972"
+    },
+    {
+      "platform": "牛客网",
+      "name": "长江大学第二届CCPC/ICPC校赛",
+      "start_time": "2025-03-27 13:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/1106310"
+    }
+  ]
+}
