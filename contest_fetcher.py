@@ -243,7 +243,6 @@ class ContestFetcher:
                     duration_seconds = (end_time - contest_time).total_seconds()
                     hours = int(duration_seconds // 3600)
                     minutes = int((duration_seconds % 3600) // 60)
-                    
                     # 如果比赛时间在未来一个月内
                     if contest_time >= now and contest_time <= one_month_later:
                         future_contests.append({
@@ -251,7 +250,7 @@ class ContestFetcher:
                             'name': contest.get('contestName', 'Unknown Contest'),
                             'start_time': contest_time.strftime('%Y-%m-%d %H:%M:%S'),
                             'duration': f"{hours}小时{minutes}分钟",
-                            'url': f"https://ac.nowcoder.com/acm/contest/{contest.get('contestId')}"
+                            'url': contest.get('link','https://ac.nowcoder.com/acm/contest/vip-index')
                         })
                 except Exception as e:
                     print(f"Error processing Nowcoder contest: {e}")
