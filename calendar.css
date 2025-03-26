@@ -1,0 +1,44 @@
+.fc-event-content {
+    padding: 8px;
+    border-radius: 4px;
+    margin: 2px;
+}
+
+.platform-tag {
+    font-size: 0.8em;
+    padding: 2px 5px;
+    border-radius: 3px;
+    margin-bottom: 3px;
+    display: inline-block;
+}
+
+.event-title {
+    font-size: 0.9em;
+    margin-top: 3px;
+}
+
+.view-switcher {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.nav-link {
+    padding: 8px 16px;
+    margin: 0 5px;
+    border-radius: 4px;
+    background-color: #e0e0e0;
+    color: #333;
+    text-decoration: none;
+}
+
+.nav-link.active {
+    background-color: #1976d2;
+    color: white;
+}
+
+#calendar {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
