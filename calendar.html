@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/themes/light.css">
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.js"></script>
     <link rel="stylesheet" href="calendar.css">
+    <link rel="stylesheet" href="platform-tag.css">
 </head>
 <body>
     <div id="app" class="container">
@@ -78,7 +79,7 @@
                 },
                 renderEventContent(eventInfo) {
                     return {
-                        html: `<div class="fc-event-content" title="${eventInfo.event.title}">
+                        html: `<div class="fc-event-content">
                             <div class="platform-tag ${eventInfo.event.extendedProps.platform.toLowerCase()}">
                                 ${eventInfo.event.extendedProps.platform}
                             </div>
