@@ -45,74 +45,41 @@
         }
         .contest-card {
             background: white;
-            border-radius: 4px;
-            padding: 16px;
-            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
-            border: 1px solid #ebeef5;
-            transition: all 0.3s;
-            margin-bottom: 12px;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
         }
         .contest-card:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 4px 12px rgba(0,0,0,0.12);
-        }
-        .date-header {
-            font-size: 16px;
-            color: #303133;
-            font-weight: 500;
-            margin: 20px 0 12px;
-            padding-bottom: 8px;
-            border-bottom: 1px solid #e4e7ed;
-        }
-        .calendar-view {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 24px;
+            transform: translateY(-2px);
         }
         .platform-tag {
-            display: inline-flex;
-            align-items: center;
-            padding: 3px 8px;
-            border-radius: 12px;
-            font-size: 12px;
-            margin-bottom: 8px;
-            gap: 4px;
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.9em;
+            margin-bottom: 10px;
+        }
+        .platform-tag.codeforces {
+            background-color: #1e88e5;
+            color: white;
+        }
+        .platform-tag.leetcode {
+            background-color: #ffa726;
+            color: white;
+        }
+        .platform-tag.nowcoder {
+            background-color: #25c6fc;
+            color: white;
+        }
+        .platform-tag.luogu {
+            background-color: #5eb95e;
+            color: white;
         }
         .contest-name {
-            font-size: 14px;
-            color: #31445E;
-            margin-bottom: 8px;
-            font-weight: 600;
-        }
-        .contest-time {
-            display: flex;
-            gap: 15px;
-            margin: 12px 0;
-            align-items: center;
-        }
-        .time-item {
-            display: flex;
-            align-items: center;
-            gap: 6px;
-            font-size: 13px;
-        }
-        .time-icon {
-            color: #666;
-            font-size: 14px;
-        }
-        .start-time {
-            color: #2c3e50;
-            font-weight: 500;
-        }
-        .duration {
-            color: #e67e22;
-        }
-        @media (max-width: 480px) {
-            .contest-time {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 8px;
-            }
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 10px;
         }
         .contest-time, .contest-duration {
             color: #666;
@@ -134,7 +101,6 @@
             font-size: 0.9em;
         }
     </style>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
     <div id="app" class="container">
@@ -153,24 +119,19 @@
             </button>
         </div>
 
-        <div class="calendar-view">
-            <div v-for="group in filteredContests" :key="group.date" class="date-group">
-                <div class="date-header">{{ group.date }}</div>
-                <div class="contest-grid">
-                    <div v-for="contest in group.items" class="contest-card">
-                        <div :class="['platform-tag', contest.platform.toLowerCase()]">
-                            <i v-if="contest.platform === '牛客网'" class="fas fa-bullseye"></i>
-                            <i v-if="contest.platform === 'Codeforces'" class="fab fa-codepen"></i>
-                            <i v-if="contest.platform === 'LeetCode'" class="fas fa-free-code-camp"></i>
-                            <i v-if="contest.platform === '洛谷'" class="fas fa-code"></i>
-                            {{ contest.platform }}
-                        </div>
-                        <div class="contest-name">{{ contest.name }}</div>
-                        <div class="contest-time">开始时间：{{ contest.start_time }}</div>
-                        <div class="contest-duration">持续时间：{{ contest.duration }}</div>
-                        <a :href="contest.url" target="_blank" class="contest-link">查看详情 →</a>
-                    </div>
+        <div class="contest-grid">
+            <div 
+                v-for="contest in filteredContests" 
+                :key="contest.url" 
+                class="contest-card"
+            >
+                <div :class="['platform-tag', contest.platform.toLowerCase()]">
+                    {{ contest.platform }}
                 </div>
+                <div class="contest-name">{{ contest.name }}</div>
+                <div class="contest-time">开始时间：{{ contest.start_time }}</div>
+                <div class="contest-duration">持续时间：{{ contest.duration }}</div>
+                <a :href="contest.url" target="_blank" class="contest-link">查看详情 →</a>
             </div>
         </div>
 
@@ -193,18 +154,12 @@
             },
             computed: {
                 filteredContests() {
-                    const groups = {};
-                    this.contests.forEach(contest => {
-                        const date = new Date(contest.start_time).toLocaleDateString('zh-CN', { month: 'numeric', day: 'numeric' });
-                        if (!groups[date]) groups[date] = [];
-                        groups[date].push(contest);
-                    });
-                    return Object.entries(groups).map(([date, items]) => ({
-                        date,
-                        items: this.selectedPlatform === 'all' 
-                            ? items 
-                            : items.filter(c => c.platform === this.selectedPlatform)
-                    }));
+                    if (this.selectedPlatform === 'all') {
+                        return this.contests
+                    }
+                    return this.contests.filter(contest => 
+                        contest.platform === this.selectedPlatform
+                    )
                 }
             },
             mounted() {
@@ -226,124 +181,3 @@
     </script>
 </body>
 </html>
-.contest-card {
-  cursor: pointer;
-  position: relative;
-  overflow: hidden;
-}
-.contest-card::after {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(45deg, rgba(255,255,255,0.1), transparent);
-  opacity: 0;
-  transition: opacity 0.3s;
-}
-.contest-card:hover::after {
-  opacity: 0.2;
-}
-
-.date-header {
-  position: relative;
-  padding-left: 24px;
-  font-size: 18px;
-}
-.date-header::before {
-  content: '📅';
-  position: absolute;
-  left: 0;
-  top: -2px;
-}
-  margin-bottom: 16px;
-  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-}
-.contest-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 6px 16px -4px rgba(0,0,0,0.12);
-}
-.platform-tag {
-  border-radius: 16px;
-  font-weight: 500;
-}
-@media (max-width: 480px) {
-  .contest-card {
-    margin: 0 4px 12px;
-  }
-}
-.platform-tag {
-  padding: 4px 12px;
-  margin-bottom: 12px;
-}
-.platform-tag i {
-  margin-right: 8px;
-  font-size: 16px;
-  vertical-align: middle;
-}
-@media (max-width: 480px) {
-  .platform-tag i {
-    font-size: 14px;
-    margin-right: 6px;
-  }
-}
-.platform-tag.leetcode {
-  background-color: #ffac44;
-  color: white;
-}
-.platform-tag.leetcode i {
-  color: #fff;
-}
-.platform-tag.洛谷 i {
-  color: #fff;
-}
-@media (max-width: 480px) {
-  .contest-card {
-    padding: 16px;
-    margin: 0 8px 16px;
-  }
-  .contest-name {
-    font-size: 15px;
-  }
-}
-.platform-tag.codeforces {
-  background-color: #ff7a64;
-  color: white;
-}
-.platform-tag.leetcode {
-  background-color: #ffac44;
-  color: white;
-}
-.platform-tag.牛客网 {
-  background-color: #4d8ff0;
-  color: white;
-}
-.platform-tag.洛谷 {
-  background-color: #6c5ce7;
-  color: white;
-}
-@media (max-width: 768px) {
-  .calendar-view {
-    grid-template-columns: 1fr;
-  }
-}
-<div class="contest-time">
-  <div class="time-item">
-    <i class="fas fa-clock time-icon"></i>
-    <span class="start-time">{{ contest.start_time }}</span>
-  </div>
-  <div class="time-item">
-    <i class="fas fa-hourglass-half time-icon"></i>
-    <span class="duration">{{ contest.duration }}</span>
-  </div>
-</div>
-.platform-tag.洛谷 {
-  background-color: #6c5ce7;
-  color: white;
-}
-@media (max-width: 768px) {
-  .calendar-view {
-    grid-template-columns: 1fr;
-  }
-}
