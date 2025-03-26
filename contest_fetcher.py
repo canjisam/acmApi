@@ -357,7 +357,7 @@ class ContestFetcher:
                             continue
                         
                         title = title_elem.text.strip()
-                        contest_id = title_elem['href'].split('/')[-1]
+                        contest_id = str(title_elem['href']).split('/')[-1]
                         
                         # 获取比赛时间信息
                         time_elems = item.select('.lg-inline-up')
