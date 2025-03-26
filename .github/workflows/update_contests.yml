@@ -24,7 +24,7 @@ jobs:
           pip install requests beautifulsoup4 pytz
 
       - name: Run contest fetcher
-        run: python acmApi/contest_fetcher.py
+        run: python contest_fetcher.py
 
       - name: Commit and push if changed
         run: |
