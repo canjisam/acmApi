@@ -1,12 +1,18 @@
 # ACM比赛信息获取器
 
-这个项目用于自动获取并更新未来一个月的Codeforces和LeetCode比赛信息。
+这个项目用于自动获取并更新未来一个月的编程竞赛信息，支持多个主流竞赛平台，并提供列表和日历两种查看方式。
 
 ## 功能特点
 
-- 自动获取Codeforces未来一个月的比赛信息
-- 自动获取LeetCode未来一个月的比赛信息
-- 将比赛信息保存为JSON格式
+- 支持多个主流竞赛平台：
+  - Codeforces
+  - LeetCode
+  - 牛客网
+  - 洛谷
+- 提供两种比赛信息展示方式：
+  - 列表视图：按时间顺序展示所有比赛
+  - 日历视图：在日历上直观显示比赛安排
+- 支持按平台筛选比赛信息
 - 通过GitHub Actions自动每日更新数据
 - 提供统一的API接口获取比赛信息
 
@@ -26,10 +32,14 @@ all_contests = api.get_all_contests()
 # 获取指定平台的比赛信息
 codeforces_contests = api.get_contests_by_platform('Codeforces')
 leetcode_contests = api.get_contests_by_platform('LeetCode')
+nowcoder_contests = api.get_contests_by_platform('NowCoder')
+luogu_contests = api.get_contests_by_platform('Luogu')
 
 # 也可以直接调用特定平台的方法
 codeforces_contests = api.get_codeforces_contests()
 leetcode_contests = api.get_leetcode_contests()
+nowcoder_contests = api.get_nowcoder_contests()
+luogu_contests = api.get_luogu_contests()
 ```
 
 ## 数据格式
@@ -53,37 +63,35 @@ leetcode_contests = api.get_leetcode_contests()
       "start_time": "2023-10-21 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-xxx"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2023牛客挑战赛XXX",
+      "start_time": "2023-10-22 19:00:00",
+      "duration": "2小时",
+      "url": "https://ac.nowcoder.com/acm/contest/xxx"
+    },
+    {
+      "platform": "Luogu",
+      "name": "洛谷XXX月月赛",
+      "start_time": "2023-10-23 14:00:00",
+      "duration": "3小时",
+      "url": "https://www.luogu.com.cn/contest/xxx"
     }
   ]
 }
 ```
 
-## 本地运行
+## 界面使用说明
 
-如果你想在本地运行脚本，请按照以下步骤操作：
+### 视图切换
+- 列表视图：以卡片形式展示所有比赛信息
+- 日历视图：在日历上标注比赛日期，方便查看每天的比赛安排
 
-1. 安装依赖：
+### 平台筛选
+- 可以选择特定平台查看其比赛信息
+- 点击"全部"显示所有平台的比赛
 
-```bash
-pip install requests beautifulsoup4 pytz
-```
-
-2. 运行脚本：
-
-```bash
-python contest_fetcher.py
-```
-
-脚本会在当前目录下生成`contests.json`文件。
-
-## GitHub Actions自动更新
-
-本项目已配置GitHub Actions工作流，会在每天UTC时间0点（北京时间8点）自动运行脚本并更新数据。
-
-你也可以在GitHub仓库页面手动触发工作流运行。
-
-## 依赖库
-
-- requests: 用于发送HTTP请求
-- beautifulsoup4: 用于解析HTML页面
-- pytz: 用于处理时区信息
+### 日历导航
+在日历视图中：
+- 可以通过"上个月
