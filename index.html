@@ -1,44 +1,39 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>编程竞赛日历</title>
+    <script src="global.js"></script>
+    
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-   
+
     <link rel="stylesheet" href="calendar.css">
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="platform-tag.css">
-
 </head>
+
 <body>
     <div id="app" class="container">
         <div class="header">
             <h1>编程竞赛日历</h1>
         </div>
-        
+
         <nav class="view-switcher">
             <a href="index.html" class="nav-link active">列表视图</a>
             <a href="calendar.html" class="nav-link">日历视图</a>
         </nav>
-        
+
         <div class="filters">
-            <button 
-                v-for="platform in platforms" 
-                :key="platform"
-                :class="['filter-btn', { active: selectedPlatform === platform }]"
-                @click="selectedPlatform = platform"
-            >
+            <button v-for="platform in platforms" :key="platform"
+                :class="['filter-btn', { active: selectedPlatform === platform }]" @click="selectedPlatform = platform">
                 {{ platform === 'all' ? '全部' : platform }}
             </button>
         </div>
 
         <div class="contest-grid">
-            <div 
-                v-for="contest in filteredContests.slice().reverse()" 
-                :key="contest.url" 
-                class="contest-card"
-            >
+            <div v-for="contest in filteredContests.slice().reverse()" :key="contest.url" class="contest-card">
                 <div :class="['platform-tag', contest.platform.toLowerCase()]">
                     {{ contest.platform }}
                 </div>
@@ -62,7 +57,7 @@
                 return {
                     contests: [],
                     selectedPlatform: 'all',
-                    platforms: ['all', 'Codeforces', 'LeetCode', 'NowCoder', 'luogu','AtCoder'],
+                    platforms: ['all', 'Codeforces', 'LeetCode', 'NowCoder', 'luogu', 'AtCoder'],
                     updateTime: ''
                 }
             },
@@ -71,7 +66,7 @@
                     if (this.selectedPlatform === 'all') {
                         return this.contests.sort((a, b) => new Date(b.start_time) - new Date(a.start_time))
                     }
-                    return this.contests.filter(contest => 
+                    return this.contests.filter(contest =>
                         contest.platform === this.selectedPlatform
                     ).sort((a, b) => new Date(b.start_time) - new Date(a.start_time))
                 }
@@ -94,4 +89,5 @@
         }).mount('#app')
     </script>
 </body>
+
 </html>

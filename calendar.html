@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>竞赛日历视图</title>
+    <script src="global.js"></script>
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <script src="https://unpkg.com/@popperjs/core@2"></script>
     <script src="https://unpkg.com/tippy.js@6"></script>
@@ -12,6 +14,7 @@
     <link rel="stylesheet" href="calendar.css">
     <link rel="stylesheet" href="platform-tag.css">
 </head>
+
 <body>
     <div id="app" class="container">
         <nav class="view-switcher">
@@ -81,9 +84,8 @@
                     return {
                         html: `<div class="fc-event-content">
                             <div class="platform-tag ${eventInfo.event.extendedProps.platform.toLowerCase()}">
-                                ${eventInfo.event.extendedProps.platform}
+                                ${eventInfo.event.extendedProps.platform} <div class="event-title">${eventInfo.event.title}</div>
                             </div>
-                            <div class="event-title">${eventInfo.event.title}</div>
                         </div>`
                     }
                 },
@@ -94,4 +96,5 @@
         }).mount('#app')
     </script>
 </body>
+
 </html>

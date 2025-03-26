@@ -35,7 +35,7 @@ class ContestFetcher:
         contests = data.get('result', [])
         
         # 获取当前时间和一个月后的时间
-        now = datetime.datetime.now()
+        now = datetime.datetime.now() - datetime.timedelta(days = 15)
         one_month_later = now + datetime.timedelta(days=30)
         now_timestamp = int(now.timestamp())
         one_month_later_timestamp = int(one_month_later.timestamp())
@@ -92,7 +92,7 @@ class ContestFetcher:
             contests = data.get('data', {}).get('allContests', [])
             
             # 获取当前时间和一个月后的时间
-            now = datetime.datetime.now()
+            now = datetime.datetime.now() - datetime.timedelta(days = 15)
             one_month_later = now + datetime.timedelta(days=30)
             now_timestamp = int(now.timestamp())
             one_month_later_timestamp = int(one_month_later.timestamp())
@@ -144,7 +144,7 @@ class ContestFetcher:
             contest_cards = soup.select('.contest-card')
             
             # 获取当前时间和一个月后的时间
-            now = datetime.datetime.now()
+            now = datetime.datetime.now() - datetime.timedelta(days = 15)
             one_month_later = now + datetime.timedelta(days=30)
             
             future_contests = []
@@ -223,7 +223,7 @@ class ContestFetcher:
             calendar_data = response.json().get('data', [])
             
             # 获取当前时间和一个月后的时间
-            now = datetime.datetime.now()
+            now = datetime.datetime.now() - datetime.timedelta(days = 15)
             one_month_later = now + datetime.timedelta(days=30)
             
             future_contests = []
