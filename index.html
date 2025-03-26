@@ -155,11 +155,11 @@
             computed: {
                 filteredContests() {
                     if (this.selectedPlatform === 'all') {
-                        return this.contests
+                        return this.contests.sort((a, b) => new Date(b.start_time) - new Date(a.start_time))
                     }
                     return this.contests.filter(contest => 
                         contest.platform === this.selectedPlatform
-                    )
+                    ).sort((a, b) => new Date(b.start_time) - new Date(a.start_time))
                 }
             },
             mounted() {

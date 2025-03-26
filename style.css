@@ -63,10 +63,14 @@ body {
 .platform-tag.nowcoder {
     background-color: #25c6fc;
     color: white;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 .platform-tag.luogu {
     background-color: #5eb95e;
     color: white;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 .contest-name {
     font-size: 1.2em;
