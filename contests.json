@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "last_updated": "2025-03-26 19:34:31",
-=======
-  "last_updated": "2025-03-26 19:18:23",
->>>>>>> 2c548e1e71d60d1f66c7638a94481191d8178f16
+  "last_updated": "2025-03-26 19:38:32",
   "contests": [
     {
       "platform": "AtCoder",
@@ -83,7 +79,6 @@
       "url": "https://codeforces.com/contest/2088"
     },
     {
-<<<<<<< HEAD
       "platform": "AtCoder",
       "name": "AtCoder Grand Contest 071",
       "start_time": "2025-03-30 20:00:00",
@@ -91,24 +86,7 @@
       "url": "https://atcoder.jp/contests/agc071"
     },
     {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 87",
-      "start_time": "2025-03-30 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/105623?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025年华为杯广东工业大学程序设计竞赛（同步赛）",
-      "start_time": "2025-03-30 13:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/106333?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
-=======
-      "platform": "洛谷",
->>>>>>> 2c548e1e71d60d1f66c7638a94481191d8178f16
       "name": "【MX-X10】梦熊 X 组 · 章鱼赛 & LSOT Round 4（同步赛）",
       "start_time": "2025-03-30 13:30:00",
       "duration": "4小时30分钟",
@@ -122,14 +100,21 @@
       "url": "https://www.luogu.com.cn/contest/237311"
     },
     {
-      "platform": "牛客网",
+      "platform": "NowCoder",
       "name": "牛客周赛 Round 87",
       "start_time": "2025-03-30 11:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/105623?from=acm_calendar"
     },
     {
-      "platform": "牛客网",
+      "platform": "LeetCode",
+      "name": "Weekly Contest 443",
+      "start_time": "2025-03-30 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-443"
+    },
+    {
+      "platform": "NowCoder",
       "name": "2025年华为杯广东工业大学程序设计竞赛（同步赛）",
       "start_time": "2025-03-30 05:30:00",
       "duration": "5小时0分钟",
@@ -150,7 +135,6 @@
       "url": "https://codeforces.com/contest/2092"
     },
     {
-<<<<<<< HEAD
       "platform": "LeetCode",
       "name": "Biweekly Contest 153",
       "start_time": "2025-03-29 22:30:00",
@@ -166,9 +150,6 @@
     },
     {
       "platform": "luogu",
-=======
-      "platform": "洛谷",
->>>>>>> 2c548e1e71d60d1f66c7638a94481191d8178f16
       "name": "【LGR-219-Div.2】洛谷蓝桥杯模拟赛 & 洛谷算法基础赛 #3",
       "start_time": "2025-03-29 14:00:00",
       "duration": "4小时0分钟",
@@ -182,18 +163,18 @@
       "url": "https://ac.nowcoder.com/acm/contest/104870?from=acm_calendar"
     },
     {
-      "platform": "NowCoder",
-      "name": "牛客小白月赛113",
-      "start_time": "2025-03-28 11:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/105825?from=acm_calendar"
-    },
-    {
       "platform": "AtCoder",
       "name": "THIRD PROGRAMMING CONTEST 2025（AtCoder Heuristic Contest 045）",
       "start_time": "2025-03-28 18:00:00",
       "duration": "240小时0分钟",
       "url": "https://atcoder.jp/contests/ahc045"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客小白月赛113",
+      "start_time": "2025-03-28 11:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/105825?from=acm_calendar"
     },
     {
       "platform": "luogu",
