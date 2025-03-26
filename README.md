@@ -8,6 +8,29 @@
 - 自动获取LeetCode未来一个月的比赛信息
 - 将比赛信息保存为JSON格式
 - 通过GitHub Actions自动每日更新数据
+- 提供统一的API接口获取比赛信息
+
+## API使用说明
+
+项目提供了统一的API接口用于获取比赛信息：
+
+```python
+from contest_api import ContestAPI
+
+# 创建API实例
+api = ContestAPI()
+
+# 获取所有平台的比赛信息
+all_contests = api.get_all_contests()
+
+# 获取指定平台的比赛信息
+codeforces_contests = api.get_contests_by_platform('Codeforces')
+leetcode_contests = api.get_contests_by_platform('LeetCode')
+
+# 也可以直接调用特定平台的方法
+codeforces_contests = api.get_codeforces_contests()
+leetcode_contests = api.get_leetcode_contests()
+```
 
 ## 数据格式
 
