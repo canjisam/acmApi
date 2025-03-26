@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>竞赛日历视图</title>
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+    <script src="https://unpkg.com/tippy.js@6"></script>
+    <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/themes/light.css">
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.js"></script>
     <link rel="stylesheet" href="calendar.css">
 </head>
@@ -14,17 +17,6 @@
             <a href="index.html" class="nav-link">列表视图</a>
             <a href="calendar.html" class="nav-link active">日历视图</a>
         </nav>
-
-        <div class="filters">
-            <button 
-                v-for="platform in platforms" 
-                :key="platform"
-                :class="['filter-btn', { active: selectedPlatform === platform }]"
-                @click="selectedPlatform = platform"
-            >
-                {{ platform === 'all' ? '全部' : platform }}
-            </button>
-        </div>
 
         <div id="calendar"></div>
     </div>
@@ -36,8 +28,6 @@
             data() {
                 return {
                     contests: [],
-                    selectedPlatform: 'all',
-                    platforms: ['all', 'Codeforces', 'LeetCode', '牛客网', '洛谷'],
                     calendar: null
                 }
             },
@@ -59,21 +49,7 @@
                 initCalendar() {
                     this.calendar = new FullCalendar.Calendar(document.getElementById('calendar'), {
                         initialView: 'dayGridMonth',
-                        events: this.getCalendarEvents(),
-                        eventContent: this.renderEventContent,
-                        headerToolbar: {
-                            left: 'prev,next today',
-                            center: 'title',
-                            right: 'dayGridMonth,timeGridWeek'
-                        },
-                        eventClick: this.handleEventClick
-                    })
-                    this.calendar.render()
-                },
-                getCalendarEvents() {
-                    return this.contests
-                        .filter(contest => this.selectedPlatform === 'all' || contest.platform === this.selectedPlatform)
-                        .map(contest => ({
+                        events: this.contests.map(contest => ({
                             title: contest.name,
                             start: new Date(contest.start_time),
                             end: new Date(new Date(contest.start_time).getTime() + contest.duration * 60000),
@@ -81,11 +57,28 @@
                                 platform: contest.platform,
                                 url: contest.url
                             }
-                        }))
+                        })),
+                        eventContent: this.renderEventContent,
+                        headerToolbar: {
+                            left: 'prev,next today',
+                            center: 'title',
+                            right: 'dayGridMonth,timeGridWeek'
+                        },
+                        eventDidMount: (info) => {
+                            tippy(info.el, {
+                                content: info.event.title,
+                                placement: 'top',
+                                theme: 'light',
+                                arrow: true
+                            });
+                        },
+                        eventClick: this.handleEventClick
+                    })
+                    this.calendar.render()
                 },
                 renderEventContent(eventInfo) {
                     return {
-                        html: `<div class="fc-event-content">
+                        html: `<div class="fc-event-content" title="${eventInfo.event.title}">
                             <div class="platform-tag ${eventInfo.event.extendedProps.platform.toLowerCase()}">
                                 ${eventInfo.event.extendedProps.platform}
                             </div>

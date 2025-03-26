@@ -39,10 +39,29 @@
 }
 
 .fc-event-content {
-    padding: 10px;
-    border-radius: 6px;
-    margin: 3px;
-    font-size: 0.95em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.fc-event-content:hover {
+    white-space: normal;
+    overflow: visible;
+    position: absolute;
+    z-index: 9999;
+    background: white;
+    padding: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.platform-tag {
+    margin-right: 5px;
+}
+
+.event-title {
+    display: inline-block;
+    max-width: 200px;
 }
 
 @media (max-width: 768px) {
@@ -85,4 +104,21 @@
     .calendar-grid {
         grid-gap: 0.8rem;
     }
+}
+.fc-event-content {
+    pointer-events: auto !important;
+    cursor: pointer;
+    position: relative;
+    z-index: 9999;
+}
+
+.platform-tag {
+    pointer-events: none;
+    user-select: none;
+}
+
+.event-title {
+    pointer-events: auto;
+    position: relative;
+    z-index: 2;
 }

@@ -243,6 +243,7 @@ class ContestFetcher:
                     duration_seconds = (end_time - contest_time).total_seconds()
                     hours = int(duration_seconds // 3600)
                     minutes = int((duration_seconds % 3600) // 60)
+                    
                     # 如果比赛时间在未来一个月内
                     if contest_time >= now and contest_time <= one_month_later:
                         future_contests.append({
@@ -262,7 +263,98 @@ class ContestFetcher:
         except Exception as e:
             print(f"Error fetching Nowcoder contests: {e}")
             return []
-   
+    
+    def fetch_jisuanke_contests(self):
+        """
+        获取计蒜客比赛信息
+        """
+        print("Fetching Jisuanke contests...")
+        url = "https://www.jisuanke.com/contest"
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+            'Referer': 'https://www.jisuanke.com/'
+        }
+        
+        try:
+            response = requests.get(url, headers=headers)
+            response.raise_for_status()
+            
+            soup = BeautifulSoup(response.text, 'html.parser')
+            contest_items = soup.select('.contest-item')
+            
+            # 获取当前时间和一个月后的时间
+            now = datetime.datetime.now()
+            one_month_later = now + datetime.timedelta(days=30)
+            
+            future_contests = []
+            
+            for item in contest_items:
+                try:
+                    # 获取比赛名称
+                    title_elem = item.select_one('.contest-name')
+                    if not title_elem:
+                        continue
+                    
+                    title = title_elem.text.strip()
+                    
+                    # 获取比赛时间信息
+                    time_elem = item.select_one('.contest-time')
+                    if not time_elem:
+                        continue
+                    
+                    time_text = time_elem.text.strip()
+                    
+                    # 尝试解析时间，计蒜客时间格式可能为 "比赛时间：2023-10-21 19:00 - 2023-10-21 21:00"
+                    try:
+                        # 提取开始时间
+                        start_time_match = re.search(r'(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2})', time_text)
+                        if not start_time_match:
+                            continue
+                            
+                        start_time_str = start_time_match.group(1)
+                        contest_time = datetime.datetime.strptime(start_time_str, "%Y-%m-%d %H:%M")
+                        
+                        # 提取结束时间以计算持续时间
+                        end_time_match = re.search(r'-\s*(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2})', time_text)
+                        if end_time_match:
+                            end_time_str = end_time_match.group(1)
+                            end_time = datetime.datetime.strptime(end_time_str, "%Y-%m-%d %H:%M")
+                            duration_seconds = (end_time - contest_time).total_seconds()
+                            hours = int(duration_seconds // 3600)
+                            minutes = int((duration_seconds % 3600) // 60)
+                            duration = f"{hours}小时{minutes}分钟"
+                        else:
+                            duration = "2小时0分钟"  # 默认2小时
+                        
+                        # 如果比赛时间在未来一个月内
+                        if contest_time >= now and contest_time <= one_month_later:
+                            # 获取比赛链接
+                            link_elem = item.select_one('a')
+                            url = f"https://www.jisuanke.com{link_elem['href']}" if link_elem and 'href' in link_elem.attrs else "https://www.jisuanke.com/contest"
+                            
+                            future_contests.append({
+                                'platform': '计蒜客',
+                                'name': title,
+                                'start_time': contest_time.strftime('%Y-%m-%d %H:%M:%S'),
+                                'duration': duration,
+                                'url': url
+                            })
+                    except Exception as e:
+                        print(f"Error parsing Jisuanke contest time: {e}")
+                        continue
+                        
+                except Exception as e:
+                    print(f"Error processing Jisuanke contest item: {e}")
+                    continue
+            
+            print(f"Found {len(future_contests)} future Jisuanke contests")
+            return future_contests
+            
+        except Exception as e:
+            print(f"Error fetching Jisuanke contests: {e}")
+            return []
     
     def fetch_luogu_contests(self):
         """
@@ -356,7 +448,7 @@ class ContestFetcher:
                             continue
                         
                         title = title_elem.text.strip()
-                        contest_id = str(title_elem['href']).split('/')[-1]
+                        contest_id = title_elem['href'].split('/')[-1]
                         
                         # 获取比赛时间信息
                         time_elems = item.select('.lg-inline-up')
@@ -406,9 +498,10 @@ class ContestFetcher:
         codeforces_contests = self.fetch_codeforces_contests()
         leetcode_contests = self.fetch_leetcode_contests()
         nowcoder_contests = self.fetch_nowcoder_contests()
+        jisuanke_contests = self.fetch_jisuanke_contests()
         luogu_contests = self.fetch_luogu_contests()
         
-        all_contests = codeforces_contests + leetcode_contests + nowcoder_contests  + luogu_contests
+        all_contests = codeforces_contests + leetcode_contests + nowcoder_contests + jisuanke_contests + luogu_contests
         
         # 按开始时间排序
         all_contests.sort(key=lambda x: x['start_time'], reverse=True)

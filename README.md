@@ -14,7 +14,14 @@
 - Codeforces
 - LeetCode
 - 牛客网
+  - 牛客网是国内知名的编程竞赛平台，提供多种编程竞赛和面试题库。
+  - 官网地址: https://www.nowcoder.com
 - 洛谷
+  - 洛谷是国内知名的算法竞赛平台，提供丰富的竞赛和题库资源。
+  - 官网地址: https://www.luogu.com.cn
+- AtCoder
+  - AtCoder是日本知名的编程竞赛平台，定期举办多种竞赛。
+  - 官网地址: https://atcoder.jp
 
 ## 使用说明
 
@@ -24,7 +31,8 @@
 
 ## 自动更新机制
 
-- 每小时自动更新竞赛信息
+- 每小时自动从各平台API获取最新竞赛信息
+- 更新内容包括竞赛时间、名称、链接等信息
 
 ## 网页地址
 [https://canjisam.github.io/acmApi/](https://canjisam.github.io/acmApi/)
