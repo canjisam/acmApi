@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "last_updated": "2025-03-26 19:34:31",
+=======
+  "last_updated": "2025-03-26 19:18:23",
+>>>>>>> 2c548e1e71d60d1f66c7638a94481191d8178f16
   "contests": [
     {
       "platform": "AtCoder",
@@ -79,6 +83,7 @@
       "url": "https://codeforces.com/contest/2088"
     },
     {
+<<<<<<< HEAD
       "platform": "AtCoder",
       "name": "AtCoder Grand Contest 071",
       "start_time": "2025-03-30 20:00:00",
@@ -101,6 +106,9 @@
     },
     {
       "platform": "luogu",
+=======
+      "platform": "洛谷",
+>>>>>>> 2c548e1e71d60d1f66c7638a94481191d8178f16
       "name": "【MX-X10】梦熊 X 组 · 章鱼赛 & LSOT Round 4（同步赛）",
       "start_time": "2025-03-30 13:30:00",
       "duration": "4小时30分钟",
@@ -114,16 +122,23 @@
       "url": "https://www.luogu.com.cn/contest/237311"
     },
     {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 443",
-      "start_time": "2025-03-30 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-443"
+      "platform": "牛客网",
+      "name": "牛客周赛 Round 87",
+      "start_time": "2025-03-30 11:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/105623?from=acm_calendar"
+    },
+    {
+      "platform": "牛客网",
+      "name": "2025年华为杯广东工业大学程序设计竞赛（同步赛）",
+      "start_time": "2025-03-30 05:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/106333?from=acm_calendar"
     },
     {
       "platform": "NowCoder",
       "name": "2025年贵州工程应用技术学院团体天梯赛（同步赛）",
-      "start_time": "2025-03-30 09:00:00",
+      "start_time": "2025-03-30 01:00:00",
       "duration": "3小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/103975?from=acm_calendar"
     },
@@ -135,6 +150,7 @@
       "url": "https://codeforces.com/contest/2092"
     },
     {
+<<<<<<< HEAD
       "platform": "LeetCode",
       "name": "Biweekly Contest 153",
       "start_time": "2025-03-29 22:30:00",
@@ -150,6 +166,9 @@
     },
     {
       "platform": "luogu",
+=======
+      "platform": "洛谷",
+>>>>>>> 2c548e1e71d60d1f66c7638a94481191d8178f16
       "name": "【LGR-219-Div.2】洛谷蓝桥杯模拟赛 & 洛谷算法基础赛 #3",
       "start_time": "2025-03-29 14:00:00",
       "duration": "4小时0分钟",
@@ -158,14 +177,14 @@
     {
       "platform": "NowCoder",
       "name": "广州大学第十九届ACM大学生程序设计竞赛（同步赛）",
-      "start_time": "2025-03-29 13:30:00",
+      "start_time": "2025-03-29 05:30:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/104870?from=acm_calendar"
     },
     {
       "platform": "NowCoder",
       "name": "牛客小白月赛113",
-      "start_time": "2025-03-28 19:00:00",
+      "start_time": "2025-03-28 11:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/105825?from=acm_calendar"
     },
@@ -186,7 +205,7 @@
     {
       "platform": "NowCoder",
       "name": "长江大学第二届CCPC/ICPC校赛",
-      "start_time": "2025-03-27 13:00:00",
+      "start_time": "2025-03-27 05:00:00",
       "duration": "4小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/106310?from=acm_calendar"
     }
