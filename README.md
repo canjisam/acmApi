@@ -27,10 +27,8 @@
 - 每小时自动更新竞赛信息
 - 手动刷新页面可立即获取最新数据
 
-## 示例截图
-
-（此处添加日历视图和列表视图的截图）
-
+## 网页地址
+[https://canjisam.github.io/acmApi/](https://canjisam.github.io/acmApi/)
 ## 开发说明
 
 本项目基于Vue.js开发，数据源为contests.json文件。
