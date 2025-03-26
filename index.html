@@ -25,6 +25,7 @@
             display: flex;
             gap: 10px;
             justify-content: center;
+            flex-wrap: wrap;
         }
         .filter-btn {
             padding: 8px 16px;
@@ -37,6 +38,12 @@
         .filter-btn.active {
             background-color: #1976d2;
             color: white;
+        }
+        .view-controls {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 20px;
         }
         .contest-grid {
             display: grid;
@@ -100,6 +107,57 @@
             margin-top: 20px;
             font-size: 0.9em;
         }
+        .calendar {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .calendar-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .calendar-grid {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 10px;
+        }
+        .calendar-weekday {
+            text-align: center;
+            font-weight: bold;
+            padding: 10px;
+            color: #666;
+        }
+        .calendar-day {
+            min-height: 100px;
+            padding: 10px;
+            border: 1px solid #e0e0e0;
+            border-radius: 4px;
+        }
+        .calendar-day.other-month {
+            background-color: #f9f9f9;
+            color: #999;
+        }
+        .calendar-day-number {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .calendar-contest {
+            font-size: 0.8em;
+            padding: 2px 4px;
+            margin: 2px 0;
+            border-radius: 2px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            cursor: pointer;
+        }
+        .calendar-contest.codeforces { background-color: rgba(30, 136, 229, 0.2); }
+        .calendar-contest.leetcode { background-color: rgba(255, 167, 38, 0.2); }
+        .calendar-contest.nowcoder { background-color: rgba(37, 198, 252, 0.2); }
+        .calendar-contest.luogu { background-color: rgba(94, 185, 94, 0.2); }
     </style>
 </head>
 <body>
@@ -119,7 +177,23 @@
             </button>
         </div>
 
-        <div class="contest-grid">
+        <div class="view-controls">
+            <button 
+                :class="['filter-btn', { active: viewMode === 'list' }]"
+                @click="viewMode = 'list'"
+            >列表视图</button>
+            <button 
+                :class="['filter-btn', { active: viewMode === 'calendar' }]"
+                @click="viewMode = 'calendar'"
+            >日历视图</button>
+            <template v-if="viewMode === 'calendar'">
+                <button class="filter-btn" @click="previousMonth">上个月</button>
+                <span style="padding: 8px">{{ currentMonthText }}</span>
+                <button class="filter-btn" @click="nextMonth">下个月</button>
+            </template>
+        </div>
+
+        <div v-if="viewMode === 'list'" class="contest-grid">
             <div 
                 v-for="contest in filteredContests" 
                 :key="contest.url" 
@@ -135,49 +209,9 @@
             </div>
         </div>
 
-        <div class="update-time">
-            最后更新时间：{{ updateTime }}
-        </div>
-    </div>
-
-    <script>
-        const { createApp } = Vue
-
-        createApp({
-            data() {
-                return {
-                    contests: [],
-                    selectedPlatform: 'all',
-                    platforms: ['all', 'Codeforces', 'LeetCode', '牛客网', '洛谷'],
-                    updateTime: ''
-                }
-            },
-            computed: {
-                filteredContests() {
-                    if (this.selectedPlatform === 'all') {
-                        return this.contests
-                    }
-                    return this.contests.filter(contest => 
-                        contest.platform === this.selectedPlatform
-                    )
-                }
-            },
-            mounted() {
-                this.fetchContests()
-            },
-            methods: {
-                async fetchContests() {
-                    try {
-                        const response = await fetch('contests.json')
-                        const data = await response.json()
-                        this.contests = data.contests
-                        this.updateTime = new Date().toLocaleString('zh-CN')
-                    } catch (error) {
-                        console.error('Error fetching contests:', error)
-                    }
-                }
-            }
-        }).mount('#app')
-    </script>
-</body>
-</html>
+        <div v-else class="calendar">
+            <div class="calendar-grid">
+                <div v-for="weekday in weekdays" :key="weekday" class="calendar-weekday">
+                    {{ weekday }}
+                </div>
+                <div 
