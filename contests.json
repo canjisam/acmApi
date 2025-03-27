@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-27 09:47:17",
+  "last_updated": "2025-03-27 11:01:05",
   "contests": [
     {
       "platform": "AtCoder",
@@ -161,6 +161,13 @@
       "start_time": "2025-03-29 05:30:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/104870?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "湖北工业大学2025年ACM校赛（同步赛）",
+      "start_time": "2025-03-29 04:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/106269?from=acm_calendar"
     },
     {
       "platform": "AtCoder",
