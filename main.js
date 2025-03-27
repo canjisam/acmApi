@@ -64,7 +64,7 @@ function updateTitleTime() {
     // document.title = `当前日期${dateString} 时间${timeString}`;
     const headerTitle = document.querySelector('.header h1');
     if (headerTitle) {
-        headerTitle.textContent = `编程竞赛日历 - ${dateString} ${timeString}`;
+        headerTitle.textContent = `编程竞赛日历 \n - 当前时间 ${dateString} ${timeString}`;
     }
 }
 
@@ -73,66 +73,3 @@ window.onload = function() {
     updateTitleTime(); // 立即执行一次
     setInterval(updateTitleTime, 1000); // 每秒更新
 };
-
-// 点击事件统计
-window.addEventListener('click', function(event) {
-    console.log('点击事件:', event.target);
-    // 这里可以添加更多的统计逻辑，如发送数据到服务器
-});
-
-const ContextMenu = function (options) {
-  let instance;
-
-  function createMenu() {
-    const ul = document.createElement("ul");
-    ul.classList.add("custom-context-menu");
-    const { menus } = options;
-    if (menus && menus.length > 0) {
-      for (let menu of menus) {
-        const li = document.createElement("li");
-        li.textContent = menu.name;
-        li.onclick = menu.onClick;
-        ul.appendChild(li);
-      }
-    }
-    const body = document.querySelector("body");
-    body.appendChild(ul);
-    return ul;
-  }
-
-  return {
-    getInstance: function () {
-      if (!instance) {
-        instance = createMenu();
-      }
-      return instance;
-    },
-  };
-};
-
-const contextMenu = ContextMenu({
-  menus: [
-    {
-      name: "复制",
-      onClick: copyToClipboard
-    }
-  ]
-});
-
-function showMenu(e) {
-  const selection = window.getSelection().toString().trim();
-  if (!selection) return;
-  e.preventDefault();
-  const menus = contextMenu.getInstance();
-  menus.style.top = `${e.clientY}px`;
-  menus.style.left = `${e.clientX}px`;
-  menus.classList.remove("hidden");
-}
-
-function hideMenu(event) {
-  const menus = contextMenu.getInstance();
-  menus.classList.add("hidden");
-}
-
-document.addEventListener("contextmenu", showMenu);
-document.addEventListener("click", hideMenu);

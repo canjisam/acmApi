@@ -43,6 +43,8 @@ body {
  }
 
  .contest-card {
+    position: relative;
+
      background: white;
      border-radius: 8px;
      padding: 20px;
@@ -66,7 +68,24 @@ body {
      margin-bottom: 5px;
  }
 
- .contest-link {
+ .copy-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: rgba(255,255,255,0.9);
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px 8px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.copy-btn:hover {
+    background: #f0f0f0;
+    transform: scale(1.05);
+}
+
+.contest-link {
      display: inline-block;
      margin-top: 10px;
      color: #1976d2;
@@ -112,6 +131,8 @@ body {
      }
    
      .contest-card {
+    position: relative;
+
        margin: 0 8px 15px 8px;
        padding: 16px;
      }

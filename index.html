@@ -39,6 +39,7 @@
                     {{ contest.platform }}
                 </div>
                 <div class="contest-name">{{ contest.name }}</div>
+                <button class="copy-btn" @click="copyContestInfo(contest)" title="复制比赛信息">📋</button>
                 <div class="contest-time">开始时间：{{ contest.start_time }}</div>
                 <div class="contest-duration">持续时间：{{ contest.duration }}</div>
                 <a :href="contest.url" target="_blank" class="contest-link">查看详情 →</a>
@@ -78,6 +79,12 @@
                 this.fetchContests()
             },
             methods: {
+                copyContestInfo(contest) {
+                    const text = `${contest.name}\n开始时间：${contest.start_time}\n平台：${contest.platform}\n\n© 2025 canjisam. All rights reserved.`;
+                    navigator.clipboard.writeText(text)
+                        .then(() => alert('已复制比赛信息并添加版权声明'))
+                        .catch(err => console.error('复制失败:', err));
+                },
                 async fetchContests() {
                     try {
                         const response = await fetch('contests.json')
