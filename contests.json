@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-27 13:41:35",
+  "last_updated": "2025-03-27 14:31:02",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "BrainPad Programming Contest 2025 （AtCoder Heuristic Contest 046）",
+      "start_time": "2025-04-26 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://atcoder.jp/contests/ahc046"
+    },
     {
       "platform": "AtCoder",
       "name": "AtCoder Grand Contest 072",
