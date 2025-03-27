@@ -12,8 +12,7 @@ function hideMenu(event) {
 }
 
 document.removeEventListener("contextmenu", showMenu);
-document.addEventListener("click", hideMenu);
-
+document.removeEventListener("click", hideMenu);
 
 // 整合现有复制功能
 function copyToClipboard() {
@@ -27,6 +26,9 @@ function copyToClipboard() {
     document.body.removeChild(tempElem);
   }
 }
+
+// 绑定到系统默认复制事件
+document.addEventListener('copy', copyToClipboard);
 
 // 新增分享功能
 function sharePage() {
