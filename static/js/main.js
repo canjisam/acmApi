@@ -1,17 +1,19 @@
-// 隐藏菜单
-document.addEventListener('click', function() {
-  const menu = document.getElementById('custom-menu');
-  menu.style.display = 'none';
-});
-
-// 新增右键菜单逻辑
-const contextMenu = document.getElementById('custom-menu');
-document.addEventListener('contextmenu', (e) => {
+function showMenu(e) {
   e.preventDefault();
-  contextMenu.style.display = 'block';
-  contextMenu.style.left = `${e.clientX}px`;
-  contextMenu.style.top = `${e.clientY}px`;
-});
+  const menus = contextMenu.getInstance();
+  menus.style.top = `${e.clientY}px`;
+  menus.style.left = `${e.clientX}px`;
+  menus.classList.remove("hidden");
+}
+
+function hideMenu(event) {
+  const menus = contextMenu.getInstance();
+  menus.classList.add("hidden");
+}
+
+document.removeEventListener("contextmenu", showMenu);
+document.addEventListener("click", hideMenu);
+
 
 // 整合现有复制功能
 function copyToClipboard() {
@@ -75,3 +77,60 @@ window.addEventListener('click', function(event) {
     console.log('点击事件:', event.target);
     // 这里可以添加更多的统计逻辑，如发送数据到服务器
 });
+
+const ContextMenu = function (options) {
+  let instance;
+
+  function createMenu() {
+    const ul = document.createElement("ul");
+    ul.classList.add("custom-context-menu");
+    const { menus } = options;
+    if (menus && menus.length > 0) {
+      for (let menu of menus) {
+        const li = document.createElement("li");
+        li.textContent = menu.name;
+        li.onclick = menu.onClick;
+        ul.appendChild(li);
+      }
+    }
+    const body = document.querySelector("body");
+    body.appendChild(ul);
+    return ul;
+  }
+
+  return {
+    getInstance: function () {
+      if (!instance) {
+        instance = createMenu();
+      }
+      return instance;
+    },
+  };
+};
+
+const contextMenu = ContextMenu({
+  menus: [
+    {
+      name: "复制",
+      onClick: copyToClipboard
+    }
+  ]
+});
+
+function showMenu(e) {
+  const selection = window.getSelection().toString().trim();
+  if (!selection) return;
+  e.preventDefault();
+  const menus = contextMenu.getInstance();
+  menus.style.top = `${e.clientY}px`;
+  menus.style.left = `${e.clientX}px`;
+  menus.classList.remove("hidden");
+}
+
+function hideMenu(event) {
+  const menus = contextMenu.getInstance();
+  menus.classList.add("hidden");
+}
+
+document.addEventListener("contextmenu", showMenu);
+document.addEventListener("click", hideMenu);

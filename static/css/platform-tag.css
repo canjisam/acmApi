@@ -7,7 +7,7 @@
     font-size: 0.9em;
     margin-bottom: 10px;
     font-weight: bold;
-    text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
     background-repeat: no-repeat;
     background-position: 8px center;
     background-size: 20px;
@@ -46,4 +46,60 @@
     color: white;
     box-shadow: 0 2px 4px rgba(155, 77, 202, 0.3);
     background-image: url('/static/icons/atcoder.png');
+}
+
+.custom-context-menu {
+
+    position: fixed;
+
+    border: 1px solid #ccc;
+
+    list-style: none;
+
+    padding: 4px 0;
+
+    border-radius: 4px;
+
+    box-shadow: 0px 2px 6px 2px #ddd;
+
+    &.hidden {
+
+        display: none;
+
+    }
+
+    li {
+
+        padding: 8px 12px;
+
+        border-bottom: 1px solid #f0f2f5;
+
+        user-select: none;
+
+        transition: all 0.1s;
+
+        &:last-child {
+
+            border-bottom: none;
+
+        }
+
+        &:hover {
+
+            cursor: pointer;
+
+            background-color: #0170fe;
+
+            color: #fff;
+
+        }
+
+        &:active {
+
+            background-color: #f0f2f7;
+
+        }
+
+    }
+
 }
