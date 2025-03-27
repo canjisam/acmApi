@@ -8,11 +8,18 @@
 - 日历视图与列表视图切换
 - 自动更新竞赛信息
 - 平台筛选功能
+- 移动端适配（响应式布局）
+- 竞赛点击量统计功能
+- 版权保护水印系统
 
 ## 支持平台
 
 - Codeforces
+  - Codeforces是全球最受欢迎的编程竞赛平台之一，提供高质量的算法比赛。
+  - 官网地址: https://codeforces.com
 - LeetCode
+  - LeetCode是著名的在线编程学习平台，提供大量编程题目和竞赛。
+  - 官网地址: https://leetcode.com
 - 牛客网
   - 牛客网是国内知名的编程竞赛平台，提供多种编程竞赛和面试题库。
   - 官网地址: https://www.nowcoder.com
@@ -31,12 +38,17 @@
 
 ## 自动更新机制
 
-- 每小时自动从各平台API获取最新竞赛信息
+- 每15分钟自动从各平台API获取最新竞赛信息
+- 数据缓存机制保障网络中断时的信息可用性
+- 更新失败时自动重试（最多3次）
 - 更新内容包括竞赛时间、名称、链接等信息
 
 ## 网页地址
 [https://canjisam.github.io/acmApi/](https://canjisam.github.io/acmApi/)
 ## 开发说明
 
-本项目基于Vue.js开发，数据源为contests.json文件。
+- 本项目使用Vue.js作为前端框架，结合FullCalendar库实现日历功能。
+- 使用Python脚本抓取竞赛信息，并将其存储在JSON文件中。
+- 主程序入口：main.js
+- 右键菜单样式：context-menu.css
 
