@@ -80,9 +80,9 @@
             },
             methods: {
                 copyContestInfo(contest) {
-                    const text = `${contest.name}\n开始时间：${contest.start_time}\n平台：${contest.platform}\n\n© 2025 canjisam. All rights reserved.`;
+                    const text = `${contest.name}\n开始时间：${contest.start_time}\n平台：${contest.platform}\n\n© 2025 canjisam. All rights reserved.\nSource: https://canjisam.github.io/acmApi/`;
                     navigator.clipboard.writeText(text)
-                        .then(() => alert('已复制比赛信息并添加版权声明'))
+                        .then(() => alert('已复制比赛信息'))
                         .catch(err => console.error('复制失败:', err));
                 },
                 async fetchContests() {
