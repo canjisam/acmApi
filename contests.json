@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-26 22:29:47",
+  "last_updated": "2025-03-27 11:10:18",
   "contests": [
     {
       "platform": "AtCoder",
@@ -164,6 +164,13 @@
     },
     {
       "platform": "NowCoder",
+      "name": "湖北工业大学2025年ACM校赛（同步赛）",
+      "start_time": "2025-03-29 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/106269?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
       "name": "牛客小白月赛113",
       "start_time": "2025-03-28 19:00:00",
       "duration": "2小时0分钟",
@@ -198,6 +205,13 @@
       "url": "https://ac.nowcoder.com/acm/contest/104637?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "【LGR-218-Div.2】洛谷 3 月月赛 I & ALFR Round 7",
+      "start_time": "2025-03-23 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/226817"
+    },
+    {
       "platform": "NowCoder",
       "name": "第二十一届西南科技大学ACM程序设计竞赛（同步赛）",
       "start_time": "2025-03-23 12:30:00",
@@ -226,6 +240,13 @@
       "url": "https://ac.nowcoder.com/acm/contest/105010?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "ZHQOI Round 1",
+      "start_time": "2025-03-22 14:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/210610"
+    },
+    {
       "platform": "NowCoder",
       "name": "华中师范大学-菜鸟杯程序设计竞赛",
       "start_time": "2025-03-22 10:35:00",
@@ -240,11 +261,39 @@
       "url": "https://ac.nowcoder.com/acm/contest/103957?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "KTSC 2025 R1 Unofficial Mirror",
+      "start_time": "2025-03-21 14:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/235971"
+    },
+    {
+      "platform": "luogu",
+      "name": "CrCPC 2024 Unofficial Mirror (teams preferred)",
+      "start_time": "2025-03-18 13:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/233144"
+    },
+    {
+      "platform": "luogu",
+      "name": "NHSPC 2023 Unofficial Mirror",
+      "start_time": "2025-03-17 14:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/235402"
+    },
+    {
       "platform": "NowCoder",
       "name": "牛客周赛 Round 85",
       "start_time": "2025-03-16 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/103948?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "PKOI Round 1",
+      "start_time": "2025-03-16 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/183510"
     },
     {
       "platform": "LeetCode",
@@ -254,6 +303,13 @@
       "url": "https://leetcode.com/contest/weekly-contest-441"
     },
     {
+      "platform": "luogu",
+      "name": "「LAOI」Easy Round 9",
+      "start_time": "2025-03-16 08:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/231098"
+    },
+    {
       "platform": "LeetCode",
       "name": "Biweekly Contest 152",
       "start_time": "2025-03-15 22:30:00",
@@ -261,11 +317,46 @@
       "url": "https://leetcode.com/contest/biweekly-contest-152"
     },
     {
+      "platform": "luogu",
+      "name": "XRCOI Round 1",
+      "start_time": "2025-03-15 14:00:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/221170"
+    },
+    {
+      "platform": "luogu",
+      "name": "NtF Round 2.5",
+      "start_time": "2025-03-15 09:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/218215"
+    },
+    {
       "platform": "NowCoder",
       "name": "牛客练习赛135",
       "start_time": "2025-03-14 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/103151?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-217-Div.4】洛谷入门赛 #33",
+      "start_time": "2025-03-14 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/235262"
+    },
+    {
+      "platform": "luogu",
+      "name": "RMI 2024 Day 2 Unofficial Mirror",
+      "start_time": "2025-03-14 14:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/235365"
+    },
+    {
+      "platform": "luogu",
+      "name": "RMI 2024 Day 1 Unofficial Mirror",
+      "start_time": "2025-03-13 14:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/235231"
     }
   ]
 }

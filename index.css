@@ -1,4 +1,4 @@
- body {
+body {
      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
      margin: 0;
      padding: 20px;
@@ -82,4 +82,41 @@
      color: #666;
      margin-top: 20px;
      font-size: 0.9em;
+ }
+
+ @media (max-width: 768px) {
+   .footer {
+     padding: 15px 0;
+     font-size: 0.8em;
+   }
+   .container {
+     padding: 10px;
+   }
+
+   .contest-grid {
+     grid-template-columns: 1fr;
+     gap: 15px;
+   }
+
+   .filters {
+     gap: 12px;
+     flex-wrap: wrap;
+   }
+
+   @media (max-width: 768px) {
+     .filter-btn {
+       padding: 12px 20px;
+       min-width: 110px;
+       margin: 6px;
+       font-size: 0.9em;
+     }
+   
+     .contest-card {
+       margin: 0 8px 15px 8px;
+       padding: 16px;
+     }
+   }
+   .contest-name {
+     font-size: 1.1em;
+   }
  }

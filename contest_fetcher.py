@@ -34,7 +34,7 @@ class ContestFetcher:
         
         contests = data.get('result', [])
         
-        # 获取当前时间和一个月后的时间
+        # 获取前15天到现在一个月后的时间
         now = datetime.datetime.now() - datetime.timedelta(days = 15)
         one_month_later = now + datetime.timedelta(days=30)
         now_timestamp = int(now.timestamp())
@@ -91,7 +91,7 @@ class ContestFetcher:
             data = response.json()
             contests = data.get('data', {}).get('allContests', [])
             
-            # 获取当前时间和一个月后的时间
+            # 获取前15天到现在一个月后的时间
             now = datetime.datetime.now() - datetime.timedelta(days = 15)
             one_month_later = now + datetime.timedelta(days=30)
             now_timestamp = int(now.timestamp())
@@ -143,7 +143,7 @@ class ContestFetcher:
             soup = BeautifulSoup(response.text, 'html.parser')
             contest_cards = soup.select('.contest-card')
             
-            # 获取当前时间和一个月后的时间
+            # 获取前15天到现在一个月后的时间
             now = datetime.datetime.now() - datetime.timedelta(days = 15)
             one_month_later = now + datetime.timedelta(days=30)
             
@@ -222,7 +222,7 @@ class ContestFetcher:
             # 解析JSON响应
             calendar_data = response.json().get('data', [])
             
-            # 获取当前时间和一个月后的时间
+            # 获取前15天到现在一个月后的时间
             now = datetime.datetime.now() - datetime.timedelta(days = 15)
             one_month_later = now + datetime.timedelta(days=30)
             
@@ -286,8 +286,8 @@ class ContestFetcher:
             soup = BeautifulSoup(response.text, 'html.parser')
             contest_items = soup.select('.contest-item')
             
-            # 获取当前时间和一个月后的时间
-            now = datetime.datetime.now(self.timezone)
+            # 获取前15天到现在一个月后的时间
+            now = datetime.datetime.now() - datetime.timedelta(days = 15)
             one_month_later = now + datetime.timedelta(days=30)
             
             future_contests = []
@@ -398,8 +398,8 @@ class ContestFetcher:
                 print("Failed to parse Luogu contest JSON data")
                 return []
             
-            # 获取当前时间和一个月后的时间
-            now = datetime.datetime.now(self.timezone)
+            # 获取前15天到现在一个月后的时间
+            now = datetime.datetime.now() - datetime.timedelta(days = 15)
             one_month_later = now + datetime.timedelta(days=30)
             now_timestamp = int(now.timestamp())
             one_month_later_timestamp = int(one_month_later.timestamp())

@@ -2,11 +2,12 @@
 <html lang="zh-CN">
 
 <head>
+  <link rel="icon" type="image/png" href="icons/icon.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>编程竞赛日历</title>
     <script src="global.js"></script>
-    
+
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 
     <link rel="stylesheet" href="calendar.css">
@@ -69,7 +70,8 @@
                     return this.contests.filter(contest =>
                         contest.platform === this.selectedPlatform
                     ).sort((a, b) => new Date(b.start_time) - new Date(a.start_time))
-                }
+                },
+                
             },
             mounted() {
                 this.fetchContests()
@@ -79,7 +81,15 @@
                     try {
                         const response = await fetch('contests.json')
                         const data = await response.json()
-                        this.contests = data.contests
+                        const today = new Date()
+                        today.setHours(0, 0, 0, 0) // 将时间设置为今天凌晨
+                        
+                        // 筛选今天之后的比赛
+                        this.contests = data.contests.filter(contest => {
+                            const contestDate = new Date(contest.start_time)
+                            return contestDate >= today
+                        })
+                        
                         this.updateTime = new Date().toLocaleString('zh-CN')
                     } catch (error) {
                         console.error('Error fetching contests:', error)
@@ -88,6 +98,9 @@
             }
         }).mount('#app')
     </script>
+    <footer class="footer">
+        <p>© 2025 canjisam. All rights reserved.</p>
+    </footer>
 </body>
 
 </html>
