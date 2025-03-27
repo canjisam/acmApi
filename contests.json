@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-27 20:45:12",
+  "last_updated": "2025-03-27 21:31:30",
   "contests": [
     {
       "platform": "AtCoder",
@@ -30,20 +30,6 @@
       "url": "https://atcoder.jp/contests/abc401"
     },
     {
-      "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 3)",
-      "start_time": "2025-04-08 22:35:00",
-      "duration": "2小时15分钟",
-      "url": "https://codeforces.com/contest/2093"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Kotlin Heroes: Episode 12",
-      "start_time": "2025-04-07 22:35:00",
-      "duration": "2小时30分钟",
-      "url": "https://codeforces.com/contest/2087"
-    },
-    {
       "platform": "AtCoder",
       "name": "AtCoder Regular Contest 196 (Div. 1)",
       "start_time": "2025-04-06 20:00:00",
@@ -51,25 +37,11 @@
       "url": "https://atcoder.jp/contests/arc196"
     },
     {
-      "platform": "Codeforces",
-      "name": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
-      "start_time": "2025-04-05 22:35:00",
-      "duration": "3小时0分钟",
-      "url": "https://codeforces.com/contest/2084"
-    },
-    {
       "platform": "AtCoder",
       "name": "AtCoder Beginner Contest 400",
       "start_time": "2025-04-05 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc400"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Educational Codeforces Round 177 (Rated for Div. 2)",
-      "start_time": "2025-04-03 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2086"
     },
     {
       "platform": "luogu",
@@ -84,13 +56,6 @@
       "start_time": "2025-04-01 14:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/237211"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Kotlin Heroes: Practice 12",
-      "start_time": "2025-03-31 21:35:00",
-      "duration": "168小时0分钟",
-      "url": "https://codeforces.com/contest/2088"
     },
     {
       "platform": "AtCoder",
@@ -140,13 +105,6 @@
       "start_time": "2025-03-30 01:00:00",
       "duration": "3小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/103975?from=acm_calendar"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1014 (Div. 2)",
-      "start_time": "2025-03-29 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2092"
     },
     {
       "platform": "LeetCode",
