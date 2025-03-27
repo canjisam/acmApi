@@ -73,3 +73,11 @@ window.onload = function() {
     updateTitleTime(); // 立即执行一次
     setInterval(updateTitleTime, 1000); // 每秒更新
 };
+
+document.getElementById('shareBtn').addEventListener('click', function() {
+  if (navigator.share) {
+    sharePage();
+  } else {
+    alert('当前浏览器不支持分享功能，请手动复制链接');
+  }
+});
