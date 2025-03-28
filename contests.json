@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-28 13:43:37",
+  "last_updated": "2025-03-28 14:31:19",
   "contests": [
     {
       "platform": "AtCoder",
@@ -364,13 +364,6 @@
       "start_time": "2025-03-14 11:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/103151?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "RMI 2024 Day 1 Unofficial Mirror",
-      "start_time": "2025-03-13 14:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/235231"
     }
   ]
 }
