@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-28 17:42:04",
+  "last_updated": "2025-03-28 18:23:51",
   "contests": [
     {
       "platform": "AtCoder",
@@ -182,13 +182,6 @@
       "start_time": "2025-03-29 04:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/106269?from=acm_calendar"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "THIRD PROGRAMMING CONTEST 2025（AtCoder Heuristic Contest 045）",
-      "start_time": "2025-03-28 18:00:00",
-      "duration": "240小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc045"
     },
     {
       "platform": "NowCoder",
