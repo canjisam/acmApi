@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-29 14:15:04",
+  "last_updated": "2025-03-29 14:41:59",
   "contests": [
     {
       "platform": "AtCoder",
@@ -100,6 +100,13 @@
       "url": "https://www.luogu.com.cn/contest/237211"
     },
     {
+      "platform": "luogu",
+      "name": "Ynoi Apirl Fool's Round 2025",
+      "start_time": "2025-04-01 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/238632"
+    },
+    {
       "platform": "Codeforces",
       "name": "Kotlin Heroes: Practice 12",
       "start_time": "2025-03-31 21:35:00",
@@ -129,17 +136,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X10】梦熊 X 组 · 章鱼赛 & LSOT Round 4（同步赛）",
-      "start_time": "2025-03-30 13:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/237310"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J12】梦熊 J 组 · 章鱼赛 & LSOT Round 4（同步赛）",
       "start_time": "2025-03-30 13:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/237311"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X10】梦熊 X 组 · 章鱼赛 & LSOT Round 4（同步赛）",
+      "start_time": "2025-03-30 13:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/237310"
     },
     {
       "platform": "LeetCode",
