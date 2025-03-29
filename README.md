@@ -44,4 +44,6 @@
 ## 开发说明
 
 本项目基于Vue.js开发，数据源为contests.json文件。
+- 主程序入口：main.js
+- 右键菜单样式：context-menu.css
 
