@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-29 23:12:10",
+  "last_updated": "2025-03-29 23:36:23",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2025-04-19 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc402"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 4)",
+      "start_time": "2025-04-13 23:35:00",
+      "duration": "2小时15分钟",
+      "url": "https://codeforces.com/contest/2094"
     },
     {
       "platform": "AtCoder",
