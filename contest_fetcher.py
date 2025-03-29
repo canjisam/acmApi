@@ -223,7 +223,7 @@ class ContestFetcher:
             calendar_data = response.json().get('data', [])
             
             # 获取前15天到现在一个月后的时间
-            now = datetime.datetime.now() - datetime.timedelta(days = 15)
+            now = datetime.datetime.now(self.timezone) - datetime.timedelta(days = 15)
             one_month_later = now + datetime.timedelta(days=30)
             
             future_contests = []
@@ -237,9 +237,9 @@ class ContestFetcher:
                     if not start_time_str or not end_time_str:
                         continue
                     
-                    # 将时间戳转换为datetime对象
-                    contest_time = datetime.datetime.fromtimestamp(int(start_time_str) / 1000)
-                    end_time = datetime.datetime.fromtimestamp(int(end_time_str) / 1000)
+                    # 将时间戳转换为带时区的datetime对象
+                    contest_time = datetime.datetime.fromtimestamp(int(start_time_str) / 1000, self.timezone)
+                    end_time = datetime.datetime.fromtimestamp(int(end_time_str) / 1000, self.timezone)
                     
                     # 计算持续时间
                     duration_seconds = (end_time - contest_time).total_seconds()

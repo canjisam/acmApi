@@ -72,6 +72,12 @@ function updateTitleTime() {
 window.onload = function() {
     updateTitleTime(); // 立即执行一次
     setInterval(updateTitleTime, 1000); // 每秒更新
+    
+    // 访问统计功能
+    let visitCount = localStorage.getItem('visitCount') || 0;
+    visitCount++;
+    localStorage.setItem('visitCount', visitCount);
+    document.getElementById('visitCount').textContent = visitCount;
 };
 
 document.getElementById('shareBtn').addEventListener('click', function() {
