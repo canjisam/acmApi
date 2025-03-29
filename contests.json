@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-29 19:09:57",
+  "last_updated": "2025-03-29 19:33:31",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,13 @@
       "start_time": "2025-04-12 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc401"
+    },
+    {
+      "platform": "luogu",
+      "name": "『STAOI』G - Round 9",
+      "start_time": "2025-04-12 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/210424"
     },
     {
       "platform": "Codeforces",
@@ -77,13 +84,6 @@
       "start_time": "2025-04-03 18:00:00",
       "duration": "72小时0分钟",
       "url": "https://www.luogu.com.cn/contest/231658"
-    },
-    {
-      "platform": "luogu",
-      "name": "NOISG 2025 Final Unofficial Mirror",
-      "start_time": "2025-04-03 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/238798"
     },
     {
       "platform": "Codeforces",
