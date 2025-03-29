@@ -107,6 +107,10 @@
     }
 }
 
+.fc-timegrid-slots .fc-timegrid-slot.fc-timegrid-slot-lane.fc-timegrid-now {
+    background-color: rgba(255, 200, 200, 0.3);
+}
+
 .fc-event-content {
     pointer-events: auto !important;
     cursor: pointer;
