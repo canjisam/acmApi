@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-29 18:39:57",
+  "last_updated": "2025-03-29 19:09:57",
   "contests": [
     {
       "platform": "AtCoder",
@@ -357,20 +357,6 @@
       "start_time": "2025-03-15 09:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/218215"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客练习赛135",
-      "start_time": "2025-03-14 19:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/103151?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-217-Div.4】洛谷入门赛 #33",
-      "start_time": "2025-03-14 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/235262"
     }
   ]
 }
