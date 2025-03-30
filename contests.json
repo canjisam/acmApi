@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-30 19:33:33",
+  "last_updated": "2025-03-30 20:19:56",
   "contests": [
     {
       "platform": "AtCoder",
@@ -133,13 +133,6 @@
       "start_time": "2025-03-31 21:35:00",
       "duration": "168小时0分钟",
       "url": "https://codeforces.com/contest/2088"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Grand Contest 071",
-      "start_time": "2025-03-30 20:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://atcoder.jp/contests/agc071"
     },
     {
       "platform": "NowCoder",
