@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-30 20:55:38",
+  "last_updated": "2025-03-30 21:18:30",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,13 @@
       "start_time": "2025-04-13 23:35:00",
       "duration": "2小时15分钟",
       "url": "https://codeforces.com/contest/2094"
+    },
+    {
+      "platform": "luogu",
+      "name": "「UOI」 Beginner Contest 002 & Round 4",
+      "start_time": "2025-04-13 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/203994"
     },
     {
       "platform": "LeetCode",
