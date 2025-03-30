@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-30 07:34:53",
+  "last_updated": "2025-03-30 09:00:26",
   "contests": [
     {
       "platform": "AtCoder",
@@ -350,13 +350,6 @@
       "start_time": "2025-03-15 14:00:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/221170"
-    },
-    {
-      "platform": "luogu",
-      "name": "NtF Round 2.5",
-      "start_time": "2025-03-15 09:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/218215"
     }
   ]
 }
