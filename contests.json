@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-31 06:36:52",
+  "last_updated": "2025-03-31 07:11:25",
   "contests": [
     {
       "platform": "AtCoder",
@@ -37,13 +37,6 @@
       "url": "https://www.luogu.com.cn/contest/203994"
     },
     {
-      "platform": "LeetCode",
-      "name": "Biweekly Contest 154",
-      "start_time": "2025-04-12 22:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/biweekly-contest-154"
-    },
-    {
       "platform": "AtCoder",
       "name": "AtCoder Beginner Contest 401",
       "start_time": "2025-04-12 20:00:00",
@@ -77,13 +70,6 @@
       "start_time": "2025-04-06 20:00:00",
       "duration": "2小时30分钟",
       "url": "https://atcoder.jp/contests/arc196"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 444",
-      "start_time": "2025-04-06 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-444"
     },
     {
       "platform": "Codeforces",
@@ -170,25 +156,11 @@
       "url": "https://www.luogu.com.cn/contest/237310"
     },
     {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 443",
-      "start_time": "2025-03-30 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-443"
-    },
-    {
       "platform": "NowCoder",
       "name": "2025年贵州工程应用技术学院团体天梯赛（同步赛）",
       "start_time": "2025-03-30 09:00:00",
       "duration": "3小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/103975?from=acm_calendar"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Biweekly Contest 153",
-      "start_time": "2025-03-29 22:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/biweekly-contest-153"
     },
     {
       "platform": "luogu",
@@ -252,13 +224,6 @@
       "start_time": "2025-03-23 12:30:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/103762?from=acm_calendar"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 442",
-      "start_time": "2025-03-23 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-442"
     },
     {
       "platform": "NowCoder",
@@ -329,13 +294,6 @@
       "start_time": "2025-03-16 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/183510"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 441",
-      "start_time": "2025-03-16 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-441"
     },
     {
       "platform": "luogu",
