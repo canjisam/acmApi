@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-31 07:35:15",
+  "last_updated": "2025-03-31 08:59:04",
   "contests": [
     {
       "platform": "AtCoder",
@@ -336,13 +336,6 @@
       "start_time": "2025-03-16 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-441"
-    },
-    {
-      "platform": "luogu",
-      "name": "「LAOI」Easy Round 9",
-      "start_time": "2025-03-16 08:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/231098"
     }
   ]
 }
