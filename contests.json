@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-01 13:39:15",
+  "last_updated": "2025-04-01 14:17:36",
   "contests": [
     {
       "platform": "AtCoder",
@@ -266,13 +266,6 @@
       "start_time": "2025-03-18 13:30:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/233144"
-    },
-    {
-      "platform": "luogu",
-      "name": "NHSPC 2023 Unofficial Mirror",
-      "start_time": "2025-03-17 14:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/235402"
     }
   ]
 }
