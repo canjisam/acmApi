@@ -42,13 +42,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
+          publish_branch: gh-pages
           keep_files: true
-          
-      - name: Install API dependencies
-        run: pip install flask
-        
-      - name: Start API server
-        run: python -m flask run --host=0.0.0.0 --port=8080 &
-        
-      - name: Keep server running
-        run: sleep 300
+          force_orphan: true
