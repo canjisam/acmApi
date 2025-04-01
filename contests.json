@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-01 15:36:16",
+  "last_updated": "2025-04-01 16:16:26",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,13 @@
       "start_time": "2025-04-13 23:35:00",
       "duration": "2小时15分钟",
       "url": "https://codeforces.com/contest/2094"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 89",
+      "start_time": "2025-04-13 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/107000?from=acm_calendar"
     },
     {
       "platform": "luogu",
