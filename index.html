@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>即将开始的比赛</title>
-    <script src="main.js"></script></script>
+    <script src="main.js"></script>
 
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 
@@ -112,16 +112,3 @@
 </body>
 
 </html>
-
-<button id="shareBtn" class="action-btn">
-  <img src="share-icon.svg" alt="分享">
-  分享页面
-</button>
-
-document.getElementById('shareBtn').addEventListener('click', function() {
-  if (navigator.share) {
-    sharePage();
-  } else {
-    alert('当前浏览器不支持分享功能，请手动复制链接');
-  }
-});
