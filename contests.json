@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-02 15:35:33",
+  "last_updated": "2025-04-02 16:16:03",
   "contests": [
     {
       "platform": "AtCoder",
@@ -46,7 +46,7 @@
     {
       "platform": "NowCoder",
       "name": "华中农业大学第十四届程序设计竞赛（同步赛）",
-      "start_time": "2025-04-13 10:00:00",
+      "start_time": "2025-04-13 10:30:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/104226?from=acm_calendar"
     },
@@ -112,6 +112,13 @@
       "start_time": "2025-04-06 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-444"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "筑梯杯郑州轻工业大学第十七届程序设计大赛（同步赛）",
+      "start_time": "2025-04-06 10:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/106899?from=acm_calendar"
     },
     {
       "platform": "Codeforces",
