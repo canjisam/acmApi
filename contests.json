@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-02 13:13:08",
+  "last_updated": "2025-04-02 13:40:05",
   "contests": [
     {
       "platform": "AtCoder",
@@ -259,13 +259,6 @@
       "start_time": "2025-03-21 14:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/235971"
-    },
-    {
-      "platform": "luogu",
-      "name": "CrCPC 2024 Unofficial Mirror (teams preferred)",
-      "start_time": "2025-03-18 13:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/233144"
     }
   ]
 }
