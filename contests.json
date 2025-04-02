@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-02 23:12:25",
+  "last_updated": "2025-04-02 23:40:02",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,13 +21,6 @@
       "start_time": "2025-04-19 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc402"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 4)",
-      "start_time": "2025-04-13 23:35:00",
-      "duration": "2小时15分钟",
-      "url": "https://codeforces.com/contest/2094"
     },
     {
       "platform": "NowCoder",
@@ -79,25 +72,11 @@
       "url": "https://ac.nowcoder.com/acm/contest/106859?from=acm_calendar"
     },
     {
-      "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 3)",
-      "start_time": "2025-04-08 22:35:00",
-      "duration": "2小时15分钟",
-      "url": "https://codeforces.com/contest/2093"
-    },
-    {
       "platform": "luogu",
       "name": "RMI 2019 Day 2 Unofficial Mirror",
       "start_time": "2025-04-08 14:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/239768"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Kotlin Heroes: Episode 12",
-      "start_time": "2025-04-07 22:35:00",
-      "duration": "2小时30分钟",
-      "url": "https://codeforces.com/contest/2087"
     },
     {
       "platform": "AtCoder",
@@ -128,25 +107,11 @@
       "url": "https://ac.nowcoder.com/acm/contest/106899?from=acm_calendar"
     },
     {
-      "platform": "Codeforces",
-      "name": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
-      "start_time": "2025-04-05 22:35:00",
-      "duration": "3小时0分钟",
-      "url": "https://codeforces.com/contest/2084"
-    },
-    {
       "platform": "AtCoder",
       "name": "AtCoder Beginner Contest 400",
       "start_time": "2025-04-05 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc400"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Educational Codeforces Round 177 (Rated for Div. 2)",
-      "start_time": "2025-04-03 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2086"
     },
     {
       "platform": "NowCoder",
@@ -196,13 +161,6 @@
       "start_time": "2025-04-01 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/238632"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Kotlin Heroes: Practice 12",
-      "start_time": "2025-03-31 21:35:00",
-      "duration": "168小时0分钟",
-      "url": "https://codeforces.com/contest/2088"
     },
     {
       "platform": "luogu",
