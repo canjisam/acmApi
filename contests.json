@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-03 18:12:56",
+  "last_updated": "2025-04-03 18:41:29",
   "contests": [
     {
       "platform": "AtCoder",
@@ -147,6 +147,13 @@
       "start_time": "2025-04-05 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc400"
+    },
+    {
+      "platform": "luogu",
+      "name": "中国科学技术大学2025年程序设计竞赛校赛（重现赛）",
+      "start_time": "2025-04-05 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/238099"
     },
     {
       "platform": "Codeforces",
