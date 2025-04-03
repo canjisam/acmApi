@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-04 00:14:09",
+  "last_updated": "2025-04-04 00:44:32",
   "contests": [
     {
       "platform": "AtCoder",
@@ -154,13 +154,6 @@
       "start_time": "2025-04-05 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/238099"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Educational Codeforces Round 177 (Rated for Div. 2)",
-      "start_time": "2025-04-03 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2086"
     },
     {
       "platform": "NowCoder",
