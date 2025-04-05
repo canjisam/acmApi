@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-05 16:39:17",
+  "last_updated": "2025-04-05 17:11:05",
   "contests": [
     {
       "platform": "AtCoder",
@@ -84,6 +84,13 @@
       "start_time": "2025-04-11 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/106859?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-220-Div.4】洛谷入门赛 #34",
+      "start_time": "2025-04-11 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/240317"
     },
     {
       "platform": "luogu",
@@ -220,17 +227,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X10】梦熊 X 组 · 章鱼赛 & LSOT Round 4（同步赛）",
-      "start_time": "2025-03-30 13:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/237310"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J12】梦熊 J 组 · 章鱼赛 & LSOT Round 4（同步赛）",
       "start_time": "2025-03-30 13:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/237311"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X10】梦熊 X 组 · 章鱼赛 & LSOT Round 4（同步赛）",
+      "start_time": "2025-03-30 13:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/237310"
     },
     {
       "platform": "LeetCode",
