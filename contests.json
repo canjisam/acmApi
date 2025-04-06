@@ -1,12 +1,33 @@
 {
-  "last_updated": "2025-04-06 15:33:31",
+  "last_updated": "2025-04-06 16:13:43",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "BrainPad Programming Contest 2025 （AtCoder Heuristic Contest 046）",
+      "start_time": "2025-04-26 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://atcoder.jp/contests/ahc046"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Grand Contest 072",
+      "start_time": "2025-04-20 20:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://atcoder.jp/contests/agc072"
+    },
     {
       "platform": "Codeforces",
       "name": "Codeforces Round (Div. 1 + Div. 2)",
       "start_time": "2025-04-19 22:35:00",
       "duration": "2小时0分钟",
       "url": "https://codeforces.com/contest/2096"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "Tokio Marine & Nichido Fire Insurance Programming Contest 2025  (AtCoder Beginner Contest 402)",
+      "start_time": "2025-04-19 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc402"
     },
     {
       "platform": "luogu",
@@ -58,6 +79,13 @@
       "url": "https://leetcode.com/contest/biweekly-contest-154"
     },
     {
+      "platform": "AtCoder",
+      "name": "AtCoder Beginner Contest 401",
+      "start_time": "2025-04-12 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc401"
+    },
+    {
       "platform": "luogu",
       "name": "『STAOI』G - Round 9",
       "start_time": "2025-04-12 14:00:00",
@@ -105,6 +133,13 @@
       "start_time": "2025-04-07 22:35:00",
       "duration": "2小时30分钟",
       "url": "https://codeforces.com/contest/2087"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Regular Contest 196 (Div. 1)",
+      "start_time": "2025-04-06 20:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://atcoder.jp/contests/arc196"
     },
     {
       "platform": "NowCoder",
