@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-06 13:36:57",
+  "last_updated": "2025-04-06 14:15:37",
   "contests": [
     {
       "platform": "AtCoder",
@@ -280,13 +280,6 @@
       "start_time": "2025-03-23 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-442"
-    },
-    {
-      "platform": "luogu",
-      "name": "ZHQOI Round 1",
-      "start_time": "2025-03-22 14:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/210610"
     }
   ]
 }
