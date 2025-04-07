@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-07 21:01:58",
+  "last_updated": "2025-04-07 21:43:18",
   "contests": [
     {
       "platform": "AtCoder",
@@ -224,13 +224,6 @@
       "start_time": "2025-04-01 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/238632"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Kotlin Heroes: Practice 12",
-      "start_time": "2025-03-31 21:35:00",
-      "duration": "168小时0分钟",
-      "url": "https://codeforces.com/contest/2088"
     },
     {
       "platform": "luogu",
