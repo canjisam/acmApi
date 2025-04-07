@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-08 07:11:18",
+  "last_updated": "2025-04-08 07:36:30",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2025-04-20 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/107500?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "『STAOI』G - Round 9",
+      "start_time": "2025-04-20 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/210424"
     },
     {
       "platform": "Codeforces",
@@ -98,13 +105,6 @@
       "start_time": "2025-04-12 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc401"
-    },
-    {
-      "platform": "luogu",
-      "name": "『STAOI』G - Round 9",
-      "start_time": "2025-04-12 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/210424"
     },
     {
       "platform": "NowCoder",
