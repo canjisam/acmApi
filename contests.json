@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-07 13:39:29",
+  "last_updated": "2025-04-07 14:17:31",
   "contests": [
     {
       "platform": "AtCoder",
@@ -266,13 +266,6 @@
       "start_time": "2025-03-27 14:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/235972"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-218-Div.2】洛谷 3 月月赛 I & ALFR Round 7",
-      "start_time": "2025-03-23 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/226817"
     }
   ]
 }
