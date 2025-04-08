@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-08 15:12:03",
+  "last_updated": "2025-04-08 15:35:46",
   "contests": [
     {
       "platform": "AtCoder",
@@ -105,6 +105,20 @@
       "start_time": "2025-04-12 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc401"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
+      "start_time": "2025-04-12 13:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/240581"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J13】梦熊 J 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
+      "start_time": "2025-04-12 13:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/240582"
     },
     {
       "platform": "NowCoder",
