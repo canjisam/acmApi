@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-09 19:33:59",
+  "last_updated": "2025-04-09 20:22:59",
   "contests": [
     {
       "platform": "AtCoder",
@@ -56,13 +56,6 @@
       "start_time": "2025-04-19 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/224129"
-    },
-    {
-      "platform": "luogu",
-      "name": "Math×Girl",
-      "start_time": "2025-04-19 13:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/179064"
     },
     {
       "platform": "NowCoder",
