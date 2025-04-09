@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-09 19:10:30",
+  "last_updated": "2025-04-09 19:33:59",
   "contests": [
     {
       "platform": "AtCoder",
@@ -49,6 +49,13 @@
       "start_time": "2025-04-19 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc402"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-221-Div.3】洛谷基础赛 #21",
+      "start_time": "2025-04-19 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/224129"
     },
     {
       "platform": "luogu",
@@ -122,17 +129,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
-      "start_time": "2025-04-12 13:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/240581"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J13】梦熊 J 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
       "start_time": "2025-04-12 13:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/240582"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
+      "start_time": "2025-04-12 13:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/240581"
     },
     {
       "platform": "NowCoder",
@@ -241,17 +248,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J12】梦熊 J 组 · 章鱼赛 & LSOT Round 4（同步赛）",
-      "start_time": "2025-03-30 13:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/237311"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X10】梦熊 X 组 · 章鱼赛 & LSOT Round 4（同步赛）",
       "start_time": "2025-03-30 13:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/237310"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J12】梦熊 J 组 · 章鱼赛 & LSOT Round 4（同步赛）",
+      "start_time": "2025-03-30 13:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/237311"
     },
     {
       "platform": "LeetCode",
