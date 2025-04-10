@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-10 11:12:41",
+  "last_updated": "2025-04-10 11:47:22",
   "contests": [
     {
       "platform": "AtCoder",
@@ -151,8 +151,8 @@
     {
       "platform": "luogu",
       "name": "NordicOI 2025 Unofficial Mirror",
-      "start_time": "2025-04-10 14:45:00",
-      "duration": "4小时0分钟",
+      "start_time": "2025-04-10 17:30:00",
+      "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/239935"
     },
     {
