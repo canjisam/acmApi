@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-11 13:41:14",
+  "last_updated": "2025-04-11 14:17:07",
   "contests": [
     {
       "platform": "AtCoder",
@@ -287,13 +287,6 @@
       "start_time": "2025-03-29 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/236568"
-    },
-    {
-      "platform": "luogu",
-      "name": "KTSC 2025 R2 Unofficial Mirror",
-      "start_time": "2025-03-27 14:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/235972"
     }
   ]
 }
