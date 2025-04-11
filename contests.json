@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-11 15:11:56",
+  "last_updated": "2025-04-11 15:34:41",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2025-04-26 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://atcoder.jp/contests/ahc046"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客小白月赛115",
+      "start_time": "2025-04-25 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/107879?from=acm_calendar"
     },
     {
       "platform": "Codeforces",
