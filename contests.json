@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-14 08:59:46",
+  "last_updated": "2025-04-14 10:39:19",
   "contests": [
     {
       "platform": "AtCoder",
@@ -308,13 +308,6 @@
       "start_time": "2025-03-30 13:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/237311"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 443",
-      "start_time": "2025-03-30 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-443"
     }
   ]
 }
