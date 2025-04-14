@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-14 14:18:16",
+  "last_updated": "2025-04-14 14:47:02",
   "contests": [
     {
       "platform": "AtCoder",
@@ -59,17 +59,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-222-Div.1】洛谷 4 月月赛 I & HCOI Round 2",
-      "start_time": "2025-04-26 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/201695"
-    },
-    {
-      "platform": "luogu",
       "name": "【LGR-222-Div.2】洛谷 4 月月赛 I & HCOI Round 2",
       "start_time": "2025-04-26 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/240146"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-222-Div.1】洛谷 4 月月赛 I & HCOI Round 2",
+      "start_time": "2025-04-26 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/201695"
     },
     {
       "platform": "AtCoder",
@@ -147,6 +147,13 @@
       "start_time": "2025-04-18 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/107458?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "WyOJ Round 1",
+      "start_time": "2025-04-18 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/239055"
     },
     {
       "platform": "luogu",
