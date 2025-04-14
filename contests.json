@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-14 13:13:19",
+  "last_updated": "2025-04-14 13:39:59",
   "contests": [
     {
       "platform": "AtCoder",
@@ -301,20 +301,6 @@
       "start_time": "2025-04-01 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/238632"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-X10】梦熊 X 组 · 章鱼赛 & LSOT Round 4（同步赛）",
-      "start_time": "2025-03-30 13:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/237310"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-J12】梦熊 J 组 · 章鱼赛 & LSOT Round 4（同步赛）",
-      "start_time": "2025-03-30 13:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/237311"
     }
   ]
 }
