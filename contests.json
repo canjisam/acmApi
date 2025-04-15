@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-16 03:33:45",
+  "last_updated": "2025-04-16 04:13:16",
   "contests": [
     {
       "platform": "AtCoder",
@@ -95,7 +95,7 @@
     {
       "platform": "Codeforces",
       "name": "Tact Smart Battle 1",
-      "start_time": "2025-04-21 17:35:00",
+      "start_time": "2025-04-21 17:00:00",
       "duration": "168小时0分钟",
       "url": "https://codeforces.com/contest/2105"
     },
