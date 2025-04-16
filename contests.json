@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-16 21:02:26",
+  "last_updated": "2025-04-16 21:43:11",
   "contests": [
     {
       "platform": "AtCoder",
@@ -35,6 +35,13 @@
       "start_time": "2025-04-27 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108038?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "Conclusion Masters #2",
+      "start_time": "2025-04-27 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/230226"
     },
     {
       "platform": "LeetCode",
