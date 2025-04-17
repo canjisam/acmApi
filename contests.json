@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-17 13:39:31",
+  "last_updated": "2025-04-17 14:17:25",
   "contests": [
     {
       "platform": "luogu",
@@ -266,20 +266,6 @@
       "start_time": "2025-04-03 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/238798"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025年中国传媒大学程序设计大赛（同步赛）",
-      "start_time": "2025-04-02 14:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/106505?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "RMI 2019 Day 1 Unofficial Mirror",
-      "start_time": "2025-04-02 14:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/237211"
     }
   ]
 }
