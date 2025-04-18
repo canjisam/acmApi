@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-18 21:40:39",
+  "last_updated": "2025-04-18 22:11:00",
   "contests": [
     {
       "platform": "Codeforces",
@@ -18,8 +18,8 @@
     {
       "platform": "luogu",
       "name": "CZOI Round 3",
-      "start_time": "2025-05-01 14:30:00",
-      "duration": "2小时30分钟",
+      "start_time": "2025-05-03 14:30:00",
+      "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/240355"
     },
     {
