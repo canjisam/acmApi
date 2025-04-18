@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-19 01:10:15",
+  "last_updated": "2025-04-19 01:36:58",
   "contests": [
     {
       "platform": "Codeforces",
@@ -77,6 +77,13 @@
       "start_time": "2025-04-25 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/107879?from=acm_calendar"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 3)",
+      "start_time": "2025-04-24 22:35:00",
+      "duration": "2小时15分钟",
+      "url": "https://codeforces.com/contest/2106"
     },
     {
       "platform": "Codeforces",
