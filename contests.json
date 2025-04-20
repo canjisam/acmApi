@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-20 23:10:18",
+  "last_updated": "2025-04-20 23:35:49",
   "contests": [
     {
       "platform": "Codeforces",
@@ -37,11 +37,25 @@
       "url": "https://ac.nowcoder.com/acm/contest/108038?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "Conclusion Masters #2",
+      "start_time": "2025-04-27 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/230226"
+    },
+    {
       "platform": "LeetCode",
       "name": "Weekly Contest 447",
       "start_time": "2025-04-27 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-447"
+    },
+    {
+      "platform": "luogu",
+      "name": "RiOI Round 6",
+      "start_time": "2025-04-27 08:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/232940"
     },
     {
       "platform": "LeetCode",
@@ -66,17 +80,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-222-Div.2】梅拉算智 4 月月赛 I & HCOI Round 2",
-      "start_time": "2025-04-26 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/240146"
-    },
-    {
-      "platform": "luogu",
       "name": "【LGR-222-Div.1】梅拉算智 4 月月赛 I & HCOI Round 2",
       "start_time": "2025-04-26 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/201695"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-222-Div.2】梅拉算智 4 月月赛 I & HCOI Round 2",
+      "start_time": "2025-04-26 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/240146"
     },
     {
       "platform": "NowCoder",
