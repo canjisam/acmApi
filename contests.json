@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-21 09:00:32",
+  "last_updated": "2025-04-21 10:52:30",
   "contests": [
+    {
+      "platform": "luogu",
+      "name": "【LGR-223-Div.3】洛谷基础赛 #22 & YLLOI Round 1",
+      "start_time": "2025-05-04 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/213624"
+    },
     {
       "platform": "Codeforces",
       "name": "Codeforces Round (Div. 1)",
@@ -80,17 +87,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-222-Div.1】梅拉算智 4 月月赛 I & HCOI Round 2",
-      "start_time": "2025-04-26 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/201695"
-    },
-    {
-      "platform": "luogu",
       "name": "【LGR-222-Div.2】梅拉算智 4 月月赛 I & HCOI Round 2",
       "start_time": "2025-04-26 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/240146"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-222-Div.1】梅拉算智 4 月月赛 I & HCOI Round 2",
+      "start_time": "2025-04-26 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/201695"
     },
     {
       "platform": "NowCoder",
@@ -206,17 +213,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
-      "start_time": "2025-04-12 13:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/240581"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J13】梦熊 J 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
       "start_time": "2025-04-12 13:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/240582"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
+      "start_time": "2025-04-12 13:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/240581"
     },
     {
       "platform": "NowCoder",
@@ -252,20 +259,6 @@
       "start_time": "2025-04-06 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/106318?from=acm_calendar"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 444",
-      "start_time": "2025-04-06 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-444"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "筑梯杯郑州轻工业大学第十七届程序设计大赛（同步赛）",
-      "start_time": "2025-04-06 10:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/106899?from=acm_calendar"
     }
   ]
 }
