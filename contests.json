@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-22 19:34:36",
+  "last_updated": "2025-04-22 20:23:04",
   "contests": [
     {
       "platform": "AtCoder",
@@ -72,6 +72,13 @@
       "url": "https://www.luogu.com.cn/contest/240355"
     },
     {
+      "platform": "luogu",
+      "name": "RiOI Round 6",
+      "start_time": "2025-05-01 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/232940"
+    },
+    {
       "platform": "Codeforces",
       "name": "Educational Codeforces Round 178 (Rated for Div. 2)",
       "start_time": "2025-04-28 22:35:00",
@@ -105,13 +112,6 @@
       "start_time": "2025-04-27 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-447"
-    },
-    {
-      "platform": "luogu",
-      "name": "RiOI Round 6",
-      "start_time": "2025-04-27 08:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/232940"
     },
     {
       "platform": "LeetCode",
