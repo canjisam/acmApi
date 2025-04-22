@@ -1,27 +1,6 @@
 {
-  "last_updated": "2025-04-23 05:11:25",
+  "last_updated": "2025-04-23 05:35:51",
   "contests": [
-    {
-      "platform": "AtCoder",
-      "name": "Toyota Programming Contest 2025#2（AtCoder Heuristic Contest 047）",
-      "start_time": "2025-05-18 18:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc047"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "Panasonic Programming Contest 2025（AtCoder Beginner Contest 406）",
-      "start_time": "2025-05-17 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc406"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Beginner Contest 405",
-      "start_time": "2025-05-10 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc405"
-    },
     {
       "platform": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
@@ -30,25 +9,11 @@
       "url": "https://codeforces.com/contest/2107"
     },
     {
-      "platform": "AtCoder",
-      "name": "AtCoder Regular Contest 197 (Div. 2)",
-      "start_time": "2025-05-04 20:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://atcoder.jp/contests/arc197"
-    },
-    {
       "platform": "luogu",
       "name": "【LGR-223-Div.3】洛谷基础赛 #22 & YLLOI Round 1",
       "start_time": "2025-05-04 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/213624"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Beginner Contest 404",
-      "start_time": "2025-05-03 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc404"
     },
     {
       "platform": "Codeforces",
@@ -84,13 +49,6 @@
       "start_time": "2025-04-28 22:35:00",
       "duration": "2小时0分钟",
       "url": "https://codeforces.com/contest/2104"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Beginner Contest 403",
-      "start_time": "2025-04-27 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc403"
     },
     {
       "platform": "NowCoder",
@@ -147,13 +105,6 @@
       "start_time": "2025-04-26 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/201695"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "BrainPad Programming Contest 2025 （AtCoder Heuristic Contest 046）",
-      "start_time": "2025-04-26 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc046"
     },
     {
       "platform": "NowCoder",
