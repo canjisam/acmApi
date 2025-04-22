@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-22 18:12:44",
+  "last_updated": "2025-04-22 18:41:50",
   "contests": [
     {
       "platform": "AtCoder",
@@ -91,6 +91,13 @@
       "start_time": "2025-04-27 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108038?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "「LAOI」Easy Round 12",
+      "start_time": "2025-04-27 13:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/237332"
     },
     {
       "platform": "LeetCode",
@@ -269,17 +276,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
-      "start_time": "2025-04-12 13:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/240581"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J13】梦熊 J 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
       "start_time": "2025-04-12 13:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/240582"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
+      "start_time": "2025-04-12 13:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/240581"
     },
     {
       "platform": "NowCoder",
