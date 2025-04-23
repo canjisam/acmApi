@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-23 22:42:27",
+  "last_updated": "2025-04-23 23:13:22",
   "contests": [
     {
       "platform": "AtCoder",
@@ -70,6 +70,13 @@
       "start_time": "2025-05-03 14:30:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/240355"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-224-Div.2】洛谷 5 月月赛 I & FAOI-R9",
+      "start_time": "2025-05-02 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/241690"
     },
     {
       "platform": "Codeforces",
@@ -283,17 +290,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J13】梦熊 J 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
-      "start_time": "2025-04-12 13:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/240582"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
       "start_time": "2025-04-12 13:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/240581"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J13】梦熊 J 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
+      "start_time": "2025-04-12 13:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/240582"
     },
     {
       "platform": "NowCoder",
