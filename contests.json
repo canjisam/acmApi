@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-24 21:03:02",
+  "last_updated": "2025-04-24 21:44:35",
   "contests": [
     {
       "platform": "AtCoder",
@@ -38,14 +38,14 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J14】梦熊 J 组 & ALFR Round 5（同步赛）",
+      "name": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
       "start_time": "2025-05-05 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/243109"
     },
     {
       "platform": "luogu",
-      "name": "【MX-X12】梦熊 X 组 & ALFR Round 5（同步赛）",
+      "name": "【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）",
       "start_time": "2025-05-05 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/243108"
