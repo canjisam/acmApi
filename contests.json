@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-25 18:41:31",
+  "last_updated": "2025-04-25 19:10:08",
   "contests": [
     {
       "platform": "AtCoder",
@@ -38,17 +38,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
-      "start_time": "2025-05-05 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/243109"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）",
       "start_time": "2025-05-05 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/243108"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
+      "start_time": "2025-05-05 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/243109"
     },
     {
       "platform": "AtCoder",
@@ -112,6 +112,13 @@
       "start_time": "2025-05-01 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/232940"
+    },
+    {
+      "platform": "luogu",
+      "name": "Conclusion Masters #2",
+      "start_time": "2025-05-01 08:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/230226"
     },
     {
       "platform": "Codeforces",
@@ -304,17 +311,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
-      "start_time": "2025-04-12 13:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/240581"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J13】梦熊 J 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
       "start_time": "2025-04-12 13:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/240582"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
+      "start_time": "2025-04-12 13:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/240581"
     },
     {
       "platform": "NowCoder",
