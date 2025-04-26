@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-26 19:33:52",
+  "last_updated": "2025-04-26 20:20:03",
   "contests": [
     {
       "platform": "AtCoder",
@@ -168,20 +168,6 @@
       "start_time": "2025-04-26 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-155"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1021 (Div. 1)",
-      "start_time": "2025-04-26 16:35:00",
-      "duration": "3小时0分钟",
-      "url": "https://codeforces.com/contest/2097"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1021 (Div. 2)",
-      "start_time": "2025-04-26 16:35:00",
-      "duration": "3小时0分钟",
-      "url": "https://codeforces.com/contest/2098"
     },
     {
       "platform": "luogu",
