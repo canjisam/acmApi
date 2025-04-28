@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-28 20:23:10",
+  "last_updated": "2025-04-28 21:22:46",
   "contests": [
     {
       "platform": "AtCoder",
@@ -114,6 +114,13 @@
       "url": "https://leetcode.com/contest/weekly-contest-448"
     },
     {
+      "platform": "luogu",
+      "name": "『ANIME』Round 2",
+      "start_time": "2025-05-04 08:30:00",
+      "duration": "3小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/235482"
+    },
+    {
       "platform": "AtCoder",
       "name": "AtCoder Beginner Contest 404",
       "start_time": "2025-05-03 20:00:00",
@@ -147,13 +154,6 @@
       "start_time": "2025-05-02 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/241690"
-    },
-    {
-      "platform": "luogu",
-      "name": "『ANIME』Round 2",
-      "start_time": "2025-05-02 08:30:00",
-      "duration": "3小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/235482"
     },
     {
       "platform": "Codeforces",
