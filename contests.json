@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-28 08:59:53",
+  "last_updated": "2025-04-28 10:42:31",
   "contests": [
     {
       "platform": "AtCoder",
@@ -135,6 +135,13 @@
       "url": "https://www.luogu.com.cn/contest/241690"
     },
     {
+      "platform": "luogu",
+      "name": "『FDOI-Round 1』致敬可爱的狐狸团长",
+      "start_time": "2025-05-02 08:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/242882"
+    },
+    {
       "platform": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start_time": "2025-05-01 22:35:00",
@@ -154,6 +161,13 @@
       "start_time": "2025-05-01 08:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/230226"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "武汉工程大学第七届ACM程序设计竞赛同步赛",
+      "start_time": "2025-04-30 11:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/108430?from=acm_calendar"
     },
     {
       "platform": "Codeforces",
@@ -301,20 +315,6 @@
       "start_time": "2025-04-13 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/203994"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 445",
-      "start_time": "2025-04-13 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-445"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "华中农业大学第十四届程序设计竞赛（同步赛）",
-      "start_time": "2025-04-13 10:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/104226?from=acm_calendar"
     }
   ]
 }
