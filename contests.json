@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-01 16:16:24",
+  "last_updated": "2025-05-01 16:43:06",
   "contests": [
     {
       "platform": "AtCoder",
@@ -315,13 +315,6 @@
       "start_time": "2025-04-19 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/224129"
-    },
-    {
-      "platform": "luogu",
-      "name": "WyOJ Round 1",
-      "start_time": "2025-04-18 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/239055"
     }
   ]
 }
