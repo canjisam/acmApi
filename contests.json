@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-03 18:39:38",
+  "last_updated": "2025-05-03 19:09:08",
   "contests": [
     {
       "platform": "AtCoder",
@@ -126,6 +126,13 @@
       "start_time": "2025-05-09 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/109081?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "DLESS Round 1",
+      "start_time": "2025-05-09 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/238488"
     },
     {
       "platform": "Codeforces",
@@ -315,13 +322,6 @@
       "start_time": "2025-04-20 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-446"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-221-Div.3】洛谷基础赛 #21",
-      "start_time": "2025-04-19 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/224129"
     }
   ]
 }
