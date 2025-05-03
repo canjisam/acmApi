@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-03 21:38:37",
+  "last_updated": "2025-05-03 22:10:35",
   "contests": [
     {
       "platform": "AtCoder",
@@ -143,17 +143,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）",
-      "start_time": "2025-05-05 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/243108"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
       "start_time": "2025-05-05 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/243109"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）",
+      "start_time": "2025-05-05 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/243108"
     },
     {
       "platform": "NowCoder",
@@ -161,6 +161,13 @@
       "start_time": "2025-05-05 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108218?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "『FDOI-Round 1』致敬可爱的狐狸团长",
+      "start_time": "2025-05-05 08:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/242882"
     },
     {
       "platform": "AtCoder",
@@ -301,13 +308,6 @@
       "start_time": "2025-04-24 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/242895"
-    },
-    {
-      "platform": "luogu",
-      "name": "『STAOI』G - Round 9",
-      "start_time": "2025-04-20 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/210424"
     },
     {
       "platform": "LeetCode",
