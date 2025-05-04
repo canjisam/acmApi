@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-04 11:43:24",
+  "last_updated": "2025-05-04 12:15:52",
   "contests": [
     {
       "platform": "AtCoder",
@@ -91,6 +91,13 @@
       "start_time": "2025-05-11 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108589?from=acm_calendar"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 449",
+      "start_time": "2025-05-11 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-449"
     },
     {
       "platform": "LeetCode",
