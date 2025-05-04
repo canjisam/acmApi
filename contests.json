@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-04 19:33:45",
+  "last_updated": "2025-05-04 20:21:05",
   "contests": [
     {
       "platform": "AtCoder",
@@ -168,13 +168,6 @@
       "start_time": "2025-05-05 08:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/242882"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Regular Contest 197 (Div. 2)",
-      "start_time": "2025-05-04 20:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://atcoder.jp/contests/arc197"
     },
     {
       "platform": "luogu",
