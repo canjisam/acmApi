@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-05 13:41:06",
+  "last_updated": "2025-05-05 14:18:40",
   "contests": [
     {
       "platform": "AtCoder",
@@ -294,13 +294,6 @@
       "start_time": "2025-04-24 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/242895"
-    },
-    {
-      "platform": "luogu",
-      "name": "『STAOI』G - Round 9",
-      "start_time": "2025-04-20 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/210424"
     }
   ]
 }
