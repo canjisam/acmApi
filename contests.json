@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-05 15:12:57",
+  "last_updated": "2025-05-05 15:36:45",
   "contests": [
     {
       "platform": "AtCoder",
@@ -133,6 +133,20 @@
       "start_time": "2025-05-09 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/109081?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "Izborne pripreme 2025 Day 2 Unofficial Mirror",
+      "start_time": "2025-05-08 14:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/244750"
+    },
+    {
+      "platform": "luogu",
+      "name": "Izborne pripreme 2025 Day 1 Unofficial Mirror",
+      "start_time": "2025-05-07 14:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/244749"
     },
     {
       "platform": "Codeforces",
