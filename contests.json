@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-06 21:04:53",
+  "last_updated": "2025-05-06 21:45:58",
   "contests": [
     {
       "platform": "AtCoder",
@@ -164,17 +164,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）",
-      "start_time": "2025-05-05 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/243108"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
       "start_time": "2025-05-05 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/243109"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）",
+      "start_time": "2025-05-05 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/243108"
     },
     {
       "platform": "NowCoder",
@@ -287,13 +287,6 @@
       "start_time": "2025-04-26 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-155"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-222-Div.1】梅拉算智 4 月月赛 I & HCOI Round 2",
-      "start_time": "2025-04-26 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/201695"
     },
     {
       "platform": "luogu",
