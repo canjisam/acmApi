@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-06 15:37:32",
+  "last_updated": "2025-05-06 16:17:20",
   "contests": [
     {
       "platform": "AtCoder",
@@ -98,6 +98,13 @@
       "start_time": "2025-05-11 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-449"
+    },
+    {
+      "platform": "luogu",
+      "name": "『FDOI-Round 1』致敬可爱的狐狸团长",
+      "start_time": "2025-05-11 08:30:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/242882"
     },
     {
       "platform": "LeetCode",
@@ -294,13 +301,6 @@
       "start_time": "2025-04-25 17:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/240240"
-    },
-    {
-      "platform": "luogu",
-      "name": "eJOI 2024 Day 1 Unofficial Mirror",
-      "start_time": "2025-04-24 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/242895"
     }
   ]
 }
