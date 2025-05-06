@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-06 18:13:13",
+  "last_updated": "2025-05-06 18:42:45",
   "contests": [
     {
       "platform": "AtCoder",
@@ -91,6 +91,13 @@
       "start_time": "2025-05-11 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108589?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "DLESS Round 1",
+      "start_time": "2025-05-11 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/238488"
     },
     {
       "platform": "LeetCode",
@@ -294,13 +301,6 @@
       "start_time": "2025-04-26 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/240146"
-    },
-    {
-      "platform": "luogu",
-      "name": "WAOI R3",
-      "start_time": "2025-04-25 17:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/240240"
     }
   ]
 }
