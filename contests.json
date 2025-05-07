@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-08 03:34:09",
+  "last_updated": "2025-05-08 04:13:44",
   "contests": [
     {
       "platform": "AtCoder",
@@ -157,6 +157,13 @@
     },
     {
       "platform": "luogu",
+      "name": "NOI 模拟赛",
+      "start_time": "2025-05-08 03:47:57",
+      "duration": "96小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/245586"
+    },
+    {
+      "platform": "luogu",
       "name": "Izborne pripreme 2025 Day 1 Unofficial Mirror",
       "start_time": "2025-05-07 14:00:00",
       "duration": "5小时15分钟",
@@ -287,13 +294,6 @@
       "start_time": "2025-04-26 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-155"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-222-Div.2】梅拉算智 4 月月赛 I & HCOI Round 2",
-      "start_time": "2025-04-26 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/240146"
     }
   ]
 }
