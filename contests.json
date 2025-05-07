@@ -1,41 +1,6 @@
 {
-  "last_updated": "2025-05-08 02:45:50",
+  "last_updated": "2025-05-08 03:10:30",
   "contests": [
-    {
-      "platform": "AtCoder",
-      "name": "MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)",
-      "start_time": "2025-05-30 18:00:00",
-      "duration": "240小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc048"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Regular Contest 198 (Div. 2)",
-      "start_time": "2025-05-25 20:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://atcoder.jp/contests/arc198"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Beginner Contest 407",
-      "start_time": "2025-05-24 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc407"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "Toyota Programming Contest 2025#2（AtCoder Heuristic Contest 047）",
-      "start_time": "2025-05-18 18:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc047"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "Panasonic Programming Contest 2025（AtCoder Beginner Contest 406）",
-      "start_time": "2025-05-17 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc406"
-    },
     {
       "platform": "luogu",
       "name": "Aboi Round 1",
@@ -119,13 +84,6 @@
       "start_time": "2025-05-10 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-156"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Beginner Contest 405",
-      "start_time": "2025-05-10 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc405"
     },
     {
       "platform": "luogu",
