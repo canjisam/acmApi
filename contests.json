@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-08 22:41:43",
+  "last_updated": "2025-05-08 23:13:04",
   "contests": [
     {
       "platform": "AtCoder",
@@ -70,6 +70,13 @@
       "start_time": "2025-05-16 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/109080?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-226-Div.4】洛谷入门赛 #35",
+      "start_time": "2025-05-16 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/245718"
     },
     {
       "platform": "NowCoder",
@@ -185,17 +192,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
-      "start_time": "2025-05-05 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/243109"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）",
       "start_time": "2025-05-05 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/243108"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
+      "start_time": "2025-05-05 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/243109"
     },
     {
       "platform": "NowCoder",
@@ -280,13 +287,6 @@
       "start_time": "2025-05-01 08:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/230226"
-    },
-    {
-      "platform": "luogu",
-      "name": "「LAOI」Easy Round 12",
-      "start_time": "2025-04-27 13:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/237332"
     },
     {
       "platform": "LeetCode",
