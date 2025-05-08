@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-08 22:11:37",
+  "last_updated": "2025-05-08 22:41:43",
   "contests": [
     {
       "platform": "AtCoder",
@@ -158,7 +158,7 @@
     {
       "platform": "luogu",
       "name": "JOI 2024/2025 二次予選 Unofficial Mirror",
-      "start_time": "2025-05-09 14:00:00",
+      "start_time": "2025-05-09 18:30:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/245601"
     },
