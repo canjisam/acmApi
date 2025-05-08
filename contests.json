@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-08 08:59:48",
+  "last_updated": "2025-05-08 10:42:36",
   "contests": [
     {
       "platform": "AtCoder",
@@ -56,6 +56,13 @@
       "start_time": "2025-05-17 13:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/235872"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2025年ICPC新疆维吾尔自治区大学生程序设计竞赛",
+      "start_time": "2025-05-17 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/109791?from=acm_calendar"
     },
     {
       "platform": "NowCoder",
@@ -150,17 +157,17 @@
     },
     {
       "platform": "luogu",
+      "name": "JOI 2024/2025 二次予選 Unofficial Mirror",
+      "start_time": "2025-05-09 14:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/245601"
+    },
+    {
+      "platform": "luogu",
       "name": "Izborne pripreme 2025 Day 2 Unofficial Mirror",
       "start_time": "2025-05-08 14:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/244750"
-    },
-    {
-      "platform": "luogu",
-      "name": "NOI 模拟赛",
-      "start_time": "2025-05-08 03:47:57",
-      "duration": "96小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/245586"
     },
     {
       "platform": "luogu",
