@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-08 10:42:36",
+  "last_updated": "2025-05-08 11:37:34",
   "contests": [
     {
       "platform": "AtCoder",
@@ -171,6 +171,13 @@
     },
     {
       "platform": "luogu",
+      "name": "Ynoi Easy Round 2018 Unofficial Mirror",
+      "start_time": "2025-05-08 14:00:00",
+      "duration": "24小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/245609"
+    },
+    {
+      "platform": "luogu",
       "name": "Izborne pripreme 2025 Day 1 Unofficial Mirror",
       "start_time": "2025-05-07 14:00:00",
       "duration": "5小时15分钟",
@@ -287,13 +294,6 @@
       "start_time": "2025-04-27 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-447"
-    },
-    {
-      "platform": "luogu",
-      "name": "eJOI 2024 Day 2 Unofficial Mirror",
-      "start_time": "2025-04-27 08:00:00",
-      "duration": "4小时15分钟",
-      "url": "https://www.luogu.com.cn/contest/243276"
     },
     {
       "platform": "LeetCode",
