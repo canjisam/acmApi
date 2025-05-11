@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-11 11:40:12",
+  "last_updated": "2025-05-11 12:15:21",
   "contests": [
     {
       "platform": "AtCoder",
@@ -56,6 +56,13 @@
       "start_time": "2025-05-18 13:30:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/245921"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 450",
+      "start_time": "2025-05-18 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-450"
     },
     {
       "platform": "Codeforces",
