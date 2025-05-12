@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-12 13:40:57",
+  "last_updated": "2025-05-12 14:18:42",
   "contests": [
     {
       "platform": "AtCoder",
@@ -149,13 +149,6 @@
       "url": "https://leetcode.com/contest/weekly-contest-449"
     },
     {
-      "platform": "luogu",
-      "name": "FDOI Round 1",
-      "start_time": "2025-05-11 08:30:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/242882"
-    },
-    {
       "platform": "LeetCode",
       "name": "Biweekly Contest 156",
       "start_time": "2025-05-10 22:30:00",
@@ -213,17 +206,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）",
-      "start_time": "2025-05-05 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/243108"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
       "start_time": "2025-05-05 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/243109"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）",
+      "start_time": "2025-05-05 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/243108"
     },
     {
       "platform": "NowCoder",
@@ -301,6 +294,13 @@
       "start_time": "2025-05-01 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108199?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "Conclusion Masters #2",
+      "start_time": "2025-05-01 08:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/230226"
     }
   ]
 }
