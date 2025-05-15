@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-15 08:57:32",
+  "last_updated": "2025-05-15 10:38:36",
   "contests": [
     {
       "platform": "AtCoder",
@@ -14,6 +14,13 @@
       "start_time": "2025-05-25 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc198"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Biweekly Contest 157",
+      "start_time": "2025-05-24 22:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/biweekly-contest-157"
     },
     {
       "platform": "AtCoder",
@@ -49,6 +56,13 @@
       "start_time": "2025-05-18 13:30:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/245921"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 450",
+      "start_time": "2025-05-18 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-450"
     },
     {
       "platform": "NowCoder",
@@ -135,6 +149,20 @@
       "url": "https://www.luogu.com.cn/contest/238488"
     },
     {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 449",
+      "start_time": "2025-05-11 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-449"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Biweekly Contest 156",
+      "start_time": "2025-05-10 22:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/biweekly-contest-156"
+    },
+    {
       "platform": "luogu",
       "name": "Math×Girl",
       "start_time": "2025-05-10 13:30:00",
@@ -217,6 +245,13 @@
       "start_time": "2025-05-04 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108217?from=acm_calendar"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 448",
+      "start_time": "2025-05-04 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-448"
     },
     {
       "platform": "luogu",
