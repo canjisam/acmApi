@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-16 18:42:41",
+  "last_updated": "2025-05-16 19:10:34",
   "contests": [
     {
       "platform": "AtCoder",
@@ -38,7 +38,7 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-225-Div.1】洛谷蓝桥杯模拟赛 & 洛谷算法基础赛 #4",
+      "name": "【LGR-225-Div.1.5】洛谷蓝桥杯模拟赛 & 洛谷算法基础赛 #4",
       "start_time": "2025-05-24 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/245376"
