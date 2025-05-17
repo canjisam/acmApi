@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-17 13:38:37",
+  "last_updated": "2025-05-17 14:15:58",
   "contests": [
     {
       "platform": "AtCoder",
@@ -287,13 +287,6 @@
       "start_time": "2025-05-03 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108216?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-224-Div.2】洛谷 5 月月赛 I & FAOI-R9",
-      "start_time": "2025-05-02 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/241690"
     }
   ]
 }
