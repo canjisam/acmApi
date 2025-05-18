@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-18 11:45:42",
+  "last_updated": "2025-05-18 12:18:25",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,13 @@
       "start_time": "2025-05-25 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc198"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 451",
+      "start_time": "2025-05-25 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-451"
     },
     {
       "platform": "LeetCode",
@@ -266,13 +273,6 @@
       "start_time": "2025-05-03 14:30:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/240355"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025牛客五一集训派对day3",
-      "start_time": "2025-05-03 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/108216?from=acm_calendar"
     }
   ]
 }
