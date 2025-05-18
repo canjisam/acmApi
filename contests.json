@@ -1,19 +1,19 @@
 {
-  "last_updated": "2025-05-18 17:36:03",
+  "last_updated": "2025-05-18 18:11:42",
   "contests": [
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Regular Contest 199 (Div. 1)",
-      "start_time": "2025-06-15 20:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://atcoder.jp/contests/arc199"
-    },
     {
       "platform": "AtCoder",
       "name": "AtCoder Beginner Contest 410",
       "start_time": "2025-06-14 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc410"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Regular Contest 199 (Div. 1)",
+      "start_time": "2025-06-01 20:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://atcoder.jp/contests/arc199"
     },
     {
       "platform": "AtCoder",
@@ -63,13 +63,6 @@
       "start_time": "2025-05-18 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/109904?from=acm_calendar"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "Toyota Programming Contest 2025#2（AtCoder Heuristic Contest 047）",
-      "start_time": "2025-05-18 18:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc047"
     },
     {
       "platform": "luogu",
