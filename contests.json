@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-18 14:16:33",
+  "last_updated": "2025-05-18 14:45:14",
   "contests": [
     {
       "platform": "AtCoder",
@@ -266,13 +266,6 @@
       "start_time": "2025-05-04 08:30:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/235482"
-    },
-    {
-      "platform": "luogu",
-      "name": "CZOI Round 3",
-      "start_time": "2025-05-03 14:30:00",
-      "duration": "3小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/240355"
     }
   ]
 }
