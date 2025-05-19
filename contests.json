@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-19 10:59:58",
+  "last_updated": "2025-05-19 11:49:05",
   "contests": [
     {
       "platform": "AtCoder",
@@ -30,6 +30,13 @@
       "url": "https://atcoder.jp/contests/arc198"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 94",
+      "start_time": "2025-05-25 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/110696?from=acm_calendar"
+    },
+    {
       "platform": "LeetCode",
       "name": "Weekly Contest 451",
       "start_time": "2025-05-25 10:30:00",
@@ -56,6 +63,13 @@
       "start_time": "2025-05-24 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/245376"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客练习赛139",
+      "start_time": "2025-05-23 19:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/110698?from=acm_calendar"
     },
     {
       "platform": "NowCoder",
