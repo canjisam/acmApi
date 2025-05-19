@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-19 07:36:09",
+  "last_updated": "2025-05-19 09:02:50",
   "contests": [
     {
       "platform": "AtCoder",
@@ -252,13 +252,6 @@
       "start_time": "2025-05-04 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-448"
-    },
-    {
-      "platform": "luogu",
-      "name": "『ANIME』Round 2",
-      "start_time": "2025-05-04 08:30:00",
-      "duration": "3小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/235482"
     }
   ]
 }
