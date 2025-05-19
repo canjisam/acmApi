@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-19 13:40:43",
+  "last_updated": "2025-05-19 14:18:52",
   "contests": [
     {
       "platform": "AtCoder",
@@ -245,13 +245,6 @@
       "start_time": "2025-05-05 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108218?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-223-Div.3】梅拉算智基础赛 #22 & YLLOI Round 1",
-      "start_time": "2025-05-04 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/213624"
     }
   ]
 }
