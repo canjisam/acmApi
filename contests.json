@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-20 14:48:13",
+  "last_updated": "2025-05-20 15:12:43",
   "contests": [
     {
       "platform": "AtCoder",
@@ -49,6 +49,13 @@
       "start_time": "2025-05-25 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/110696?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-226-Div.2】核桃编程 5 月月赛 II & S2OI Round 1",
+      "start_time": "2025-05-25 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/219334"
     },
     {
       "platform": "LeetCode",
@@ -227,17 +234,17 @@
     },
     {
       "platform": "luogu",
-      "name": "Izborne pripreme 2025 Day 2 Unofficial Mirror",
-      "start_time": "2025-05-08 14:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/244750"
-    },
-    {
-      "platform": "luogu",
       "name": "Ynoi Easy Round 2018 Unofficial Mirror",
       "start_time": "2025-05-08 14:00:00",
       "duration": "24小时0分钟",
       "url": "https://www.luogu.com.cn/contest/245609"
+    },
+    {
+      "platform": "luogu",
+      "name": "Izborne pripreme 2025 Day 2 Unofficial Mirror",
+      "start_time": "2025-05-08 14:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/244750"
     },
     {
       "platform": "luogu",
