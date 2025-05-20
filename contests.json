@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-20 17:40:00",
+  "last_updated": "2025-05-20 18:14:03",
   "contests": [
     {
       "platform": "AtCoder",
@@ -52,7 +52,7 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-226-Div.2】核桃编程 5 月月赛 II & S2OI Round 1",
+      "name": "【LGR-227-Div.2】核桃编程 5 月月赛 II & S2OI Round 1",
       "start_time": "2025-05-25 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/219334"
