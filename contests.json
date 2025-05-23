@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-23 13:40:46",
+  "last_updated": "2025-05-23 14:17:50",
   "contests": [
     {
       "platform": "AtCoder",
@@ -238,20 +238,6 @@
       "start_time": "2025-05-09 18:30:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/245601"
-    },
-    {
-      "platform": "luogu",
-      "name": "Ynoi Easy Round 2018 Unofficial Mirror",
-      "start_time": "2025-05-08 14:00:00",
-      "duration": "24小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/245609"
-    },
-    {
-      "platform": "luogu",
-      "name": "Izborne pripreme 2025 Day 2 Unofficial Mirror",
-      "start_time": "2025-05-08 14:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/244750"
     }
   ]
 }
