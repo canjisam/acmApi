@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-23 15:37:08",
+  "last_updated": "2025-05-23 16:16:54",
   "contests": [
     {
       "platform": "AtCoder",
@@ -66,6 +66,13 @@
     },
     {
       "platform": "NowCoder",
+      "name": "第八届广西大学生程序设计大赛暨2025邀请赛",
+      "start_time": "2025-05-25 09:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/110811?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
       "name": "保定学院首届大学生程序设计大赛（同步赛）",
       "start_time": "2025-05-25 09:00:00",
       "duration": "5小时0分钟",
@@ -91,6 +98,13 @@
       "start_time": "2025-05-24 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc407"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "第八届广西大学生程序设计大赛暨2025邀请赛（热身赛）",
+      "start_time": "2025-05-24 15:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/110810?from=acm_calendar"
     },
     {
       "platform": "luogu",
