@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-23 08:59:55",
+  "last_updated": "2025-05-23 10:43:12",
   "contests": [
     {
       "platform": "AtCoder",
@@ -63,6 +63,13 @@
       "start_time": "2025-05-25 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-451"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "保定学院首届大学生程序设计大赛（同步赛）",
+      "start_time": "2025-05-25 09:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/110920?from=acm_calendar"
     },
     {
       "platform": "Codeforces",
