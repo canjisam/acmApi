@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-24 18:39:56",
+  "last_updated": "2025-05-24 19:09:03",
   "contests": [
     {
       "platform": "AtCoder",
@@ -7,6 +7,13 @@
       "start_time": "2025-06-22 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc201"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Regular Contest 200 (Div. 2)",
+      "start_time": "2025-06-15 20:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://atcoder.jp/contests/arc200"
     },
     {
       "platform": "AtCoder",
@@ -245,13 +252,6 @@
       "start_time": "2025-05-10 08:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/231124"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客练习赛138",
-      "start_time": "2025-05-09 19:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/109081?from=acm_calendar"
     }
   ]
 }
