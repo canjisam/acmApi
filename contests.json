@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-24 22:10:05",
+  "last_updated": "2025-05-24 22:37:18",
   "contests": [
     {
       "platform": "AtCoder",
@@ -35,6 +35,13 @@
       "start_time": "2025-06-01 20:00:00",
       "duration": "2小时30分钟",
       "url": "https://atcoder.jp/contests/arc199"
+    },
+    {
+      "platform": "luogu",
+      "name": "[Brooklyn Round 1 & NNOI Round 1]",
+      "start_time": "2025-06-01 08:30:00",
+      "duration": "3小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/211584"
     },
     {
       "platform": "AtCoder",
