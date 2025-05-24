@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-24 13:38:59",
+  "last_updated": "2025-05-24 14:15:50",
   "contests": [
     {
       "platform": "AtCoder",
@@ -109,7 +109,7 @@
     {
       "platform": "NowCoder",
       "name": "第八届广西大学生程序设计大赛暨2025邀请赛（热身赛）",
-      "start_time": "2025-05-24 15:00:00",
+      "start_time": "2025-05-24 15:30:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/110810?from=acm_calendar"
     },
