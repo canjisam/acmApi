@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-24 19:09:03",
+  "last_updated": "2025-05-24 19:33:51",
   "contests": [
     {
       "platform": "AtCoder",
@@ -45,7 +45,7 @@
     },
     {
       "platform": "Codeforces",
-      "name": "Codeforces Round  (Div. 3)",
+      "name": "Codeforces Round  1027 (Div. 3)",
       "start_time": "2025-05-26 22:35:00",
       "duration": "2小时15分钟",
       "url": "https://codeforces.com/contest/2114"
