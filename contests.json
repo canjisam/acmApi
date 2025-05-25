@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-25 13:11:39",
+  "last_updated": "2025-05-25 13:38:44",
   "contests": [
     {
       "platform": "AtCoder",
@@ -252,13 +252,6 @@
       "start_time": "2025-05-10 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-156"
-    },
-    {
-      "platform": "luogu",
-      "name": "Math×Girl",
-      "start_time": "2025-05-10 13:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/179064"
     }
   ]
 }
