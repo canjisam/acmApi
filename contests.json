@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-26 13:41:29",
+  "last_updated": "2025-05-26 14:18:58",
   "contests": [
     {
       "platform": "AtCoder",
@@ -245,13 +245,6 @@
       "start_time": "2025-05-11 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108589?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "DLESS Round 1",
-      "start_time": "2025-05-11 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/238488"
     }
   ]
 }
