@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-28 16:17:06",
+  "last_updated": "2025-05-28 16:46:07",
   "contests": [
     {
       "platform": "AtCoder",
@@ -130,7 +130,7 @@
     {
       "platform": "LeetCode",
       "name": "Contest Focus Mode",
-      "start_time": "2025-05-29 22:30:00",
+      "start_time": "2025-05-28 16:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/contest-focus-mode"
     },
