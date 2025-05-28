@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-28 23:40:56",
+  "last_updated": "2025-05-29 00:13:58",
   "contests": [
     {
       "platform": "AtCoder",
@@ -80,7 +80,7 @@
     },
     {
       "platform": "luogu",
-      "name": "[Brooklyn Round 1 & NNOI Round 1]",
+      "name": "Brooklyn Round 1 & NNOI Round 1",
       "start_time": "2025-06-01 08:30:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/211584"
