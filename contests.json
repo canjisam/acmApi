@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-29 09:00:39",
+  "last_updated": "2025-05-29 10:55:46",
   "contests": [
     {
       "platform": "AtCoder",
@@ -56,6 +56,13 @@
       "start_time": "2025-06-07 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc409"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-229-Div.2】洛谷 6 月月赛 I & GMSK - 01",
+      "start_time": "2025-06-07 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/233396"
     },
     {
       "platform": "Codeforces",
