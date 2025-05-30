@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-30 08:59:40",
+  "last_updated": "2025-05-30 10:42:37",
   "contests": [
     {
       "platform": "AtCoder",
@@ -66,7 +66,7 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-229-Div.2】洛谷 6 月月赛 I & GMSK - 01",
+      "name": "【LGR-229-Div.2】桃李未来 6 月月赛 I & GMSK - 01",
       "start_time": "2025-06-07 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/233396"
