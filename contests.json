@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-30 17:38:47",
+  "last_updated": "2025-05-30 18:13:12",
   "contests": [
     {
       "platform": "AtCoder",
@@ -147,13 +147,6 @@
       "start_time": "2025-05-30 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/111309?from=acm_calendar"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)",
-      "start_time": "2025-05-30 18:00:00",
-      "duration": "240小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc048"
     },
     {
       "platform": "LeetCode",
