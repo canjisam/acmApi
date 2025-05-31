@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-31 16:42:10",
+  "last_updated": "2025-05-31 17:11:57",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,13 @@
       "start_time": "2025-06-15 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc200"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start_time": "2025-06-15 17:05:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2113"
     },
     {
       "platform": "AtCoder",
