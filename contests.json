@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-31 18:40:17",
+  "last_updated": "2025-05-31 19:09:26",
   "contests": [
     {
       "platform": "AtCoder",
@@ -287,20 +287,6 @@
       "start_time": "2025-05-17 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/109791?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客小白月赛116",
-      "start_time": "2025-05-16 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/109080?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-226-Div.4】洛谷入门赛 #35",
-      "start_time": "2025-05-16 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/245718"
     }
   ]
 }
