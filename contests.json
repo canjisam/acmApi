@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-01 12:51:39",
+  "last_updated": "2025-06-01 13:12:45",
   "contests": [
     {
       "platform": "AtCoder",
@@ -238,13 +238,6 @@
       "start_time": "2025-05-17 17:00:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/244152"
-    },
-    {
-      "platform": "luogu",
-      "name": "MSTOI Round 1",
-      "start_time": "2025-05-17 13:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/235872"
     }
   ]
 }
