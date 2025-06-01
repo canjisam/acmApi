@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-01 16:42:49",
+  "last_updated": "2025-06-01 17:12:07",
   "contests": [
     {
       "platform": "AtCoder",
@@ -231,13 +231,6 @@
       "start_time": "2025-05-18 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-450"
-    },
-    {
-      "platform": "luogu",
-      "name": "Aboi Round 1",
-      "start_time": "2025-05-17 17:00:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/244152"
     }
   ]
 }
