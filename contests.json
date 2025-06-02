@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-02 13:14:12",
+  "last_updated": "2025-06-02 13:42:54",
   "contests": [
     {
       "platform": "AtCoder",
@@ -217,13 +217,6 @@
       "start_time": "2025-05-24 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/245376"
-    },
-    {
-      "platform": "luogu",
-      "name": "西安交通大学2025年程序设计竞赛校赛（同步赛）",
-      "start_time": "2025-05-18 13:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/245921"
     }
   ]
 }
