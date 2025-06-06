@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-06 07:38:40",
+  "last_updated": "2025-06-06 09:00:39",
   "contests": [
     {
       "platform": "AtCoder",
@@ -58,6 +58,13 @@
       "url": "https://atcoder.jp/contests/abc410"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客小白月赛118",
+      "start_time": "2025-06-13 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/111666?from=acm_calendar"
+    },
+    {
       "platform": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start_time": "2025-06-12 22:35:00",
@@ -70,6 +77,27 @@
       "start_time": "2025-06-08 22:35:00",
       "duration": "2小时15分钟",
       "url": "https://codeforces.com/contest/2117"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 95",
+      "start_time": "2025-06-08 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/111159?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "衡阳师范学院第二十五届程序设计竞赛（同步赛）",
+      "start_time": "2025-06-08 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/109291?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "第二十二届宁波大学程序设计竞赛（同步赛）",
+      "start_time": "2025-06-08 13:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/111289?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
@@ -93,6 +121,13 @@
       "url": "https://atcoder.jp/contests/abc409"
     },
     {
+      "platform": "NowCoder",
+      "name": "2025年夏第九届河北工业大学程序设计校赛",
+      "start_time": "2025-06-07 14:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/110271?from=acm_calendar"
+    },
+    {
       "platform": "luogu",
       "name": "【LGR-229-Div.2】桃李未来 6 月月赛 I & GMSK - 01",
       "start_time": "2025-06-07 14:00:00",
@@ -105,6 +140,27 @@
       "start_time": "2025-06-07 10:00:00",
       "duration": "1小时40分钟",
       "url": "https://www.luogu.com.cn/contest/230134"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客练习赛140",
+      "start_time": "2025-06-06 19:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/111355?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "浙江广厦大学第八届程序设计比赛",
+      "start_time": "2025-06-04 17:40:00",
+      "duration": "3小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/111228?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客2025年儿童节比赛",
+      "start_time": "2025-06-01 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/110699?from=acm_calendar"
     },
     {
       "platform": "luogu",
