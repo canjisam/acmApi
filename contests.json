@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-12 17:40:36",
+  "last_updated": "2025-06-12 18:14:22",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,13 @@
       "start_time": "2025-06-22 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc201"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 97",
+      "start_time": "2025-06-22 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/112078?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
