@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-12 16:17:24",
+  "last_updated": "2025-06-12 16:46:28",
   "contests": [
     {
       "platform": "AtCoder",
@@ -245,13 +245,6 @@
       "start_time": "2025-05-31 08:30:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/245637"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Contest Focus Mode",
-      "start_time": "2025-05-28 16:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/contest-focus-mode"
     }
   ]
 }
