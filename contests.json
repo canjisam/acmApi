@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-14 08:59:19",
+  "last_updated": "2025-06-14 10:41:53",
   "contests": [
     {
       "platform": "AtCoder",
@@ -7,6 +7,13 @@
       "start_time": "2025-07-05 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc413"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 456",
+      "start_time": "2025-06-29 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-456"
     },
     {
       "platform": "AtCoder",
