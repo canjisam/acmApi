@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-16 09:03:34",
+  "last_updated": "2025-06-16 11:06:32",
   "contests": [
     {
       "platform": "AtCoder",
@@ -7,13 +7,6 @@
       "start_time": "2025-07-05 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc413"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "第五届上海理工大学程序设计全国挑战赛",
-      "start_time": "2025-06-29 12:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/111679?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
@@ -28,6 +21,13 @@
       "start_time": "2025-06-28 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc412"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "第五届上海理工大学程序设计全国挑战赛",
+      "start_time": "2025-06-28 12:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/111679?from=acm_calendar"
     },
     {
       "platform": "Codeforces",
@@ -56,6 +56,13 @@
       "start_time": "2025-06-22 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-455"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "第十二届成都信息工程大学ACM程序设计竞赛同步赛",
+      "start_time": "2025-06-22 10:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/112080?from=acm_calendar"
     },
     {
       "platform": "Codeforces",
@@ -217,13 +224,6 @@
       "start_time": "2025-06-01 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/249248"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 452",
-      "start_time": "2025-06-01 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-452"
     }
   ]
 }
