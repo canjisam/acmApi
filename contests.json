@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-17 12:21:40",
+  "last_updated": "2025-06-17 12:47:09",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,20 @@
       "start_time": "2025-07-05 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc413"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X13】梦熊 X 组 · 周年赛 & KDOI Round 12（同步赛）",
+      "start_time": "2025-06-29 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/252738"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J16】梦熊 J 组 · 周年赛 & KDOI Round 12（同步赛）",
+      "start_time": "2025-06-29 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/252739"
     },
     {
       "platform": "LeetCode",
