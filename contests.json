@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-06-17 10:59:17",
+  "last_updated": "2025-06-17 11:48:50",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "World Tour Finals 2025 Algorithm",
+      "start_time": "2025-07-17 11:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://atcoder.jp/contests/awtf2025algo"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "World Tour Finals 2025 Algorithm（Open Contest）",
+      "start_time": "2025-07-17 11:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://atcoder.jp/contests/awtf2025algo-open"
+    },
     {
       "platform": "AtCoder",
       "name": "Denso Create Programming Contest 2025（AtCoder Beginner Contest 413）",
