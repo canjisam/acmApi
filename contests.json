@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-18 00:48:51",
+  "last_updated": "2025-06-18 01:11:59",
   "contests": [
     {
       "platform": "AtCoder",
@@ -126,13 +126,6 @@
       "start_time": "2025-06-20 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/111921?from=acm_calendar"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1032 (Div. 3)",
-      "start_time": "2025-06-17 22:35:00",
-      "duration": "2小时15分钟",
-      "url": "https://codeforces.com/contest/2121"
     },
     {
       "platform": "NowCoder",
