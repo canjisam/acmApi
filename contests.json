@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-19 00:15:52",
+  "last_updated": "2025-06-19 00:48:11",
   "contests": [
     {
       "platform": "AtCoder",
@@ -58,13 +58,6 @@
       "url": "https://ac.nowcoder.com/acm/contest/111679?from=acm_calendar"
     },
     {
-      "platform": "Codeforces",
-      "name": "Educational Codeforces Round 180 (Rated for Div. 2)",
-      "start_time": "2025-06-23 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2112"
-    },
-    {
       "platform": "AtCoder",
       "name": "AtCoder Regular Contest 201",
       "start_time": "2025-06-22 20:00:00",
@@ -91,13 +84,6 @@
       "start_time": "2025-06-22 10:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/112080?from=acm_calendar"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1033 (Div. 1 + Div. 2) x CodeNite 2025",
-      "start_time": "2025-06-21 22:35:00",
-      "duration": "2小时30分钟",
-      "url": "https://codeforces.com/contest/2120"
     },
     {
       "platform": "LeetCode",
