@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-21 13:40:04",
+  "last_updated": "2025-06-21 14:16:51",
   "contests": [
     {
       "platform": "AtCoder",
@@ -161,13 +161,6 @@
       "start_time": "2025-06-21 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc411"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "Toyota Programming Contest 2025#3（AtCoder Heuristic Contest 049）",
-      "start_time": "2025-06-21 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc049"
     },
     {
       "platform": "NowCoder",
