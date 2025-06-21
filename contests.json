@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-21 09:00:23",
+  "last_updated": "2025-06-21 10:53:43",
   "contests": [
     {
       "platform": "AtCoder",
@@ -14,6 +14,13 @@
       "start_time": "2025-07-17 11:00:00",
       "duration": "5小时0分钟",
       "url": "https://atcoder.jp/contests/awtf2025algo-open"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 457",
+      "start_time": "2025-07-06 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-457"
     },
     {
       "platform": "Codeforces",
