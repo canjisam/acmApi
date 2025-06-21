@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-22 00:14:00",
+  "last_updated": "2025-06-22 00:45:01",
   "contests": [
     {
       "platform": "AtCoder",
@@ -140,13 +140,6 @@
       "start_time": "2025-06-22 10:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/112080?from=acm_calendar"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1033 (Div. 2) and CodeNite 2025",
-      "start_time": "2025-06-21 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2120"
     },
     {
       "platform": "LeetCode",
