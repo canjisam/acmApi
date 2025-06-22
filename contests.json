@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-22 15:36:58",
+  "last_updated": "2025-06-22 16:15:27",
   "contests": [
     {
       "platform": "AtCoder",
@@ -100,18 +100,18 @@
       "url": "https://ac.nowcoder.com/acm/contest/112318?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "Ynoi 2019 Unofficial Mirror",
+      "start_time": "2025-06-24 12:00:00",
+      "duration": "24小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/253194"
+    },
+    {
       "platform": "Codeforces",
       "name": "Educational Codeforces Round 180 (Rated for Div. 2)",
       "start_time": "2025-06-23 22:35:00",
       "duration": "2小时0分钟",
       "url": "https://codeforces.com/contest/2112"
-    },
-    {
-      "platform": "luogu",
-      "name": "Ynoi 2019 Unofficial Mirror",
-      "start_time": "2025-06-23 12:00:00",
-      "duration": "24小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/253194"
     },
     {
       "platform": "AtCoder",
