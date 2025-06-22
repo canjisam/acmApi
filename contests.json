@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-22 13:40:51",
+  "last_updated": "2025-06-22 14:17:19",
   "contests": [
     {
       "platform": "AtCoder",
@@ -224,20 +224,6 @@
       "start_time": "2025-06-07 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-158"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025年夏第九届河北工业大学程序设计校赛",
-      "start_time": "2025-06-07 14:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/110271?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-229-Div.2】桃李未来 6 月月赛 I & GMSK - 01",
-      "start_time": "2025-06-07 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/233396"
     }
   ]
 }
