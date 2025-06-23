@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-23 12:51:52",
+  "last_updated": "2025-06-23 13:15:22",
   "contests": [
     {
       "platform": "AtCoder",
@@ -189,20 +189,6 @@
       "start_time": "2025-06-08 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/111159?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "衡阳师范学院第二十五届程序设计竞赛（同步赛）",
-      "start_time": "2025-06-08 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/109291?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "第二十二届宁波大学程序设计竞赛（同步赛）",
-      "start_time": "2025-06-08 13:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/111289?from=acm_calendar"
     }
   ]
 }
