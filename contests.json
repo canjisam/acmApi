@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-06-24 09:02:02",
+  "last_updated": "2025-06-24 11:01:09",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "Japan Registry Services (JPRS) Programming Contest 2025#2 (AtCoder Beginner Contest 415)",
+      "start_time": "2025-07-19 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc415"
+    },
     {
       "platform": "AtCoder",
       "name": "World Tour Finals 2025 Algorithm",
@@ -16,18 +23,18 @@
       "url": "https://atcoder.jp/contests/awtf2025algo-open"
     },
     {
+      "platform": "AtCoder",
+      "name": "Mirrativ Programming Contest 2025 (AtCoder Beginner Contest 414)",
+      "start_time": "2025-07-12 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc414"
+    },
+    {
       "platform": "LeetCode",
       "name": "Weekly Contest 457",
       "start_time": "2025-07-06 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-457"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
-      "start_time": "2025-07-05 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2119"
     },
     {
       "platform": "LeetCode",
@@ -42,13 +49,6 @@
       "start_time": "2025-07-05 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc413"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 3)",
-      "start_time": "2025-07-01 22:35:00",
-      "duration": "2小时15分钟",
-      "url": "https://codeforces.com/contest/2123"
     },
     {
       "platform": "NowCoder",
