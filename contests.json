@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-27 13:14:05",
+  "last_updated": "2025-06-27 13:43:06",
   "contests": [
     {
       "platform": "AtCoder",
@@ -112,6 +112,13 @@
       "start_time": "2025-06-28 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc412"
+    },
+    {
+      "platform": "luogu",
+      "name": "# IAOI Round 1 旅途 Only one's journey.",
+      "start_time": "2025-06-28 14:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/235738"
     },
     {
       "platform": "NowCoder",
