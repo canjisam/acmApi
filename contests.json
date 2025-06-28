@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-28 20:22:04",
+  "last_updated": "2025-06-28 21:01:05",
   "contests": [
     {
       "platform": "AtCoder",
@@ -37,13 +37,6 @@
       "url": "https://atcoder.jp/contests/abc414"
     },
     {
-      "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 1 + Div. 2)",
-      "start_time": "2025-07-06 22:35:00",
-      "duration": "3小时0分钟",
-      "url": "https://codeforces.com/contest/2124"
-    },
-    {
       "platform": "AtCoder",
       "name": "AtCoder Heuristic Contest 050",
       "start_time": "2025-07-06 18:00:00",
@@ -58,13 +51,6 @@
       "url": "https://leetcode.com/contest/weekly-contest-457"
     },
     {
-      "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
-      "start_time": "2025-07-05 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2119"
-    },
-    {
       "platform": "LeetCode",
       "name": "Biweekly Contest 160",
       "start_time": "2025-07-05 22:30:00",
@@ -77,13 +63,6 @@
       "start_time": "2025-07-05 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc413"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1034 (Div. 3)",
-      "start_time": "2025-07-01 22:35:00",
-      "duration": "2小时15分钟",
-      "url": "https://codeforces.com/contest/2123"
     },
     {
       "platform": "NowCoder",
