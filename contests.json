@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-28 21:01:05",
+  "last_updated": "2025-06-28 21:41:45",
   "contests": [
     {
       "platform": "AtCoder",
@@ -37,6 +37,13 @@
       "url": "https://atcoder.jp/contests/abc414"
     },
     {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 1 + Div. 2)",
+      "start_time": "2025-07-06 22:35:00",
+      "duration": "3小时0分钟",
+      "url": "https://codeforces.com/contest/2124"
+    },
+    {
       "platform": "AtCoder",
       "name": "AtCoder Heuristic Contest 050",
       "start_time": "2025-07-06 18:00:00",
@@ -49,6 +56,13 @@
       "start_time": "2025-07-06 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-457"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start_time": "2025-07-05 22:35:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2119"
     },
     {
       "platform": "LeetCode",
@@ -65,6 +79,13 @@
       "url": "https://atcoder.jp/contests/abc413"
     },
     {
+      "platform": "Codeforces",
+      "name": "Codeforces Round 1034 (Div. 3)",
+      "start_time": "2025-07-01 22:35:00",
+      "duration": "2小时15分钟",
+      "url": "https://codeforces.com/contest/2123"
+    },
+    {
       "platform": "NowCoder",
       "name": "牛客周赛 Round 98",
       "start_time": "2025-06-29 19:00:00",
@@ -73,7 +94,7 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X13】梦熊 X 组 · 周年赛 & KDOI Round 12（同步赛）",
+      "name": "【MX-X13】梦熊 X 组 · 周年赛 & KDOI Round 12",
       "start_time": "2025-06-29 14:00:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/252738"
