@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-29 09:08:59",
+  "last_updated": "2025-06-29 11:12:45",
   "contests": [
     {
       "platform": "AtCoder",
@@ -87,6 +87,13 @@
     },
     {
       "platform": "NowCoder",
+      "name": "金山杯2025年武汉理工大学程序设计竞赛",
+      "start_time": "2025-06-30 10:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/112692?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
       "name": "牛客周赛 Round 98",
       "start_time": "2025-06-29 19:00:00",
       "duration": "2小时0分钟",
@@ -101,7 +108,7 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J16】梦熊 J 组 · 周年赛 & KDOI Round 12（同步赛）",
+      "name": "【MX-J16】梦熊 J 组 · 周年赛 & KDOI Round 12",
       "start_time": "2025-06-29 14:00:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/252739"
