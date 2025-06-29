@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-29 13:16:32",
+  "last_updated": "2025-06-29 13:44:10",
   "contests": [
     {
       "platform": "AtCoder",
@@ -196,13 +196,6 @@
       "start_time": "2025-06-15 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-454"
-    },
-    {
-      "platform": "luogu",
-      "name": "DLESS Round 2：XOR MASTER #1",
-      "start_time": "2025-06-14 13:30:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/246684"
     }
   ]
 }
