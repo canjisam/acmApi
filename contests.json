@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-30 09:06:09",
+  "last_updated": "2025-06-30 11:08:54",
   "contests": [
     {
       "platform": "AtCoder",
@@ -88,7 +88,7 @@
     {
       "platform": "NowCoder",
       "name": "金山杯2025年武汉理工大学程序设计竞赛",
-      "start_time": "2025-06-30 10:00:00",
+      "start_time": "2025-06-30 10:40:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/112692?from=acm_calendar"
     },
@@ -189,13 +189,6 @@
       "start_time": "2025-06-15 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/111922?from=acm_calendar"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 454",
-      "start_time": "2025-06-15 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-454"
     }
   ]
 }
