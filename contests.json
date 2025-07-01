@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-02 00:48:24",
+  "last_updated": "2025-07-02 01:12:00",
   "contests": [
     {
       "platform": "AtCoder",
@@ -133,13 +133,6 @@
       "start_time": "2025-07-04 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/112543?from=acm_calendar"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1034 (Div. 3)",
-      "start_time": "2025-07-01 22:35:00",
-      "duration": "2小时15分钟",
-      "url": "https://codeforces.com/contest/2123"
     },
     {
       "platform": "luogu",
