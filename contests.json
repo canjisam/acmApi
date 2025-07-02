@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-02 12:48:55",
+  "last_updated": "2025-07-02 13:15:09",
   "contests": [
     {
       "platform": "AtCoder",
@@ -112,6 +112,13 @@
       "start_time": "2025-07-06 18:00:00",
       "duration": "4小时0分钟",
       "url": "https://atcoder.jp/contests/ahc050"
+    },
+    {
+      "platform": "luogu",
+      "name": "[FJCPC2025] 2025 年福建省大学生程序设计竞赛重现赛",
+      "start_time": "2025-07-06 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/254970"
     },
     {
       "platform": "LeetCode",
