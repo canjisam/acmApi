@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-02 17:42:22",
+  "last_updated": "2025-07-02 18:14:07",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "THIRD Programming Contest 2025 Summer（AtCoder Heuristic Contest 051）",
+      "start_time": "2025-08-01 18:00:00",
+      "duration": "240小时0分钟",
+      "url": "https://atcoder.jp/contests/ahc051"
+    },
     {
       "platform": "AtCoder",
       "name": "Japan Registry Services (JPRS) Programming Contest 2025#2 (AtCoder Beginner Contest 415)",
