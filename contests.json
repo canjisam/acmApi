@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-03 22:42:28",
+  "last_updated": "2025-07-03 23:13:41",
   "contests": [
     {
       "platform": "AtCoder",
@@ -156,6 +156,13 @@
       "url": "https://atcoder.jp/contests/abc413"
     },
     {
+      "platform": "luogu",
+      "name": "『STAOI』H - Round 1",
+      "start_time": "2025-07-05 14:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/253736"
+    },
+    {
       "platform": "NowCoder",
       "name": "牛客小白月赛119",
       "start_time": "2025-07-04 19:00:00",
@@ -164,17 +171,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X13】梦熊 X 组 · 周年赛 & KDOI Round 12",
-      "start_time": "2025-06-29 14:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/252738"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J16】梦熊 J 组 · 周年赛 & KDOI Round 12",
       "start_time": "2025-06-29 14:00:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/252739"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X13】梦熊 X 组 · 周年赛 & KDOI Round 12",
+      "start_time": "2025-06-29 14:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/252738"
     },
     {
       "platform": "LeetCode",
