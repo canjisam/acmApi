@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-04 15:39:55",
+  "last_updated": "2025-07-04 16:17:28",
   "contests": [
     {
       "platform": "AtCoder",
@@ -119,6 +119,13 @@
       "start_time": "2025-07-06 18:00:00",
       "duration": "4小时0分钟",
       "url": "https://atcoder.jp/contests/ahc050"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "新疆大学2025年7月月赛（同步赛）",
+      "start_time": "2025-07-06 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/112889?from=acm_calendar"
     },
     {
       "platform": "luogu",
