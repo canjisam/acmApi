@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-05 19:34:18",
+  "last_updated": "2025-07-05 20:21:49",
   "contests": [
     {
       "platform": "AtCoder",
@@ -189,13 +189,6 @@
       "start_time": "2025-07-05 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-160"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "Denso Create Programming Contest 2025（AtCoder Beginner Contest 413）",
-      "start_time": "2025-07-05 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc413"
     },
     {
       "platform": "luogu",
