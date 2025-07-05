@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-05 23:38:05",
+  "last_updated": "2025-07-06 00:14:08",
   "contests": [
     {
       "platform": "AtCoder",
@@ -14,6 +14,13 @@
       "start_time": "2025-07-20 20:00:00",
       "duration": "2小时30分钟",
       "url": "https://atcoder.jp/contests/arc202"
+    },
+    {
+      "platform": "luogu",
+      "name": "CZOI Easy Round 5",
+      "start_time": "2025-07-20 14:30:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/250226"
     },
     {
       "platform": "LeetCode",
@@ -213,17 +220,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J16】梦熊 J 组 · 周年赛 & KDOI Round 12",
-      "start_time": "2025-06-29 14:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/252739"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X13】梦熊 X 组 · 周年赛 & KDOI Round 12",
       "start_time": "2025-06-29 14:00:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/252738"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J16】梦熊 J 组 · 周年赛 & KDOI Round 12",
+      "start_time": "2025-06-29 14:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/252739"
     },
     {
       "platform": "LeetCode",
