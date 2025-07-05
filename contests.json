@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-05 14:46:25",
+  "last_updated": "2025-07-05 15:11:39",
   "contests": [
     {
       "platform": "AtCoder",
@@ -119,6 +119,13 @@
       "start_time": "2025-07-12 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc414"
+    },
+    {
+      "platform": "luogu",
+      "name": "2.48sOI Round 1",
+      "start_time": "2025-07-12 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/202042"
     },
     {
       "platform": "NowCoder",
