@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-12 19:35:58",
+  "last_updated": "2025-07-12 20:22:25",
   "contests": [
     {
       "platform": "AtCoder",
@@ -189,13 +189,6 @@
       "start_time": "2025-07-13 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-458"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "Mirrativ Programming Contest 2025 (AtCoder Beginner Contest 414)",
-      "start_time": "2025-07-12 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc414"
     },
     {
       "platform": "luogu",
