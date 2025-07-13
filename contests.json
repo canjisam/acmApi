@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-13 19:10:16",
+  "last_updated": "2025-07-13 19:37:00",
   "contests": [
     {
       "platform": "AtCoder",
@@ -63,13 +63,6 @@
       "start_time": "2025-07-20 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/113313?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "CZOI Easy Round 5",
-      "start_time": "2025-07-20 14:30:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/250226"
     },
     {
       "platform": "LeetCode",
