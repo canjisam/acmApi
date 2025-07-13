@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-13 13:42:40",
+  "last_updated": "2025-07-13 14:18:22",
   "contests": [
     {
       "platform": "AtCoder",
@@ -273,13 +273,6 @@
       "start_time": "2025-06-29 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-456"
-    },
-    {
-      "platform": "luogu",
-      "name": "# IAOI Round 1 旅途 Only one's journey.",
-      "start_time": "2025-06-28 14:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/235738"
     }
   ]
 }
