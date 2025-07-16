@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-16 07:38:52",
+  "last_updated": "2025-07-16 09:05:02",
   "contests": [
     {
       "platform": "AtCoder",
@@ -161,13 +161,6 @@
       "start_time": "2025-07-16 13:00:00",
       "duration": "4小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/113664?from=acm_calendar"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "World Tour Finals 2025 Heuristic",
-      "start_time": "2025-07-16 08:00:00",
-      "duration": "10小时0分钟",
-      "url": "https://atcoder.jp/contests/awtf2025heuristic"
     },
     {
       "platform": "NowCoder",
