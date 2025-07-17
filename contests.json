@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-17 09:05:43",
+  "last_updated": "2025-07-17 11:11:01",
   "contests": [
     {
       "platform": "AtCoder",
@@ -154,20 +154,6 @@
       "start_time": "2025-07-17 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108299?from=acm_calendar"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "World Tour Finals 2025 Algorithm",
-      "start_time": "2025-07-17 11:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://atcoder.jp/contests/awtf2025algo"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "World Tour Finals 2025 Algorithm（Open Contest）",
-      "start_time": "2025-07-17 11:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://atcoder.jp/contests/awtf2025algo-open"
     },
     {
       "platform": "luogu",
