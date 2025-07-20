@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-20 13:46:56",
+  "last_updated": "2025-07-20 14:18:09",
   "contests": [
     {
       "platform": "AtCoder",
@@ -273,13 +273,6 @@
       "start_time": "2025-07-05 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-160"
-    },
-    {
-      "platform": "luogu",
-      "name": "『STAOI』H - Round 1",
-      "start_time": "2025-07-05 14:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/253736"
     }
   ]
 }
