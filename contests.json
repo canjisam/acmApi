@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-20 19:36:29",
+  "last_updated": "2025-07-20 20:23:50",
   "contests": [
     {
       "platform": "AtCoder",
@@ -126,13 +126,6 @@
       "start_time": "2025-07-22 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108300?from=acm_calendar"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Regular Contest 202 (Div. 1)",
-      "start_time": "2025-07-20 20:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://atcoder.jp/contests/arc202"
     },
     {
       "platform": "NowCoder",
