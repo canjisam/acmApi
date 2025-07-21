@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-21 12:59:53",
+  "last_updated": "2025-07-21 13:30:34",
   "contests": [
     {
       "platform": "AtCoder",
@@ -238,20 +238,6 @@
       "start_time": "2025-07-06 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/112544?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "新疆大学2025年7月月赛（同步赛）",
-      "start_time": "2025-07-06 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/112889?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "[FJCPC2025] 2025 年福建省大学生程序设计竞赛重现赛",
-      "start_time": "2025-07-06 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/254970"
     }
   ]
 }
