@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-23 00:16:38",
+  "last_updated": "2025-07-23 00:50:13",
   "contests": [
     {
       "platform": "AtCoder",
@@ -147,13 +147,6 @@
       "start_time": "2025-07-23 13:00:00",
       "duration": "4小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/114408?from=acm_calendar"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Educational Codeforces Round 181 (Rated for Div. 2)",
-      "start_time": "2025-07-22 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2125"
     },
     {
       "platform": "NowCoder",
