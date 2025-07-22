@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-22 23:14:13",
+  "last_updated": "2025-07-22 23:43:21",
   "contests": [
     {
       "platform": "AtCoder",
@@ -119,6 +119,20 @@
       "start_time": "2025-07-26 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc416"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J17】梦熊 J 组 · 松鼠赛",
+      "start_time": "2025-07-26 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/261525"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X14】梦熊 X 组 · 松鼠赛",
+      "start_time": "2025-07-26 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/261524"
     },
     {
       "platform": "NowCoder",
