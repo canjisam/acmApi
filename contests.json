@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-22 22:46:19",
+  "last_updated": "2025-07-22 23:14:13",
   "contests": [
     {
       "platform": "AtCoder",
@@ -42,6 +42,13 @@
       "start_time": "2025-08-02 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc417"
+    },
+    {
+      "platform": "luogu",
+      "name": "emojiOI Round 1",
+      "start_time": "2025-08-02 13:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/251143"
     },
     {
       "platform": "AtCoder",
@@ -91,6 +98,13 @@
       "start_time": "2025-07-27 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/114111?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-234-Div.3】洛谷网校 7 月 CSP-J 模拟月赛 & Cfz Round 6",
+      "start_time": "2025-07-27 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/255793"
     },
     {
       "platform": "LeetCode",
@@ -156,11 +170,32 @@
       "url": "https://leetcode.com/contest/biweekly-contest-161"
     },
     {
+      "platform": "luogu",
+      "name": "郑州一中公开赛 2025",
+      "start_time": "2025-07-19 14:00:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/251887"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-233-Div.4】洛谷入门赛 #37",
+      "start_time": "2025-07-18 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/256033"
+    },
+    {
       "platform": "NowCoder",
       "name": "2025牛客暑期多校训练营2",
       "start_time": "2025-07-17 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108299?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-232-Div.2】西安三三信奥 7 月月赛 I & WAOI R4, FeOI R3.5",
+      "start_time": "2025-07-16 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/241770"
     },
     {
       "platform": "NowCoder",
@@ -184,6 +219,13 @@
       "url": "https://ac.nowcoder.com/acm/contest/112576?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "【LGR-231-Div.3】洛谷基础赛 #24 & CZOI Round 4",
+      "start_time": "2025-07-13 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/203883"
+    },
+    {
       "platform": "NowCoder",
       "name": "2025年第一届上海师范大学程序设计竞赛（同步赛）",
       "start_time": "2025-07-13 13:00:00",
@@ -196,6 +238,13 @@
       "start_time": "2025-07-13 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-458"
+    },
+    {
+      "platform": "luogu",
+      "name": "2.48sOI Round 1",
+      "start_time": "2025-07-12 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/202042"
     },
     {
       "platform": "NowCoder",
