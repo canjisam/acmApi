@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-22 09:05:28",
+  "last_updated": "2025-07-22 11:12:35",
   "contests": [
     {
       "platform": "AtCoder",
@@ -119,6 +119,13 @@
       "start_time": "2025-07-24 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108301?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "河南萌新联赛2025第（二）场：河南农业大学",
+      "start_time": "2025-07-23 13:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/114408?from=acm_calendar"
     },
     {
       "platform": "Codeforces",
