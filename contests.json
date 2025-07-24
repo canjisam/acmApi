@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-24 19:38:23",
+  "last_updated": "2025-07-24 20:27:29",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2025-08-09 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc418"
+    },
+    {
+      "platform": "luogu",
+      "name": "emojiOI Round 1",
+      "start_time": "2025-08-07 13:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/251143"
     },
     {
       "platform": "luogu",
