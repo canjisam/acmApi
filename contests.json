@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-25 19:37:56",
+  "last_updated": "2025-07-25 20:26:10",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Beginner Contest 420",
+      "start_time": "2025-08-24 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc420"
+    },
     {
       "platform": "AtCoder",
       "name": "AtCoder Regular Contest 204 (Div. 1)",
