@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-25 13:49:41",
+  "last_updated": "2025-07-25 14:20:20",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2025-08-09 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc418"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-236-Div.2】洛谷 8 月月赛 II & IAMOI Round #2",
+      "start_time": "2025-08-09 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/232936"
     },
     {
       "platform": "Codeforces",
