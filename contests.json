@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-26 09:03:51",
+  "last_updated": "2025-07-26 11:07:28",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2025-08-16 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc419"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-(-26)】SCP 2025 第一轮（初赛 J 组）模拟",
+      "start_time": "2025-08-10 09:30:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/261747"
     },
     {
       "platform": "AtCoder",
