@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-27 13:48:32",
+  "last_updated": "2025-07-27 14:18:56",
   "contests": [
     {
       "platform": "AtCoder",
@@ -287,13 +287,6 @@
       "start_time": "2025-07-13 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-458"
-    },
-    {
-      "platform": "luogu",
-      "name": "2.48sOI Round 1",
-      "start_time": "2025-07-12 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/202042"
     }
   ]
 }
