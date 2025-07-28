@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-28 12:27:54",
+  "last_updated": "2025-07-28 13:02:11",
   "contests": [
     {
       "platform": "AtCoder",
@@ -287,13 +287,6 @@
       "start_time": "2025-07-13 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/203883"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025年第一届上海师范大学程序设计竞赛（同步赛）",
-      "start_time": "2025-07-13 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/112732?from=acm_calendar"
     }
   ]
 }
