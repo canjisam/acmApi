@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-28 09:10:22",
+  "last_updated": "2025-07-28 11:19:53",
   "contests": [
     {
       "platform": "AtCoder",
@@ -140,6 +140,13 @@
       "start_time": "2025-07-31 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108303?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "河南萌新联赛2025第（三）场：河南理工大学",
+      "start_time": "2025-07-30 13:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/114806?from=acm_calendar"
     },
     {
       "platform": "NowCoder",
@@ -287,13 +294,6 @@
       "start_time": "2025-07-13 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/112732?from=acm_calendar"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 458",
-      "start_time": "2025-07-13 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-458"
     }
   ]
 }
