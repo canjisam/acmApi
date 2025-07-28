@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-28 20:27:34",
+  "last_updated": "2025-07-28 21:12:57",
   "contests": [
     {
       "platform": "AtCoder",
@@ -42,13 +42,6 @@
       "start_time": "2025-08-09 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/232936"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 1 + Div. 2)",
-      "start_time": "2025-08-07 22:35:00",
-      "duration": "3小时0分钟",
-      "url": "https://codeforces.com/contest/2127"
     },
     {
       "platform": "luogu",
@@ -119,20 +112,6 @@
       "start_time": "2025-08-01 18:00:00",
       "duration": "240小时0分钟",
       "url": "https://atcoder.jp/contests/ahc051"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 1)",
-      "start_time": "2025-07-31 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2129"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
-      "start_time": "2025-07-31 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2130"
     },
     {
       "platform": "NowCoder",
