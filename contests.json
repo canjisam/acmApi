@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-31 12:58:24",
+  "last_updated": "2025-07-31 13:27:01",
   "contests": [
     {
       "platform": "AtCoder",
@@ -287,13 +287,6 @@
       "start_time": "2025-07-16 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/241770"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "河南萌新联赛2025第（一）场：河南工业大学",
-      "start_time": "2025-07-16 13:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/113664?from=acm_calendar"
     }
   ]
 }
