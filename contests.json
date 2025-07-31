@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-31 23:43:36",
+  "last_updated": "2025-08-01 00:17:11",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,27 @@
       "start_time": "2025-08-14 14:30:00",
       "duration": "2小时0分钟",
       "url": "https://www.luogu.com.cn/contest/261748"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2025牛客暑期多校训练营10",
+      "start_time": "2025-08-14 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/108307?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2025牛客暑期多校训练营9",
+      "start_time": "2025-08-12 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/108306?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 104",
+      "start_time": "2025-08-10 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/114848?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -65,6 +86,20 @@
       "url": "https://www.luogu.com.cn/contest/251143"
     },
     {
+      "platform": "NowCoder",
+      "name": "2025牛客暑期多校训练营8",
+      "start_time": "2025-08-07 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/108305?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "\"现代汽车前瞻杯\"2025牛客暑期多校训练营7",
+      "start_time": "2025-08-05 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/108304?from=acm_calendar"
+    },
+    {
       "platform": "luogu",
       "name": "CZOI Easy Round 5",
       "start_time": "2025-08-04 14:30:00",
@@ -77,6 +112,13 @@
       "start_time": "2025-08-03 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc203"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 103",
+      "start_time": "2025-08-03 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/114593?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -149,20 +191,6 @@
       "url": "https://codeforces.com/contest/2130"
     },
     {
-      "platform": "NowCoder",
-      "name": "2025牛客暑期多校训练营6",
-      "start_time": "2025-07-31 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/108303?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "河南萌新联赛2025第（三）场：河南理工大学",
-      "start_time": "2025-07-30 13:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/114806?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "KOI 2025 Round 2 Unofficial Mirror",
       "start_time": "2025-07-29 18:00:00",
@@ -175,20 +203,6 @@
       "start_time": "2025-07-29 14:00:00",
       "duration": "2小时30分钟",
       "url": "https://www.luogu.com.cn/contest/263562"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025牛客暑期多校训练营5",
-      "start_time": "2025-07-29 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/108302?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 102",
-      "start_time": "2025-07-27 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/114111?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -219,34 +233,6 @@
       "url": "https://www.luogu.com.cn/contest/261524"
     },
     {
-      "platform": "NowCoder",
-      "name": "2025牛客暑期多校训练营4",
-      "start_time": "2025-07-24 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/108301?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "河南萌新联赛2025第（二）场：河南农业大学",
-      "start_time": "2025-07-23 13:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/114408?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "\"现代汽车前瞻杯\"2025牛客暑期多校训练营3",
-      "start_time": "2025-07-22 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/108300?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 101",
-      "start_time": "2025-07-20 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/113313?from=acm_calendar"
-    },
-    {
       "platform": "LeetCode",
       "name": "Weekly Contest 459",
       "start_time": "2025-07-20 10:30:00",
@@ -273,13 +259,6 @@
       "start_time": "2025-07-18 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://www.luogu.com.cn/contest/256033"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025牛客暑期多校训练营2",
-      "start_time": "2025-07-17 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/108299?from=acm_calendar"
     }
   ]
 }
