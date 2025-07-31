@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-31 13:50:13",
+  "last_updated": "2025-07-31 14:20:44",
   "contests": [
     {
       "platform": "AtCoder",
@@ -280,13 +280,6 @@
       "start_time": "2025-07-17 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108299?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-232-Div.2】西安三三信奥 7 月月赛 I & WAOI R4, FeOI R3.5",
-      "start_time": "2025-07-16 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/241770"
     }
   ]
 }
