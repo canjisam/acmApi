@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-01 17:46:37",
+  "last_updated": "2025-08-01 18:14:49",
   "contests": [
     {
       "platform": "AtCoder",
@@ -168,13 +168,6 @@
       "start_time": "2025-08-02 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/232544"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "THIRD Programming Contest 2025 Summer（AtCoder Heuristic Contest 051）",
-      "start_time": "2025-08-01 18:00:00",
-      "duration": "240小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc051"
     },
     {
       "platform": "luogu",
