@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-03 19:38:25",
+  "last_updated": "2025-08-03 20:24:45",
   "contests": [
     {
       "platform": "AtCoder",
@@ -133,13 +133,6 @@
       "start_time": "2025-08-04 14:30:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/250226"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Regular Contest 203 (Div. 2)",
-      "start_time": "2025-08-03 20:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://atcoder.jp/contests/arc203"
     },
     {
       "platform": "NowCoder",
