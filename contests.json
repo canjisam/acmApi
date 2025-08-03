@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-03 22:11:17",
+  "last_updated": "2025-08-03 22:41:23",
   "contests": [
     {
       "platform": "AtCoder",
@@ -63,6 +63,13 @@
       "start_time": "2025-08-10 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/114848?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-237-Div.3】Diligent-OI Round 2",
+      "start_time": "2025-08-10 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/241168"
     },
     {
       "platform": "LeetCode",
@@ -213,17 +220,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J17】梦熊 J 组 · 松鼠赛（同步赛）",
-      "start_time": "2025-07-26 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/261525"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X14】梦熊 X 组 · 松鼠赛（同步赛）",
       "start_time": "2025-07-26 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/261524"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J17】梦熊 J 组 · 松鼠赛（同步赛）",
+      "start_time": "2025-07-26 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/261525"
     },
     {
       "platform": "LeetCode",
@@ -231,13 +238,6 @@
       "start_time": "2025-07-20 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-459"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Biweekly Contest 161",
-      "start_time": "2025-07-19 22:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/biweekly-contest-161"
     }
   ]
 }
