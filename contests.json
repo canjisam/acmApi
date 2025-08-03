@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-03 13:48:20",
+  "last_updated": "2025-08-03 14:18:39",
   "contests": [
     {
       "platform": "AtCoder",
@@ -245,13 +245,6 @@
       "start_time": "2025-07-19 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-161"
-    },
-    {
-      "platform": "luogu",
-      "name": "郑州一中公开赛 2025",
-      "start_time": "2025-07-19 14:00:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/251887"
     }
   ]
 }
