@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-03 22:41:23",
+  "last_updated": "2025-08-03 23:12:42",
   "contests": [
     {
       "platform": "AtCoder",
@@ -66,7 +66,7 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-237-Div.3】Diligent-OI Round 2",
+      "name": "【LGR-237-Div.3】洛谷基础赛 #25 & Diligent-OI Round 2",
       "start_time": "2025-08-10 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/241168"
