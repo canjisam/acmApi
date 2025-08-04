@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-04 21:56:46",
+  "last_updated": "2025-08-04 22:21:12",
   "contests": [
     {
       "platform": "AtCoder",
@@ -44,6 +44,13 @@
       "url": "https://ac.nowcoder.com/acm/contest/108307?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "【LGR-238-Div.2】PumpkinOI Round 2",
+      "start_time": "2025-08-13 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/250409"
+    },
+    {
       "platform": "NowCoder",
       "name": "2025牛客暑期多校训练营9",
       "start_time": "2025-08-12 12:00:00",
@@ -63,13 +70,6 @@
       "start_time": "2025-08-10 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/114848?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-237-Div.3】洛谷基础赛 #25 & Diligent-OI Round 2",
-      "start_time": "2025-08-10 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/241168"
     },
     {
       "platform": "LeetCode",
