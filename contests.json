@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-04 09:12:10",
+  "last_updated": "2025-08-04 11:27:54",
   "contests": [
     {
       "platform": "AtCoder",
@@ -98,6 +98,13 @@
       "start_time": "2025-08-09 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/232936"
+    },
+    {
+      "platform": "luogu",
+      "name": "TPOI Round 5 & Q Round",
+      "start_time": "2025-08-08 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/244596"
     },
     {
       "platform": "Codeforces",
@@ -220,24 +227,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X14】梦熊 X 组 · 松鼠赛（同步赛）",
-      "start_time": "2025-07-26 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/261524"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J17】梦熊 J 组 · 松鼠赛（同步赛）",
       "start_time": "2025-07-26 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/261525"
     },
     {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 459",
-      "start_time": "2025-07-20 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-459"
+      "platform": "luogu",
+      "name": "【MX-X14】梦熊 X 组 · 松鼠赛（同步赛）",
+      "start_time": "2025-07-26 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/261524"
     }
   ]
 }
