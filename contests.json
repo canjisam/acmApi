@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-06 18:15:23",
+  "last_updated": "2025-08-06 18:47:34",
   "contests": [
     {
       "platform": "AtCoder",
@@ -31,10 +31,10 @@
     },
     {
       "platform": "luogu",
-      "name": "『MGOI』Round 1 加强赛",
-      "start_time": "2025-08-17 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/265532"
+      "name": "Brooklyn Round 2 & NNOI Round 2",
+      "start_time": "2025-08-17 09:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/249017"
     },
     {
       "platform": "LeetCode",
@@ -49,6 +49,13 @@
       "start_time": "2025-08-16 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc419"
+    },
+    {
+      "platform": "luogu",
+      "name": "『MGVOI』Round 1 加强赛",
+      "start_time": "2025-08-16 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/265532"
     },
     {
       "platform": "luogu",
@@ -199,17 +206,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J18】梦熊 J 组 · 风筝赛 & GMXOI Round 1（同步赛）",
-      "start_time": "2025-08-03 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/263177"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X15】梦熊 X 组 · 风筝赛 & GMXOI Round 1（同步赛）",
       "start_time": "2025-08-03 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/263176"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J18】梦熊 J 组 · 风筝赛 & GMXOI Round 1（同步赛）",
+      "start_time": "2025-08-03 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/263177"
     },
     {
       "platform": "LeetCode",
@@ -252,13 +259,6 @@
       "start_time": "2025-07-29 14:00:00",
       "duration": "2小时30分钟",
       "url": "https://www.luogu.com.cn/contest/263562"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-234-Div.3】洛谷网校 7 月 CSP-J 模拟月赛 & Cfz Round 6",
-      "start_time": "2025-07-27 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/255793"
     },
     {
       "platform": "LeetCode",
