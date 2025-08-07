@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-08 01:15:32",
+  "last_updated": "2025-08-08 01:44:55",
   "contests": [
     {
       "platform": "AtCoder",
@@ -154,13 +154,6 @@
       "start_time": "2025-08-08 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/244596"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
-      "start_time": "2025-08-07 22:35:00",
-      "duration": "3小时0分钟",
-      "url": "https://codeforces.com/contest/2127"
     },
     {
       "platform": "luogu",
