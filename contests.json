@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-08 04:14:47",
+  "last_updated": "2025-08-08 04:43:19",
   "contests": [
     {
       "platform": "AtCoder",
@@ -16,11 +16,32 @@
       "url": "https://atcoder.jp/contests/ahc052"
     },
     {
+      "platform": "luogu",
+      "name": "o.OI Round 2",
+      "start_time": "2025-08-19 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/237166"
+    },
+    {
       "platform": "AtCoder",
       "name": "AtCoder Regular Contest 204 (Div. 1)",
       "start_time": "2025-08-17 20:00:00",
       "duration": "2小时30分钟",
       "url": "https://atcoder.jp/contests/arc204"
+    },
+    {
+      "platform": "luogu",
+      "name": "『Fwb』Round 2 之夏日心动",
+      "start_time": "2025-08-17 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/227926"
+    },
+    {
+      "platform": "luogu",
+      "name": "Brooklyn Round 2 & NNOI Round 2",
+      "start_time": "2025-08-17 09:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/249017"
     },
     {
       "platform": "LeetCode",
@@ -37,11 +58,32 @@
       "url": "https://atcoder.jp/contests/abc419"
     },
     {
+      "platform": "luogu",
+      "name": "『MGVOI』Round 1 加强赛",
+      "start_time": "2025-08-16 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/265532"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-(-27)】SCP 2025 第一轮（初赛 S 组）模拟",
+      "start_time": "2025-08-14 14:30:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/261748"
+    },
+    {
       "platform": "NowCoder",
       "name": "2025牛客暑期多校训练营10",
       "start_time": "2025-08-14 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108307?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-238-Div.2】PumpkinOI Round 2",
+      "start_time": "2025-08-13 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/250409"
     },
     {
       "platform": "NowCoder",
@@ -65,6 +107,20 @@
       "url": "https://ac.nowcoder.com/acm/contest/114848?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "【MX-J19】梦熊 J 组 · 异或赛 & DLESS Round 3（同步赛）",
+      "start_time": "2025-08-10 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/265699"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X16】梦熊 X 组 · 异或赛 & DLESS Round 3（同步赛）",
+      "start_time": "2025-08-10 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/265698"
+    },
+    {
       "platform": "LeetCode",
       "name": "Weekly Contest 462",
       "start_time": "2025-08-10 10:30:00",
@@ -72,11 +128,39 @@
       "url": "https://leetcode.com/contest/weekly-contest-462"
     },
     {
+      "platform": "luogu",
+      "name": "【LGR-(-26)】SCP 2025 第一轮（初赛 J 组）模拟",
+      "start_time": "2025-08-10 09:30:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/261747"
+    },
+    {
       "platform": "AtCoder",
       "name": "AtCoder Beginner Contest 418",
       "start_time": "2025-08-09 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc418"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-236-Div.2】洛谷 8 月月赛 II & IAMOI Round #2",
+      "start_time": "2025-08-09 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/232936"
+    },
+    {
+      "platform": "luogu",
+      "name": "TPOI Round 5 & Q Round",
+      "start_time": "2025-08-08 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/244596"
+    },
+    {
+      "platform": "luogu",
+      "name": "emojiOI Round 1",
+      "start_time": "2025-08-07 13:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/251143"
     },
     {
       "platform": "NowCoder",
@@ -93,11 +177,25 @@
       "url": "https://ac.nowcoder.com/acm/contest/115184?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "『GTOI』Round 1",
+      "start_time": "2025-08-05 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/229569"
+    },
+    {
       "platform": "NowCoder",
       "name": "\"现代汽车前瞻杯\"2025牛客暑期多校训练营7",
       "start_time": "2025-08-05 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108304?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "CZOI Easy Round 5",
+      "start_time": "2025-08-04 14:30:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/250226"
     },
     {
       "platform": "NowCoder",
@@ -107,6 +205,20 @@
       "url": "https://ac.nowcoder.com/acm/contest/114593?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "【MX-X15】梦熊 X 组 · 风筝赛 & GMXOI Round 1（同步赛）",
+      "start_time": "2025-08-03 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/263176"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J18】梦熊 J 组 · 风筝赛 & GMXOI Round 1（同步赛）",
+      "start_time": "2025-08-03 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/263177"
+    },
+    {
       "platform": "LeetCode",
       "name": "Weekly Contest 461",
       "start_time": "2025-08-03 10:30:00",
@@ -114,11 +226,39 @@
       "url": "https://leetcode.com/contest/weekly-contest-461"
     },
     {
+      "platform": "luogu",
+      "name": "「WWOI」Round 1",
+      "start_time": "2025-08-03 09:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/143372"
+    },
+    {
       "platform": "LeetCode",
       "name": "Biweekly Contest 162",
       "start_time": "2025-08-02 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-162"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-235-Div.2】洛谷 8 月月赛 I & WAOI R2, FeOI R1.5",
+      "start_time": "2025-08-02 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/232544"
+    },
+    {
+      "platform": "luogu",
+      "name": "KOI 2025 Round 2 Unofficial Mirror",
+      "start_time": "2025-07-29 18:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/263580"
+    },
+    {
+      "platform": "luogu",
+      "name": "KOI 2025 Round 1 Unofficial Mirror",
+      "start_time": "2025-07-29 14:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/263562"
     },
     {
       "platform": "LeetCode",
