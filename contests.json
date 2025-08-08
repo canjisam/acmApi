@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-08 16:50:32",
+  "last_updated": "2025-08-08 17:19:44",
   "contests": [
     {
       "platform": "AtCoder",
@@ -75,7 +75,7 @@
       "platform": "luogu",
       "name": "『MGVOI』Round 1 加强赛",
       "start_time": "2025-08-16 14:00:00",
-      "duration": "3小时30分钟",
+      "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/265532"
     },
     {
