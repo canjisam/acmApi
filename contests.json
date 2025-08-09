@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-09 12:48:05",
+  "last_updated": "2025-08-09 13:13:14",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2025-08-24 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc420"
+    },
+    {
+      "platform": "luogu",
+      "name": "MatrixGroup's Unknown Round",
+      "start_time": "2025-08-24 13:00:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/264992"
     },
     {
       "platform": "luogu",
