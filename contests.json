@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-11 09:08:15",
+  "last_updated": "2025-08-11 11:17:03",
   "contests": [
     {
       "platform": "AtCoder",
@@ -122,7 +122,7 @@
     },
     {
       "platform": "NowCoder",
-      "name": "2025牛客暑期多校训练营10",
+      "name": "\"影石Insta360杯\"2025牛客暑期多校训练营10",
       "start_time": "2025-08-14 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108307?from=acm_calendar"
@@ -150,7 +150,7 @@
     },
     {
       "platform": "NowCoder",
-      "name": "2025牛客暑期多校训练营9",
+      "name": "\"影石Insta360杯\"2025牛客暑期多校训练营9",
       "start_time": "2025-08-12 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108306?from=acm_calendar"
@@ -234,7 +234,7 @@
     },
     {
       "platform": "NowCoder",
-      "name": "\"现代汽车前瞻杯\"2025牛客暑期多校训练营7",
+      "name": "&quot;现代汽车前瞻杯&quot;2025牛客暑期多校训练营7",
       "start_time": "2025-08-05 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108304?from=acm_calendar"
@@ -280,13 +280,6 @@
       "start_time": "2025-08-02 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-162"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 460",
-      "start_time": "2025-07-27 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-460"
     }
   ]
 }
