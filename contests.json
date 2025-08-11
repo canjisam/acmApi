@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-11 23:42:31",
+  "last_updated": "2025-08-12 00:16:59",
   "contests": [
     {
       "platform": "AtCoder",
@@ -49,13 +49,6 @@
       "start_time": "2025-08-22 13:30:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/220842"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 3)",
-      "start_time": "2025-08-21 22:35:00",
-      "duration": "2小时15分钟",
-      "url": "https://codeforces.com/contest/2132"
     },
     {
       "platform": "luogu",
@@ -136,7 +129,7 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-238-Div.2】PumpkinOI Round 2",
+      "name": "【LGR-238-Div.2】洛谷 8 月月赛 III & PumpkinOI Round 2",
       "start_time": "2025-08-13 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/250409"
