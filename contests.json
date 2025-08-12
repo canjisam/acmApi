@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-12 15:39:15",
+  "last_updated": "2025-08-12 16:17:55",
   "contests": [
     {
       "platform": "AtCoder",
@@ -16,18 +16,18 @@
       "url": "https://atcoder.jp/contests/abc421"
     },
     {
+      "platform": "luogu",
+      "name": "MatrixGroup's Unknown Round",
+      "start_time": "2025-08-25 13:00:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/264992"
+    },
+    {
       "platform": "AtCoder",
       "name": "AtCoder Beginner Contest 420",
       "start_time": "2025-08-24 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc420"
-    },
-    {
-      "platform": "luogu",
-      "name": "MatrixGroup's Unknown Round",
-      "start_time": "2025-08-24 13:00:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/264992"
     },
     {
       "platform": "luogu",
