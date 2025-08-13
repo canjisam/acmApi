@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-13 21:50:54",
+  "last_updated": "2025-08-13 22:14:00",
   "contests": [
     {
       "platform": "AtCoder",
@@ -98,6 +98,20 @@
       "start_time": "2025-08-17 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/115861?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J20】梦熊 J 组 · 芝士赛（同步赛）",
+      "start_time": "2025-08-17 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/268623"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X17】梦熊 X 组 · 芝士赛（同步赛）",
+      "start_time": "2025-08-17 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/268622"
     },
     {
       "platform": "LeetCode",
@@ -273,20 +287,6 @@
       "start_time": "2025-08-03 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/114593?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-X15】梦熊 X 组 · 风筝赛 & GMXOI Round 1（同步赛）",
-      "start_time": "2025-08-03 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/263176"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-J18】梦熊 J 组 · 风筝赛 & GMXOI Round 1（同步赛）",
-      "start_time": "2025-08-03 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/263177"
     },
     {
       "platform": "LeetCode",
