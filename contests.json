@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-13 11:01:39",
+  "last_updated": "2025-08-13 12:01:36",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,13 @@
       "start_time": "2025-08-24 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc420"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 106",
+      "start_time": "2025-08-24 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/116002?from=acm_calendar"
     },
     {
       "platform": "luogu",
