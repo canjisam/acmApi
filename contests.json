@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-16 23:37:06",
+  "last_updated": "2025-08-17 00:13:39",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2025-09-06 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc205"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Biweekly Contest 164",
+      "start_time": "2025-08-30 22:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/biweekly-contest-164"
     },
     {
       "platform": "AtCoder",
