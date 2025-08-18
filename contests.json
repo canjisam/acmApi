@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-18 09:06:38",
+  "last_updated": "2025-08-18 11:13:01",
   "contests": [
     {
       "platform": "AtCoder",
@@ -101,6 +101,13 @@
     },
     {
       "platform": "luogu",
+      "name": "【LGR-239-Div.4】洛谷入门赛 #38",
+      "start_time": "2025-08-22 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/270110"
+    },
+    {
+      "platform": "luogu",
       "name": "「LDOI」Round #3",
       "start_time": "2025-08-22 13:30:00",
       "duration": "3小时0分钟",
@@ -136,17 +143,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J20】梦熊 J 组 · 芝士赛（同步赛）",
-      "start_time": "2025-08-17 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/268623"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X17】梦熊 X 组 · 芝士赛（同步赛）",
       "start_time": "2025-08-17 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/268622"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J20】梦熊 J 组 · 芝士赛（同步赛）",
+      "start_time": "2025-08-17 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/268623"
     },
     {
       "platform": "LeetCode",
@@ -227,17 +234,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X16】梦熊 X 组 · 异或赛 & DLESS Round 3（同步赛）",
-      "start_time": "2025-08-10 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/265698"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J19】梦熊 J 组 · 异或赛 & DLESS Round 3（同步赛）",
       "start_time": "2025-08-10 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/265699"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X16】梦熊 X 组 · 异或赛 & DLESS Round 3（同步赛）",
+      "start_time": "2025-08-10 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/265698"
     },
     {
       "platform": "LeetCode",
@@ -303,25 +310,11 @@
       "url": "https://ac.nowcoder.com/acm/contest/108304?from=acm_calendar"
     },
     {
-      "platform": "luogu",
-      "name": "CZOI Easy Round 5",
-      "start_time": "2025-08-04 14:30:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/250226"
-    },
-    {
       "platform": "NowCoder",
       "name": "牛客周赛 Round 103",
       "start_time": "2025-08-03 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/114593?from=acm_calendar"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 461",
-      "start_time": "2025-08-03 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-461"
     }
   ]
 }
