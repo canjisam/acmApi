@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-20 00:15:23",
+  "last_updated": "2025-08-20 00:45:15",
   "contests": [
     {
       "platform": "AtCoder",
@@ -37,13 +37,6 @@
       "url": "https://atcoder.jp/contests/abc421"
     },
     {
-      "platform": "NowCoder",
-      "name": "牛客练习赛143",
-      "start_time": "2025-08-29 19:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/115999?from=acm_calendar"
-    },
-    {
       "platform": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start_time": "2025-08-26 22:35:00",
@@ -70,13 +63,6 @@
       "start_time": "2025-08-24 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc420"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 106",
-      "start_time": "2025-08-24 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/116002?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -114,13 +100,6 @@
       "url": "https://atcoder.jp/contests/ahc052"
     },
     {
-      "platform": "NowCoder",
-      "name": "牛客挑战赛81",
-      "start_time": "2025-08-22 19:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/115997?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "【LGR-239-Div.4】洛谷入门赛 #38",
       "start_time": "2025-08-22 19:00:00",
@@ -156,25 +135,11 @@
       "url": "https://www.luogu.com.cn/contest/227926"
     },
     {
-      "platform": "NowCoder",
-      "name": "河南萌新联赛2025第（六）场：郑州大学",
-      "start_time": "2025-08-20 13:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/116216?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "o.OI Round 2",
       "start_time": "2025-08-19 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/237166"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 105",
-      "start_time": "2025-08-17 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/115861?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -226,13 +191,6 @@
       "url": "https://www.luogu.com.cn/contest/261748"
     },
     {
-      "platform": "NowCoder",
-      "name": "\"影石Insta360杯\"2025牛客暑期多校训练营10",
-      "start_time": "2025-08-14 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/108307?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "【LGR-238-Div.2】洛谷 8 月月赛 III & PumpkinOI Round 2",
       "start_time": "2025-08-13 14:00:00",
@@ -240,32 +198,11 @@
       "url": "https://www.luogu.com.cn/contest/250409"
     },
     {
-      "platform": "NowCoder",
-      "name": "河南萌新联赛2025第（五）场：信息工程大学&rdquo;",
-      "start_time": "2025-08-13 13:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/115567?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "「CyOI」Round 1",
       "start_time": "2025-08-12 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/242562"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "\"影石Insta360杯\"2025牛客暑期多校训练营9",
-      "start_time": "2025-08-12 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/108306?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 104",
-      "start_time": "2025-08-10 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/114848?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -301,27 +238,6 @@
       "start_time": "2025-08-09 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/232936"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025牛客暑期多校训练营8",
-      "start_time": "2025-08-07 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/108305?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "河南萌新联赛2025第（四）场：河南大学",
-      "start_time": "2025-08-06 13:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/115184?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "&quot;现代汽车前瞻杯&quot;2025牛客暑期多校训练营7",
-      "start_time": "2025-08-05 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/108304?from=acm_calendar"
     }
   ]
 }
