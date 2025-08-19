@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-19 09:00:16",
+  "last_updated": "2025-08-19 10:51:43",
   "contests": [
     {
       "platform": "AtCoder",
@@ -77,6 +77,20 @@
       "start_time": "2025-08-24 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/116002?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J21】梦熊 J 组 · 企鹅赛 & FAOI-R6（同步赛）",
+      "start_time": "2025-08-24 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/270370"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X18】梦熊 X 组 · 企鹅赛 & FAOI-R6（同步赛）",
+      "start_time": "2025-08-24 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/270369"
     },
     {
       "platform": "LeetCode",
@@ -289,13 +303,6 @@
       "url": "https://www.luogu.com.cn/contest/244596"
     },
     {
-      "platform": "luogu",
-      "name": "emojiOI Round 1",
-      "start_time": "2025-08-07 13:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/251143"
-    },
-    {
       "platform": "NowCoder",
       "name": "2025牛客暑期多校训练营8",
       "start_time": "2025-08-07 12:00:00",
@@ -308,13 +315,6 @@
       "start_time": "2025-08-06 13:00:00",
       "duration": "4小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/115184?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "『GTOI』Round 1",
-      "start_time": "2025-08-05 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/229569"
     },
     {
       "platform": "NowCoder",
