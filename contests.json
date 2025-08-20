@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-20 10:38:37",
+  "last_updated": "2025-08-20 11:36:28",
   "contests": [
     {
       "platform": "AtCoder",
@@ -38,8 +38,15 @@
     },
     {
       "platform": "NowCoder",
-      "name": "牛客练习赛143",
+      "name": "牛客2025年七夕节比赛",
       "start_time": "2025-08-29 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/116337?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客练习赛143",
+      "start_time": "2025-08-28 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/115999?from=acm_calendar"
     },
