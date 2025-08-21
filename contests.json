@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-21 14:28:13",
+  "last_updated": "2025-08-21 14:57:10",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder × Engineer Guild（AtCoder Beginner Contest 423）",
+      "start_time": "2025-09-14 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc423"
+    },
     {
       "platform": "AtCoder",
       "name": "12th Asprova Programming Contest（AtCoder Heuristic Contest 053）",
