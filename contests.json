@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-22 11:36:22",
+  "last_updated": "2025-08-22 12:14:38",
   "contests": [
     {
       "platform": "AtCoder",
@@ -336,13 +336,6 @@
       "start_time": "2025-08-09 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/232936"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025牛客暑期多校训练营8",
-      "start_time": "2025-08-07 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/108305?from=acm_calendar"
     }
   ]
 }
