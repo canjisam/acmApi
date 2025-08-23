@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-23 13:37:43",
+  "last_updated": "2025-08-23 14:16:39",
   "contests": [
     {
       "platform": "AtCoder",
@@ -168,13 +168,6 @@
       "start_time": "2025-08-23 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/241168"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Heuristic Contest 052",
-      "start_time": "2025-08-23 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc052"
     },
     {
       "platform": "NowCoder",
