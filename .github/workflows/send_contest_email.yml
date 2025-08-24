@@ -22,22 +22,35 @@ jobs:
           python -m pip install --upgrade pip
 
       - name: Prepare config
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          TO_ADDRESSES: ${{ secrets.TO_ADDRESSES }}
         run: |
-          # 使用仓库 secret 创建 config.json
           mkdir -p mailer
-          cat > mailer/config.json <<'JSON'
-          {
-            "smtp": {
-              "host": "${{ secrets.SMTP_HOST }}",
-              "port": ${{ secrets.SMTP_PORT }},
-              "username": "${{ secrets.SMTP_USERNAME }}",
-              "password": "${{ secrets.SMTP_PASSWORD }}",
-              "from": "${{ secrets.SMTP_FROM }}"
-            },
-            "to": [${{ secrets.TO_ADDRESSES }}],
-            "subject": "比赛提醒 - ${{ github.run_date }}"
+          python - <<EOF
+          import json
+          import os
+          from datetime import datetime
+          
+          config = {
+              "smtp": {
+                  "host": os.environ["SMTP_HOST"],
+                  "port": int(os.environ["SMTP_PORT"]),
+                  "username": os.environ["SMTP_USERNAME"],
+                  "password": os.environ["SMTP_PASSWORD"],
+                  "from": os.environ["SMTP_FROM"]
+              },
+              "to": [addr.strip() for addr in os.environ["TO_ADDRESSES"].split(",")],
+              "subject": f"比赛提醒 - {datetime.now().strftime('%Y-%m-%d')}"
           }
-          JSON
+          
+          with open("mailer/config.json", "w", encoding="utf-8") as f:
+              json.dump(config, f, ensure_ascii=False, indent=2)
+          EOF
 
       - name: Run mailer
         env:

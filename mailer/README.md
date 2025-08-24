@@ -15,12 +15,12 @@ Mailer - 自动比赛通知
 GitHub Actions
 - 我们在 `.github/workflows/send_contest_email.yml` 中添加了一个每日定时任务。
 - 在仓库 Settings -> Secrets 中添加以下 Secrets：
-  - SMTP_HOST
-  - SMTP_PORT
-  - SMTP_USERNAME
-  - SMTP_PASSWORD
-  - SMTP_FROM
-  - TO_ADDRESSES (注意: 这个变量应该包含适当的 JSON 数组，如 "\"a@example.com\", \"b@example.com\"")
+  - SMTP_HOST（例如："smtp.gmail.com"）
+  - SMTP_PORT（例如："587"，纯数字）
+  - SMTP_USERNAME（SMTP 用户名）
+  - SMTP_PASSWORD（SMTP 密码或应用密码）
+  - SMTP_FROM（发件人邮箱地址）
+  - TO_ADDRESSES（收件人邮箱列表，用逗号分隔，如："user1@example.com,user2@example.com"）
 
 安全建议
 - 切勿将 `mailer/config.json` 提交到公共仓库。`.gitignore` 已包含该文件路径。
