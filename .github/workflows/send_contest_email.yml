@@ -56,4 +56,4 @@ jobs:
         env:
           PYTHONUNBUFFERED: 1
         run: |
-          python -c "import mailer.send_contest_email as m; m.main()"
+          python -c "import mailer.send_contest_email as m; m.main(dry_run=False)"
