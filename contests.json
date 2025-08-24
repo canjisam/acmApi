@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-24 19:33:43",
+  "last_updated": "2025-08-24 20:21:51",
   "contests": [
     {
       "platform": "AtCoder",
@@ -133,13 +133,6 @@
       "start_time": "2025-08-24 22:35:00",
       "duration": "2小时0分钟",
       "url": "https://codeforces.com/contest/2133"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Beginner Contest 420",
-      "start_time": "2025-08-24 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc420"
     },
     {
       "platform": "NowCoder",
