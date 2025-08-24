@@ -32,13 +32,40 @@ def send_email(smtp_cfg: dict, subject: str, text_body: str, html_body: str, to_
     msg.attach(MIMEText(text_body, "plain", "utf-8"))
     msg.attach(MIMEText(html_body, "html", "utf-8"))
 
-    server = smtplib.SMTP(smtp_cfg["host"], smtp_cfg.get("port", 587), timeout=10)
+    use_ssl = smtp_cfg.get("use_ssl", False)
+    port = smtp_cfg.get("port", 465 if use_ssl else 587)
+    timeout = smtp_cfg.get("timeout", 30)
+    
+    print(f"[INFO] 正在连接 SMTP 服务器: {smtp_cfg['host']}:{port}")
+    print(f"[INFO] 使用 SSL: {use_ssl}, 超时: {timeout}秒")
+    
     try:
-        server.starttls()
+        if use_ssl:
+            server = smtplib.SMTP_SSL(smtp_cfg["host"], port, timeout=timeout)
+        else:
+            server = smtplib.SMTP(smtp_cfg["host"], port, timeout=timeout)
+            server.starttls()
+        
+        print(f"[INFO] 已连接到 SMTP 服务器，正在登录...")
         server.login(smtp_cfg["username"], smtp_cfg["password"])
+        print(f"[INFO] 登录成功，正在发送邮件到: {to_addrs}")
+        
         server.sendmail(smtp_cfg.get("from"), to_addrs, msg.as_string())
+        print("[INFO] 邮件发送成功!")
+    except smtplib.SMTPAuthenticationError:
+        print("[错误] SMTP 认证失败：用户名或密码错误")
+        raise
+    except socket.timeout:
+        print(f"[错误] 连接超时：无法在 {timeout} 秒内连接到 {smtp_cfg['host']}:{port}")
+        raise
+    except Exception as e:
+        print(f"[错误] 发送失败: {str(e)}")
+        raise
     finally:
-        server.quit()
+        try:
+            server.quit()
+        except Exception:
+            pass  # 忽略关闭连接时的错误
 
 
 def main(contests_json_path: str = None, dry_run: bool = True):

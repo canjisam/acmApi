@@ -42,7 +42,9 @@ jobs:
                   "port": int(os.environ["SMTP_PORT"]),
                   "username": os.environ["SMTP_USERNAME"],
                   "password": os.environ["SMTP_PASSWORD"],
-                  "from": os.environ["SMTP_FROM"]
+                  "from": os.environ["SMTP_FROM"],
+                  "use_ssl": True,
+                  "timeout": 30
               },
               "to": [addr.strip() for addr in os.environ["TO_ADDRESSES"].split(",")],
               "subject": f"比赛提醒 - {datetime.now().strftime('%Y-%m-%d')}"
