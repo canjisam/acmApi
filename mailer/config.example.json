@@ -1,0 +1,11 @@
+{
+  "smtp": {
+    "host": "smtp.example.com",
+    "port": 587,
+    "username": "your-smtp-username",
+    "password": "your-smtp-password",
+    "from": "noreply@example.com"
+  },
+  "to": ["recipient@example.com"],
+  "subject": "比赛提醒 - {{date}}"
+}

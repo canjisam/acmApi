@@ -1,0 +1,5 @@
+# Ignore mailer config with secrets
+/mailer/config.json
+
+# Python cache
+__pycache__/
