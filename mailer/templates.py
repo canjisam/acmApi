@@ -44,6 +44,7 @@ CONTEST_ITEM_TEMPLATE = """
     </div>
     <div class="contest-info">
         开始时间: {start_time}<br>
+        结束时间: {end_time}<br>
         时长: {duration}
     </div>
     <a href="{url}" class="contest-link" target="_blank">查看详情 →</a>
@@ -55,7 +56,8 @@ def format_contest_html(contest):
     return CONTEST_ITEM_TEMPLATE.format(
         platform=contest.get("platform", "Other"),
         name=contest.get("name", ""),
-        start_time=contest.get("start_time", ""),
+        start_time=contest["start_dt"].strftime("%Y-%m-%d %H:%M:%S"),
+        end_time=contest["end_dt"].strftime("%Y-%m-%d %H:%M:%S"),
         duration=contest.get("duration", ""),
         url=contest.get("url", "#")
     )
