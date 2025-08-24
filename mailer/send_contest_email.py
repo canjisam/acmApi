@@ -9,6 +9,7 @@ from datetime import datetime
 import argparse
 
 from .utils import load_contests, filter_next_24h, build_email_text
+from .templates import build_html_email
 
 
 CONFIG_PATH = Path(__file__).parent / "config.json"
@@ -21,12 +22,15 @@ def load_config(path: Path = CONFIG_PATH) -> dict:
         return json.load(f)
 
 
-def send_email(smtp_cfg: dict, subject: str, body: str, to_addrs: List[str]):
-    msg = MIMEMultipart()
+def send_email(smtp_cfg: dict, subject: str, text_body: str, html_body: str, to_addrs: List[str]):
+    msg = MIMEMultipart("alternative")
     msg["From"] = smtp_cfg.get("from")
     msg["To"] = ", ".join(to_addrs)
     msg["Subject"] = subject
-    msg.attach(MIMEText(body, "plain", "utf-8"))
+    
+    # 添加纯文本和 HTML 两个版本，HTML 版本放在后面（邮件客户端会优先显示最后的版本）
+    msg.attach(MIMEText(text_body, "plain", "utf-8"))
+    msg.attach(MIMEText(html_body, "html", "utf-8"))
 
     server = smtplib.SMTP(smtp_cfg["host"], smtp_cfg.get("port", 587), timeout=10)
     try:
@@ -43,6 +47,7 @@ def main(contests_json_path: str = None, dry_run: bool = True):
     data = load_contests(str(cj))
     upcoming = filter_next_24h(data.get("contests", []))
     body = build_email_text(upcoming)
+    html_body = build_html_email(upcoming)
 
     cfg = load_config()
     smtp = cfg.get("smtp")
@@ -52,16 +57,18 @@ def main(contests_json_path: str = None, dry_run: bool = True):
     if not smtp or not to_addrs:
         print("[INFO] SMTP 配置或收件人未设置，进入 dry-run 模式，打印邮件内容：\n")
         print("Subject:", subject)
-        print("Body:\n", body)
+        print("Text Body:\n", body)
+        print("\nHTML Body 已生成（支持彩色标签和可点击链接）")
         return
 
     if dry_run:
         print("[DRY RUN] 未实际发送，邮件将发送到:", to_addrs)
         print("Subject:", subject)
-        print("Body:\n", body)
+        print("Text Body:\n", body)
+        print("\nHTML Body 已生成（支持彩色标签和可点击链接）")
         return
 
-    send_email(smtp, subject, body, to_addrs)
+    send_email(smtp, subject, body, html_body, to_addrs)
     print("邮件已发送（或尝试发送）。")
 
 
