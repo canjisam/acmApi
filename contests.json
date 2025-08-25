@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-25 13:43:46",
+  "last_updated": "2025-08-25 14:52:41",
   "contests": [
     {
       "platform": "AtCoder",
@@ -308,20 +308,6 @@
       "start_time": "2025-08-10 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/114848?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-J19】梦熊 J 组 · 异或赛 & DLESS Round 3（同步赛）",
-      "start_time": "2025-08-10 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/265699"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-X16】梦熊 X 组 · 异或赛 & DLESS Round 3（同步赛）",
-      "start_time": "2025-08-10 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/265698"
     }
   ]
 }
