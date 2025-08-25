@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-08-26 00:48:50",
+  "last_updated": "2025-08-26 01:41:07",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder × Engineer Guild（AtCoder Beginner Contest 424）",
+      "start_time": "2025-09-20 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc424"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "ALGO ARTIS Programming Contest 2025 Summer（AtCoder Heuristic Contest 054）",
+      "start_time": "2025-09-19 18:00:00",
+      "duration": "240小时0分钟",
+      "url": "https://atcoder.jp/contests/ahc054"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Beginner Contest 423",
+      "start_time": "2025-09-14 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc423"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "12th Asprova Programming Contest（AtCoder Heuristic Contest 053）",
+      "start_time": "2025-09-13 18:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://atcoder.jp/contests/ahc053"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Beginner Contest 422",
+      "start_time": "2025-09-07 12:10:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc422"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Regular Contest 205 (Div. 2)",
+      "start_time": "2025-09-06 20:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://atcoder.jp/contests/arc205"
+    },
     {
       "platform": "NowCoder",
       "name": "牛客周赛 Round 107",
@@ -21,6 +63,13 @@
       "start_time": "2025-08-30 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-164"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Beginner Contest 421",
+      "start_time": "2025-08-30 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc421"
     },
     {
       "platform": "NowCoder",
