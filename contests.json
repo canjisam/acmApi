@@ -1,55 +1,6 @@
 {
-  "last_updated": "2025-08-25 23:42:45",
+  "last_updated": "2025-08-26 00:48:50",
   "contests": [
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder × Engineer Guild（AtCoder Beginner Contest 424）",
-      "start_time": "2025-09-20 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc424"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "ALGO ARTIS Programming Contest 2025 Summer（AtCoder Heuristic Contest 054）",
-      "start_time": "2025-09-19 18:00:00",
-      "duration": "240小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc054"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Beginner Contest 423",
-      "start_time": "2025-09-14 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc423"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "12th Asprova Programming Contest（AtCoder Heuristic Contest 053）",
-      "start_time": "2025-09-13 18:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc053"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 3)",
-      "start_time": "2025-09-07 22:35:00",
-      "duration": "2小时15分钟",
-      "url": "https://codeforces.com/contest/2137"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Beginner Contest 422",
-      "start_time": "2025-09-07 12:10:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc422"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Regular Contest 205 (Div. 2)",
-      "start_time": "2025-09-06 20:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://atcoder.jp/contests/arc205"
-    },
     {
       "platform": "NowCoder",
       "name": "牛客周赛 Round 107",
@@ -72,32 +23,11 @@
       "url": "https://leetcode.com/contest/biweekly-contest-164"
     },
     {
-      "platform": "AtCoder",
-      "name": "AtCoder Beginner Contest 421",
-      "start_time": "2025-08-30 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc421"
-    },
-    {
       "platform": "NowCoder",
       "name": "牛客2025年七夕节比赛",
       "start_time": "2025-08-29 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/116337?from=acm_calendar"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1046 (Div. 1)",
-      "start_time": "2025-08-28 22:35:00",
-      "duration": "3小时0分钟",
-      "url": "https://codeforces.com/contest/2135"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1046 (Div. 2)",
-      "start_time": "2025-08-28 22:35:00",
-      "duration": "3小时0分钟",
-      "url": "https://codeforces.com/contest/2136"
     },
     {
       "platform": "NowCoder",
@@ -112,13 +42,6 @@
       "start_time": "2025-08-27 13:00:00",
       "duration": "4小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/116435?from=acm_calendar"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1045 (Div. 2)",
-      "start_time": "2025-08-26 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2134"
     },
     {
       "platform": "luogu",
