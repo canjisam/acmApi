@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-27 21:04:27",
+  "last_updated": "2025-08-27 21:44:55",
   "contests": [
     {
       "platform": "AtCoder",
@@ -100,6 +100,13 @@
       "url": "https://atcoder.jp/contests/abc421"
     },
     {
+      "platform": "luogu",
+      "name": "「TFXOI」Round 3",
+      "start_time": "2025-08-30 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/249974"
+    },
+    {
       "platform": "NowCoder",
       "name": "牛客2025年七夕节比赛",
       "start_time": "2025-08-29 19:00:00",
@@ -164,17 +171,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J21】梦熊 J 组 · 企鹅赛 & FAOI-R6（同步赛）",
-      "start_time": "2025-08-24 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/270370"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X18】梦熊 X 组 · 企鹅赛 & FAOI-R6（同步赛）",
       "start_time": "2025-08-24 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/270369"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J21】梦熊 J 组 · 企鹅赛 & FAOI-R6（同步赛）",
+      "start_time": "2025-08-24 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/270370"
     },
     {
       "platform": "LeetCode",
