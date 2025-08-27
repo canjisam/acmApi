@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-27 15:38:45",
+  "last_updated": "2025-08-27 16:46:47",
   "contests": [
     {
       "platform": "AtCoder",
@@ -100,6 +100,13 @@
       "url": "https://ac.nowcoder.com/acm/contest/116337?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "「KFCOI」Round #2",
+      "start_time": "2025-08-29 08:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/231056"
+    },
+    {
       "platform": "Codeforces",
       "name": "Codeforces Round 1046 (Div. 1)",
       "start_time": "2025-08-28 22:35:00",
@@ -143,17 +150,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X18】梦熊 X 组 · 企鹅赛 & FAOI-R6（同步赛）",
-      "start_time": "2025-08-24 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/270369"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J21】梦熊 J 组 · 企鹅赛 & FAOI-R6（同步赛）",
       "start_time": "2025-08-24 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/270370"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X18】梦熊 X 组 · 企鹅赛 & FAOI-R6（同步赛）",
+      "start_time": "2025-08-24 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/270369"
     },
     {
       "platform": "LeetCode",
