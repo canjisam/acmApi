@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-27 13:40:57",
+  "last_updated": "2025-08-27 14:48:42",
   "contests": [
     {
       "platform": "AtCoder",
@@ -294,13 +294,6 @@
       "start_time": "2025-08-13 13:00:00",
       "duration": "4小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/115567?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "「CyOI」Round 1",
-      "start_time": "2025-08-12 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/242562"
     }
   ]
 }
