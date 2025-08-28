@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-28 13:41:25",
+  "last_updated": "2025-08-28 14:49:59",
   "contests": [
     {
       "platform": "AtCoder",
@@ -308,13 +308,6 @@
       "start_time": "2025-08-14 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/108307?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-238-Div.2】洛谷 8 月月赛 III & PumpkinOI Round 2",
-      "start_time": "2025-08-13 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/250409"
     }
   ]
 }
