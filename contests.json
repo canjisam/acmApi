@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-29 13:40:58",
+  "last_updated": "2025-08-29 14:48:40",
   "contests": [
     {
       "platform": "AtCoder",
@@ -301,13 +301,6 @@
       "start_time": "2025-08-16 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/265532"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-(-27)】SCP 2025 第一轮（初赛 S 组）模拟",
-      "start_time": "2025-08-14 14:30:00",
-      "duration": "2小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/261748"
     }
   ]
 }
