@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-29 19:38:12",
+  "last_updated": "2025-08-29 21:03:09",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Grand Contest 073",
+      "start_time": "2025-09-28 20:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://atcoder.jp/contests/agc073"
+    },
     {
       "platform": "AtCoder",
       "name": "UNIQUE VISION Programming Contest 2024 Autumn (AtCoder Beginner Contest 425)",
@@ -98,6 +105,13 @@
       "start_time": "2025-08-31 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/116343?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "PO Final 2024 Unofficial Mirror",
+      "start_time": "2025-08-31 14:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/273457"
     },
     {
       "platform": "LeetCode",
