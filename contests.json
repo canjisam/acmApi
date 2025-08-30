@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-30 19:37:43",
+  "last_updated": "2025-08-30 20:58:46",
   "contests": [
     {
       "platform": "AtCoder",
@@ -126,13 +126,6 @@
       "start_time": "2025-08-30 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-164"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Beginner Contest 421",
-      "start_time": "2025-08-30 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc421"
     },
     {
       "platform": "luogu",
