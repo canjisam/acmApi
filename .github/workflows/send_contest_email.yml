@@ -2,7 +2,7 @@ name: Send Contest Email
 
 on:
   schedule:
-    - cron: '0 8 * * *' # 每天 08:00 UTC 运行，可在仓库设置中调整
+    - cron: '0 0 * * *' # 每天 08:00 UTC 运行，可在仓库设置中调整
   workflow_dispatch: {}
 
 jobs:
