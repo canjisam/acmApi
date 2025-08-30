@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-31 03:37:48",
+  "last_updated": "2025-08-31 04:38:51",
   "contests": [
     {
       "platform": "AtCoder",
@@ -109,7 +109,7 @@
     {
       "platform": "Codeforces",
       "name": "Kotlin Heroes: Practice 13",
-      "start_time": "2025-08-31 22:35:00",
+      "start_time": "2025-09-05 22:35:00",
       "duration": "288小时0分钟",
       "url": "https://codeforces.com/contest/2142"
     },
