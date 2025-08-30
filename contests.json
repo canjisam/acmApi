@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-30 22:38:46",
+  "last_updated": "2025-08-30 23:37:24",
   "contests": [
     {
       "platform": "AtCoder",
@@ -35,6 +35,13 @@
       "start_time": "2025-09-14 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc423"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Biweekly Contest 165",
+      "start_time": "2025-09-13 22:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/biweekly-contest-165"
     },
     {
       "platform": "AtCoder",
@@ -84,6 +91,13 @@
       "start_time": "2025-09-07 12:10:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc422"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 466",
+      "start_time": "2025-09-07 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-466"
     },
     {
       "platform": "AtCoder",
