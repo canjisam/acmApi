@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-31 23:38:16",
+  "last_updated": "2025-09-01 00:43:02",
   "contests": [
     {
       "platform": "AtCoder",
@@ -58,6 +58,13 @@
       "url": "https://codeforces.com/contest/2141"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客练习赛144",
+      "start_time": "2025-09-12 19:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/116721?from=acm_calendar"
+    },
+    {
       "platform": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start_time": "2025-09-09 22:35:00",
@@ -84,6 +91,13 @@
       "start_time": "2025-09-07 22:35:00",
       "duration": "2小时15分钟",
       "url": "https://codeforces.com/contest/2137"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 108",
+      "start_time": "2025-09-07 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/116658?from=acm_calendar"
     },
     {
       "platform": "AtCoder",
@@ -129,10 +143,10 @@
     },
     {
       "platform": "NowCoder",
-      "name": "牛客周赛 Round 107",
-      "start_time": "2025-08-31 19:00:00",
+      "name": "牛客小白月赛120",
+      "start_time": "2025-09-05 19:00:00",
       "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/116343?from=acm_calendar"
+      "url": "https://ac.nowcoder.com/acm/contest/116657?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -163,25 +177,11 @@
       "url": "https://www.luogu.com.cn/contest/249974"
     },
     {
-      "platform": "NowCoder",
-      "name": "牛客2025年七夕节比赛",
-      "start_time": "2025-08-29 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/116337?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "「KFCOI」Round #2",
       "start_time": "2025-08-29 14:30:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/231056"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客练习赛143",
-      "start_time": "2025-08-28 19:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/115999?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -191,25 +191,11 @@
       "url": "https://www.luogu.com.cn/contest/272991"
     },
     {
-      "platform": "NowCoder",
-      "name": "河南萌新联赛2025第（七）场：郑州轻工业大学",
-      "start_time": "2025-08-27 13:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/116435?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "MatrixGroup's Unknown Round",
       "start_time": "2025-08-25 13:00:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/264992"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 106",
-      "start_time": "2025-08-24 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/116002?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -240,13 +226,6 @@
       "url": "https://www.luogu.com.cn/contest/241168"
     },
     {
-      "platform": "NowCoder",
-      "name": "牛客挑战赛81",
-      "start_time": "2025-08-22 19:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/115997?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "【LGR-239-Div.4】洛谷入门赛 #38",
       "start_time": "2025-08-22 19:00:00",
@@ -275,25 +254,11 @@
       "url": "https://www.luogu.com.cn/contest/227926"
     },
     {
-      "platform": "NowCoder",
-      "name": "河南萌新联赛2025第（六）场：郑州大学",
-      "start_time": "2025-08-20 13:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/116216?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "o.OI Round 2",
       "start_time": "2025-08-19 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/237166"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 105",
-      "start_time": "2025-08-17 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/115861?from=acm_calendar"
     },
     {
       "platform": "luogu",
