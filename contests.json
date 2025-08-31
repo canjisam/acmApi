@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-31 13:39:51",
+  "last_updated": "2025-08-31 14:46:29",
   "contests": [
     {
       "platform": "AtCoder",
@@ -329,13 +329,6 @@
       "start_time": "2025-08-16 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-163"
-    },
-    {
-      "platform": "luogu",
-      "name": "『MGVOI』Round 1 加强赛",
-      "start_time": "2025-08-16 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/265532"
     }
   ]
 }
