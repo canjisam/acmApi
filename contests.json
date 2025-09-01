@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-01 13:42:12",
+  "last_updated": "2025-09-01 14:52:21",
   "contests": [
     {
       "platform": "AtCoder",
@@ -122,17 +122,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J22】梦熊 J 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
-      "start_time": "2025-09-06 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/273610"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X19】梦熊 X 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
       "start_time": "2025-09-06 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/273609"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J22】梦熊 J 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
+      "start_time": "2025-09-06 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/273610"
     },
     {
       "platform": "Codeforces",
@@ -154,6 +154,13 @@
       "start_time": "2025-09-03 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/273805"
+    },
+    {
+      "platform": "luogu",
+      "name": "[EC Final 2019] ICPC2019 东亚赛区决赛重现赛",
+      "start_time": "2025-09-02 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/273827"
     },
     {
       "platform": "luogu",
@@ -206,17 +213,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X18】梦熊 X 组 · 企鹅赛 & FAOI-R6（同步赛）",
-      "start_time": "2025-08-24 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/270369"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J21】梦熊 J 组 · 企鹅赛 & FAOI-R6（同步赛）",
       "start_time": "2025-08-24 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/270370"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X18】梦熊 X 组 · 企鹅赛 & FAOI-R6（同步赛）",
+      "start_time": "2025-08-24 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/270369"
     },
     {
       "platform": "LeetCode",
@@ -266,20 +273,6 @@
       "start_time": "2025-08-19 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/237166"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-X17】梦熊 X 组 · 芝士赛（同步赛）",
-      "start_time": "2025-08-17 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/268622"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-J20】梦熊 J 组 · 芝士赛（同步赛）",
-      "start_time": "2025-08-17 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/268623"
     }
   ]
 }
