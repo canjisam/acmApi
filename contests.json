@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-01 07:38:00",
+  "last_updated": "2025-09-01 10:30:41",
   "contests": [
     {
       "platform": "AtCoder",
@@ -150,6 +150,13 @@
     },
     {
       "platform": "luogu",
+      "name": "[ICPC2023 Nanjing R] ICPC2023 区域赛南京站重现赛",
+      "start_time": "2025-09-03 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/273805"
+    },
+    {
+      "platform": "luogu",
       "name": "PO Final 2024 Unofficial Mirror",
       "start_time": "2025-08-31 14:30:00",
       "duration": "5小时0分钟",
@@ -262,31 +269,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J20】梦熊 J 组 · 芝士赛（同步赛）",
-      "start_time": "2025-08-17 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/268623"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X17】梦熊 X 组 · 芝士赛（同步赛）",
       "start_time": "2025-08-17 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/268622"
     },
     {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 463",
-      "start_time": "2025-08-17 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-463"
-    },
-    {
       "platform": "luogu",
-      "name": "Brooklyn Round 2 & NNOI Round 2",
-      "start_time": "2025-08-17 09:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/249017"
+      "name": "【MX-J20】梦熊 J 组 · 芝士赛（同步赛）",
+      "start_time": "2025-08-17 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/268623"
     }
   ]
 }
