@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-02 15:39:59",
+  "last_updated": "2025-09-02 16:47:53",
   "contests": [
     {
       "platform": "AtCoder",
@@ -121,6 +121,20 @@
       "url": "https://ac.nowcoder.com/acm/contest/116658?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "【LGR-240-Div.2】洛谷 9 月月赛 I & florr IO Round 1",
+      "start_time": "2025-09-07 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/228479"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-240-Div.1】洛谷 9 月月赛 I & florr IO Round 1",
+      "start_time": "2025-09-07 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/273933"
+    },
+    {
       "platform": "AtCoder",
       "name": "AtCoder Beginner Contest 422",
       "start_time": "2025-09-07 12:10:00",
@@ -143,17 +157,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X19】梦熊 X 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
-      "start_time": "2025-09-06 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/273609"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J22】梦熊 J 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
       "start_time": "2025-09-06 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/273610"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X19】梦熊 X 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
+      "start_time": "2025-09-06 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/273609"
     },
     {
       "platform": "Codeforces",
