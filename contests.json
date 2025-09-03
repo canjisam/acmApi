@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-03 13:39:54",
+  "last_updated": "2025-09-03 14:47:19",
   "contests": [
     {
       "platform": "AtCoder",
@@ -199,6 +199,13 @@
     },
     {
       "platform": "luogu",
+      "name": "VKOSHP 2024 Unofficial Mirror",
+      "start_time": "2025-09-04 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/274039"
+    },
+    {
+      "platform": "luogu",
       "name": "[ICPC2023 Nanjing R] ICPC2023 区域赛南京站重现赛",
       "start_time": "2025-09-03 13:00:00",
       "duration": "5小时0分钟",
@@ -322,13 +329,6 @@
       "start_time": "2025-08-20 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/227926"
-    },
-    {
-      "platform": "luogu",
-      "name": "o.OI Round 2",
-      "start_time": "2025-08-19 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/237166"
     }
   ]
 }
