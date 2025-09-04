@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-04 22:41:53",
+  "last_updated": "2025-09-04 23:41:34",
   "contests": [
     {
       "platform": "AtCoder",
@@ -77,13 +77,6 @@
       "start_time": "2025-09-13 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-165"
-    },
-    {
-      "platform": "luogu",
-      "name": "「Cnoi2025」Cirno's Easy Round III",
-      "start_time": "2025-09-13 19:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/254577"
     },
     {
       "platform": "AtCoder",
@@ -290,17 +283,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J21】梦熊 J 组 · 企鹅赛 & FAOI-R6（同步赛）",
-      "start_time": "2025-08-24 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/270370"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X18】梦熊 X 组 · 企鹅赛 & FAOI-R6（同步赛）",
       "start_time": "2025-08-24 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/270369"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J21】梦熊 J 组 · 企鹅赛 & FAOI-R6（同步赛）",
+      "start_time": "2025-08-24 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/270370"
     },
     {
       "platform": "LeetCode",
