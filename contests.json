@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-04 18:41:15",
+  "last_updated": "2025-09-04 19:37:36",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,13 @@
       "start_time": "2025-09-20 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc424"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客挑战赛82",
+      "start_time": "2025-09-19 19:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/117057?from=acm_calendar"
     },
     {
       "platform": "AtCoder",
