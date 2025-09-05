@@ -17,6 +17,9 @@
 
 <body>
     <div id="app" class="container">
+        <button class="theme-toggle" @click="toggleTheme" :title="theme === 'dark' ? '切换到亮色模式' : '切换到暗色模式'">
+            {{ theme === 'dark' ? '🌞' : '🌙' }}
+        </button>
         <div class="header">
             <h1>编程竞赛日历</h1>
         </div>
@@ -61,8 +64,12 @@
                     contests: [],
                     selectedPlatform: 'all',
                     platforms: ['all', 'Codeforces', 'LeetCode', 'NowCoder', 'luogu', 'AtCoder'],
-                    updateTime: ''
+                    updateTime: '',
+                    theme: localStorage.getItem('theme') || 'light'
                 }
+            },
+            created() {
+                document.documentElement.setAttribute('data-theme', this.theme);
             },
             computed: {
                 filteredContests() {
@@ -84,6 +91,11 @@
                     navigator.clipboard.writeText(text)
                         .then(() => alert('已复制比赛信息并添加版权声明'))
                         .catch(err => console.error('复制失败:', err));
+                },
+                toggleTheme() {
+                    this.theme = this.theme === 'light' ? 'dark' : 'light';
+                    document.documentElement.setAttribute('data-theme', this.theme);
+                    localStorage.setItem('theme', this.theme);
                 },
                 async fetchContests() {
                     try {

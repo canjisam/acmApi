@@ -1,103 +1,133 @@
-# 编程竞赛日历工具&&邮件提醒系统
-2025-3-26 为了方便查看竞赛信息，我写了一个小工具。希望大家都能拿牌子。
-本工具旨在为编程竞赛爱好者提供一个集中查看各大平台竞赛信息的日历视图。  
-2025-08-24 新增邮件提醒系统 简单配置githubAction即可使用每天邮件自动推送竞赛信息
+# 编程竞赛日历 🏆
 
-## 🌟 主要功能
+一个现代化的编程竞赛日历网页应用，帮助竞赛爱好者追踪各大平台的比赛信息。
 
-### 1. 可视化日历
-- 日历视图与列表视图自由切换
-- 支持多平台竞赛信息集中展示
-- 移动端响应式布局适配
+> 🎉 2025-08-24 更新：新增邮件提醒系统！现在可以通过 GitHub Actions 实现每日比赛信息推送。
+
+## 预览 👀
+
+### 列表视图展示
+| 亮色模式 | 暗色模式 |
+|----------|----------|
+| ![亮色列表视图](img/亮色列表视图.png) | ![暗色列表视图](img/暗色列表视图.png) |
+
+### 日历视图展示
+![日历视图](img/日历视图网页.png)
+
+## ✨ 特色功能
+
+### 1. 现代化界面
+- 新粗野主义设计风格
+- 支持明暗主题切换
+- 响应式布局适配各种设备
+- 流畅的动画和交互效果
+
+### 2. 多视图展示
+- 列表视图：简洁清晰的比赛概览
+- 日历视图：直观的时间安排
+- 实时时间线指示器
 - 平台快速筛选功能
-- 竞赛详情一键访问
 
-### 2. 邮件提醒系统
-- 自动筛选未来24小时内的比赛信息
+### 3. 便捷操作
+- 一键复制比赛信息
+- 快速访问比赛详情
+- 智能时区适配
+- 多平台信息聚合
+
+### 4. 邮件提醒（新）
+- 24小时比赛预告
 - 精美的 HTML 邮件模板
-  - 平台特色标签（不同平台不同颜色）
-  - 比赛时间、时长清晰展示
-  - 支持一键跳转比赛页面
-- 每日定时发送（可自定义时间）
 - 支持多收件人配置
+- GitHub Actions 自动化发送
 
 ## 📊 支持平台
 
-| 平台 | 说明 | 官网 |
-|------|------|------|
-| Codeforces | 全球最大的竞赛平台之一 | https://codeforces.com |
-| AtCoder | 日本顶级竞赛平台 | https://atcoder.jp |
-| LeetCode | 著名的算法题库和竞赛平台 | https://leetcode.com |
-| 牛客网 | 国内知名竞赛和面试平台 | https://www.nowcoder.com |
-| 洛谷 | 国内著名算法竞赛平台 | https://www.luogu.com.cn |
-
-
-## 使用说明
-
-1. 打开index.html文件
-2. 使用顶部平台筛选按钮查看特定平台竞赛
-3. 点击竞赛卡片查看详细信息
-
-## 自动更新机制
-
-- 每15分钟自动从各平台API获取最新竞赛信息
-- 数据缓存机制保障网络中断时的信息可用性
-- 更新失败时自动重试（最多3次）
-- 更新内容包括竞赛时间、名称、链接等信息
-
-### 3. 数据更新机制
-- 每15分钟自动同步各平台最新竞赛信息
-- 智能缓存确保离线可用
-- 失败自动重试（最多3次）
-- 记录详细比赛信息（时间、名称、链接等）
+| 平台 Logo | 平台 | 说明 | 官网 |
+|-----------|------|------|------|
+| ![Codeforces](icons/codeforces.png) | Codeforces | 全球最大的竞赛平台 | [访问](https://codeforces.com) |
+| ![AtCoder](icons/atcoder.png) | AtCoder | 日本顶级竞赛平台 | [访问](https://atcoder.jp) |
+| ![LeetCode](icons/leetcode.png) | LeetCode | 算法题库和竞赛平台 | [访问](https://leetcode.com) |
+| ![牛客网](icons/nowcoder.png) | 牛客网 | 综合竞赛和面试平台 | [访问](https://www.nowcoder.com) |
+| ![洛谷](icons/luogu.png) | 洛谷 | 知名算法竞赛平台 | [访问](https://www.luogu.com.cn) |
 
 
 ## 🚀 快速开始
 
-### 网页访问
-1. 访问官网：[https://canjisam.github.io/acmApi/](https://canjisam.github.io/acmApi/)
-2. 使用平台筛选按钮选择感兴趣的平台
-3. 点击竞赛卡片查看详情并跳转报名
+### 在线访问
+访问官网：[https://canjisam.github.io/acmApi/](https://canjisam.github.io/acmApi/)
 
-### 配置邮件提醒
+### 本地部署
+
 1. 克隆仓库：
    ```bash
    git clone https://github.com/canjisam/acmApi.git
    cd acmApi
    ```
 
-2. 配置邮件服务：
+2. 启动本地服务器：
    ```bash
-   # 复制示例配置
+   # 使用 Python 的 HTTP 服务器
+   python -m http.server 8080
+   ```
+
+3. 访问网页：
+   打开浏览器访问 `http://localhost:8080`
+
+### 配置邮件提醒
+
+1. 准备配置文件：
+   ```bash
    cp mailer/config.example.json mailer/config.json
-   
-   # 编辑配置文件填入 SMTP 信息
-   vim mailer/config.json
    ```
 
-3. 本地测试：
-   ```bash
-   # 只查看邮件内容（不发送）
-   python3 -m mailer.send_contest_email
-   
-   # 实际发送邮件
-   python3 -m mailer.send_contest_email --send
-   ```
+2. 编辑配置：
+   在 `config.json` 中填入你的 SMTP 服务器信息
 
-4. 启用自动提醒：
-   在 GitHub 仓库设置中配置以下 Secrets：
-   - SMTP_HOST：SMTP 服务器地址
-   - SMTP_PORT：服务器端口（推荐 465）
-   - SMTP_USERNAME：邮箱用户名
-   - SMTP_PASSWORD：密码或授权码
-   - SMTP_FROM：发件人地址
-   - TO_ADDRESSES：收件人列表（逗号分隔）
+3. 配置 GitHub Actions：
+   在仓库设置中添加以下 Secrets：
+   - `SMTP_HOST`：邮件服务器地址
+   - `SMTP_PORT`：服务器端口（推荐 465）
+   - `SMTP_USERNAME`：邮箱账号
+   - `SMTP_PASSWORD`：授权码
+   - `SMTP_FROM`：发件人地址
+   - `TO_ADDRESSES`：收件人列表（逗号分隔）
 
-## 🔧 开发说明
+## � 技术实现
 
-### 技术栈
-- 前端：Vue.js + 原生 CSS
-- 后端：Python（邮件服务）
+### 前端技术
+- **Vue 3**：响应式数据处理
+- **FullCalendar**：日历视图实现
+- **CSS Variables**：主题切换
+- **Local Storage**：用户偏好存储
+
+### 后端技术
+- **Python**：数据爬取
+- **SMTP**：邮件发送
+- **GitHub Actions**：自动化部署
+
+### 自动化流程
+- 每 15 分钟自动更新比赛数据
+- 智能缓存机制确保离线可用
+- 失败自动重试（最多 3 次）
+- 每日定时发送邮件提醒
+
+## 🤝 参与贡献
+
+欢迎提交 Issue 和 Pull Request！
+
+1. Fork 本仓库
+2. 创建特性分支：`git checkout -b feature/AmazingFeature`
+3. 提交改动：`git commit -m 'Add some AmazingFeature'`
+4. 推送分支：`git push origin feature/AmazingFeature`
+5. 提交 Pull Request
+
+## 📜 开源协议
+
+本项目基于 MIT 协议开源，详见 [LICENSE](LICENSE) 文件。
+
+## 📝 版权信息
+
+© 2025 [canjisam](https://github.com/canjisam). All rights reserved.
 - 自动化：GitHub Actions
 - 数据源：各平台 API + 定时更新
 
