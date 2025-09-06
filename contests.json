@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-06 12:41:24",
+  "last_updated": "2025-09-06 13:38:37",
   "contests": [
     {
       "platform": "AtCoder",
@@ -343,13 +343,6 @@
       "start_time": "2025-08-22 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://www.luogu.com.cn/contest/270110"
-    },
-    {
-      "platform": "luogu",
-      "name": "「LDOI」Round #3",
-      "start_time": "2025-08-22 13:30:00",
-      "duration": "3小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/220842"
     }
   ]
 }
