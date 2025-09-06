@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-06 18:38:18",
+  "last_updated": "2025-09-06 19:37:34",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,13 @@
       "start_time": "2025-09-21 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc206"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 110",
+      "start_time": "2025-09-21 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/117163?from=acm_calendar"
     },
     {
       "platform": "Codeforces",
@@ -336,13 +343,6 @@
       "start_time": "2025-08-23 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/241168"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-239-Div.4】洛谷入门赛 #38",
-      "start_time": "2025-08-22 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/270110"
     }
   ]
 }
