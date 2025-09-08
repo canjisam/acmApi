@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 13:41:10",
+  "last_updated": "2025-09-08 14:50:29",
   "contests": [
     {
       "platform": "AtCoder",
@@ -301,20 +301,6 @@
       "start_time": "2025-08-25 13:00:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/264992"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-X18】梦熊 X 组 · 企鹅赛 & FAOI-R6（同步赛）",
-      "start_time": "2025-08-24 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/270369"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-J21】梦熊 J 组 · 企鹅赛 & FAOI-R6（同步赛）",
-      "start_time": "2025-08-24 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/270370"
     }
   ]
 }
