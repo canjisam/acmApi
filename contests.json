@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 10:11:46",
+  "last_updated": "2025-09-09 11:21:48",
   "contests": [
     {
       "platform": "AtCoder",
@@ -52,7 +52,7 @@
     },
     {
       "platform": "AtCoder",
-      "name": "AtCoder × Engineer Guild（AtCoder Beginner Contest 424）",
+      "name": "AtCoder Beginner Contest 424",
       "start_time": "2025-09-20 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc424"
