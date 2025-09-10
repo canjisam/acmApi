@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 18:41:54",
+  "last_updated": "2025-09-10 19:38:17",
   "contests": [
     {
       "platform": "AtCoder",
@@ -70,6 +70,13 @@
       "start_time": "2025-09-19 19:00:00",
       "duration": "3小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/117057?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-241-Div.4】洛谷入门赛 #39",
+      "start_time": "2025-09-19 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/275425"
     },
     {
       "platform": "AtCoder",
@@ -206,17 +213,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X19】梦熊 X 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
-      "start_time": "2025-09-06 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/273609"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J22】梦熊 J 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
       "start_time": "2025-09-06 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/273610"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X19】梦熊 X 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
+      "start_time": "2025-09-06 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/273609"
     },
     {
       "platform": "NowCoder",
