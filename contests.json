@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-11 19:38:10",
+  "last_updated": "2025-09-11 21:02:11",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "Panasonic Programming Contest 2025（AtCoder Beginner Contest 427）",
+      "start_time": "2025-10-11 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc427"
+    },
     {
       "platform": "AtCoder",
       "name": "AtCoder Regular Contest 207 (Div.1)",
