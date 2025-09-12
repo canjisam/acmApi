@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 22:41:23",
+  "last_updated": "2025-09-12 23:41:16",
   "contests": [
     {
       "platform": "AtCoder",
@@ -171,7 +171,7 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X20】梦熊 X 组 · 猫猫赛 & FAOI-R7（同步赛）",
+      "name": "【MX-X20】梦熊 X 组 · 猫猫赛 & FAOI-R7",
       "start_time": "2025-09-13 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/275289"
