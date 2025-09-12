@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 21:42:02",
+  "last_updated": "2025-09-12 22:41:23",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2025-09-28 20:00:00",
       "duration": "3小时0分钟",
       "url": "https://atcoder.jp/contests/agc073"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Biweekly Contest 166",
+      "start_time": "2025-09-27 22:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/biweekly-contest-166"
     },
     {
       "platform": "AtCoder",
@@ -273,13 +280,6 @@
       "start_time": "2025-09-03 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/273805"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Kotlin Heroes: Practice 13",
-      "start_time": "2025-09-02 22:30:00",
-      "duration": "240小时0分钟",
-      "url": "https://codeforces.com/contest/2142"
     },
     {
       "platform": "luogu",
