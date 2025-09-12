@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 12:41:09",
+  "last_updated": "2025-09-12 13:39:25",
   "contests": [
     {
       "platform": "AtCoder",
@@ -315,13 +315,6 @@
       "start_time": "2025-08-29 14:30:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/231056"
-    },
-    {
-      "platform": "luogu",
-      "name": "SWERC 2020 Unofficial Mirror",
-      "start_time": "2025-08-28 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/272991"
     }
   ]
 }
