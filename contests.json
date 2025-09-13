@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 00:39:53",
+  "last_updated": "2025-09-14 01:37:06",
   "contests": [
     {
       "platform": "AtCoder",
@@ -140,13 +140,6 @@
       "start_time": "2025-09-14 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-467"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1050 (Div. 4)",
-      "start_time": "2025-09-13 22:35:00",
-      "duration": "2小时15分钟",
-      "url": "https://codeforces.com/contest/2148"
     },
     {
       "platform": "LeetCode",
