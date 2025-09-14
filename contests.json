@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 21:37:03",
+  "last_updated": "2025-09-14 22:37:10",
   "contests": [
     {
       "platform": "AtCoder",
@@ -14,6 +14,13 @@
       "start_time": "2025-10-05 20:00:00",
       "duration": "2小时30分钟",
       "url": "https://atcoder.jp/contests/arc207"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Educational Codeforces Round 183 (Rated for Div. 2)",
+      "start_time": "2025-09-29 22:35:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2145"
     },
     {
       "platform": "AtCoder",
@@ -280,13 +287,6 @@
       "start_time": "2025-08-31 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-465"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Biweekly Contest 164",
-      "start_time": "2025-08-30 22:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/biweekly-contest-164"
     }
   ]
 }
