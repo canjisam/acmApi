@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 13:38:28",
+  "last_updated": "2025-09-14 14:45:22",
   "contests": [
     {
       "platform": "AtCoder",
@@ -287,13 +287,6 @@
       "start_time": "2025-08-30 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-164"
-    },
-    {
-      "platform": "luogu",
-      "name": "「TFXOI」Round #3",
-      "start_time": "2025-08-30 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/249974"
     }
   ]
 }
