@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 16:41:14",
+  "last_updated": "2025-09-14 17:37:26",
   "contests": [
     {
       "platform": "AtCoder",
@@ -114,6 +114,13 @@
       "url": "https://codeforces.com/contest/2143"
     },
     {
+      "platform": "luogu",
+      "name": "[SDCPC 2019] 第十届山东省 ICPC 大学生程序设计竞赛重现赛",
+      "start_time": "2025-09-16 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/276180"
+    },
+    {
       "platform": "Codeforces",
       "name": "Educational Codeforces Round 182 (Rated for Div. 2)",
       "start_time": "2025-09-15 22:35:00",
@@ -150,17 +157,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J23】梦熊 J 组 · 猫猫赛 & FAOI-R7（同步赛）",
-      "start_time": "2025-09-13 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/275290"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X20】梦熊 X 组 · 猫猫赛 & FAOI-R7",
       "start_time": "2025-09-13 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/275289"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J23】梦熊 J 组 · 猫猫赛 & FAOI-R7（同步赛）",
+      "start_time": "2025-09-13 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/275290"
     },
     {
       "platform": "NowCoder",
@@ -213,17 +220,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J22】梦熊 J 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
-      "start_time": "2025-09-06 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/273610"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X19】梦熊 X 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
       "start_time": "2025-09-06 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/273609"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J22】梦熊 J 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
+      "start_time": "2025-09-06 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/273610"
     },
     {
       "platform": "NowCoder",
