@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-15 11:53:39",
+  "last_updated": "2025-09-15 12:43:56",
   "contests": [
     {
       "platform": "AtCoder",
@@ -30,6 +30,13 @@
       "url": "https://atcoder.jp/contests/agc073"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 111",
+      "start_time": "2025-09-28 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/117763?from=acm_calendar"
+    },
+    {
       "platform": "LeetCode",
       "name": "Biweekly Contest 166",
       "start_time": "2025-09-27 22:30:00",
@@ -49,6 +56,13 @@
       "start_time": "2025-09-27 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/273114"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客小白月赛121",
+      "start_time": "2025-09-26 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/117762?from=acm_calendar"
     },
     {
       "platform": "Codeforces",
