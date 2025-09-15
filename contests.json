@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-15 23:41:12",
+  "last_updated": "2025-09-16 00:45:52",
   "contests": [
     {
       "platform": "AtCoder",
@@ -147,13 +147,6 @@
       "start_time": "2025-09-16 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/276180"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Educational Codeforces Round 182 (Rated for Div. 2)",
-      "start_time": "2025-09-15 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2144"
     },
     {
       "platform": "NowCoder",
