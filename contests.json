@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-15 10:16:45",
+  "last_updated": "2025-09-15 11:28:15",
   "contests": [
     {
       "platform": "AtCoder",
@@ -42,6 +42,13 @@
       "start_time": "2025-09-27 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc425"
+    },
+    {
+      "platform": "luogu",
+      "name": "zyh_helen's Construction Round",
+      "start_time": "2025-09-27 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/273114"
     },
     {
       "platform": "Codeforces",
@@ -280,13 +287,6 @@
       "start_time": "2025-08-31 14:30:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/273457"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 465",
-      "start_time": "2025-08-31 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-465"
     }
   ]
 }
