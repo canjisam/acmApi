@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-16 18:42:24",
+  "last_updated": "2025-09-16 19:38:00",
   "contests": [
     {
       "platform": "AtCoder",
@@ -56,6 +56,13 @@
       "start_time": "2025-09-26 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/117762?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "zyh_helen's Construction Round",
+      "start_time": "2025-09-26 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/273114"
     },
     {
       "platform": "Codeforces",
