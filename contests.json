@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-16 21:45:14",
+  "last_updated": "2025-09-16 22:46:10",
   "contests": [
     {
       "platform": "AtCoder",
@@ -14,6 +14,13 @@
       "start_time": "2025-10-05 20:00:00",
       "duration": "2小时30分钟",
       "url": "https://atcoder.jp/contests/arc207"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-242-Div.3】洛谷基础赛 #26 & IAMOI Round #4",
+      "start_time": "2025-10-01 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/256849"
     },
     {
       "platform": "AtCoder",
@@ -101,17 +108,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J24】梦熊 J 组 · 知更鸟赛 & IAMOI Round #5（同步赛）",
-      "start_time": "2025-09-21 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/276404"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X21】梦熊 X 组 · 知更鸟赛 & IAMOI Round #5（同步赛）",
       "start_time": "2025-09-21 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/276403"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J24】梦熊 J 组 · 知更鸟赛 & IAMOI Round #5（同步赛）",
+      "start_time": "2025-09-21 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/276404"
     },
     {
       "platform": "LeetCode",
@@ -192,17 +199,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J23】梦熊 J 组 · 猫猫赛 & FAOI-R7（同步赛）",
-      "start_time": "2025-09-13 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/275290"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X20】梦熊 X 组 · 猫猫赛 & FAOI-R7",
       "start_time": "2025-09-13 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/275289"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J23】梦熊 J 组 · 猫猫赛 & FAOI-R7（同步赛）",
+      "start_time": "2025-09-13 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/275290"
     },
     {
       "platform": "NowCoder",
