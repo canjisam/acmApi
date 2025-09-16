@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-16 14:49:22",
+  "last_updated": "2025-09-16 15:38:20",
   "contests": [
     {
       "platform": "AtCoder",
@@ -45,6 +45,13 @@
     },
     {
       "platform": "luogu",
+      "name": "【LGR-241-Div.2】洛谷 9 月月赛 II & CZOI Round 7",
+      "start_time": "2025-09-27 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/243716"
+    },
+    {
+      "platform": "luogu",
       "name": "zyh_helen's Construction Round",
       "start_time": "2025-09-27 14:00:00",
       "duration": "4小时0分钟",
@@ -84,6 +91,20 @@
       "start_time": "2025-09-21 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/117163?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J24】梦熊 J 组 · 知更鸟赛 & IAMOI Round #5（同步赛）",
+      "start_time": "2025-09-21 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/276404"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X21】梦熊 X 组 · 知更鸟赛 & IAMOI Round #5（同步赛）",
+      "start_time": "2025-09-21 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/276403"
     },
     {
       "platform": "LeetCode",
@@ -164,17 +185,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X20】梦熊 X 组 · 猫猫赛 & FAOI-R7",
-      "start_time": "2025-09-13 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/275289"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J23】梦熊 J 组 · 猫猫赛 & FAOI-R7（同步赛）",
       "start_time": "2025-09-13 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/275290"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X20】梦熊 X 组 · 猫猫赛 & FAOI-R7",
+      "start_time": "2025-09-13 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/275289"
     },
     {
       "platform": "NowCoder",
@@ -206,17 +227,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-240-Div.2】核桃编程 9 月月赛 I & florr IO Round 1",
-      "start_time": "2025-09-07 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/228479"
-    },
-    {
-      "platform": "luogu",
       "name": "【LGR-240-Div.1】核桃编程 9 月月赛 I & florr IO Round 1",
       "start_time": "2025-09-07 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/273933"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-240-Div.2】核桃编程 9 月月赛 I & florr IO Round 1",
+      "start_time": "2025-09-07 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/228479"
     },
     {
       "platform": "LeetCode",
@@ -227,17 +248,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X19】梦熊 X 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
-      "start_time": "2025-09-06 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/273609"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J22】梦熊 J 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
       "start_time": "2025-09-06 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/273610"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X19】梦熊 X 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
+      "start_time": "2025-09-06 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/273609"
     },
     {
       "platform": "NowCoder",
