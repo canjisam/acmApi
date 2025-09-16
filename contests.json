@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-16 16:47:32",
+  "last_updated": "2025-09-16 17:41:30",
   "contests": [
     {
       "platform": "AtCoder",
@@ -63,6 +63,13 @@
       "start_time": "2025-09-25 22:35:00",
       "duration": "2小时15分钟",
       "url": "https://codeforces.com/contest/2149"
+    },
+    {
+      "platform": "luogu",
+      "name": "PO Final 2022 Unofficial Mirror",
+      "start_time": "2025-09-22 14:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/275647"
     },
     {
       "platform": "Codeforces",
