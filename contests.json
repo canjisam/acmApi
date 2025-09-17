@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-17 12:42:11",
+  "last_updated": "2025-09-17 13:40:20",
   "contests": [
     {
       "platform": "AtCoder",
@@ -322,13 +322,6 @@
       "start_time": "2025-09-03 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/273805"
-    },
-    {
-      "platform": "luogu",
-      "name": "[EC Final 2019] ICPC2019 东亚赛区决赛重现赛",
-      "start_time": "2025-09-02 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/273827"
     }
   ]
 }
