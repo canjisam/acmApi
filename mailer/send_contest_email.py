@@ -75,11 +75,16 @@ def main(contests_json_path: str = None, dry_run: bool = True):
     upcoming = filter_next_24h(data.get("contests", []))
     body = build_email_text(upcoming)
     html_body = build_html_email(upcoming)
-
+    cnt = len(upcoming)
+    title="今天有{}场比赛".format(cnt) if cnt > 0 else "未来24小时内无比赛"
     cfg = load_config()
     smtp = cfg.get("smtp")
     to_addrs = cfg.get("to", [])
+<<<<<<< HEAD
     subject = cfg.get("subject", f"今日比赛提醒 - {datetime.now().strftime('%Y-%m-%d')}")
+=======
+    subject = cfg.get("subject", f"[ACMApi比赛提醒]{datetime.now().strftime('%Y-%m-%d')} - {title} ")
+>>>>>>> 7d385cff (feat : 优化显示逻辑)
 
     if not smtp or not to_addrs:
         print("[INFO] SMTP 配置或收件人未设置，进入 dry-run 模式，打印邮件内容：\n")
