@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-18 12:42:07",
+  "last_updated": "2025-09-18 13:39:47",
   "contests": [
     {
       "platform": "AtCoder",
@@ -308,13 +308,6 @@
       "start_time": "2025-09-04 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/274039"
-    },
-    {
-      "platform": "luogu",
-      "name": "[ICPC2023 Nanjing R] ICPC2023 区域赛南京站重现赛",
-      "start_time": "2025-09-03 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/273805"
     }
   ]
 }
