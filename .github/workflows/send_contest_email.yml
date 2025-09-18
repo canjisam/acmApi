@@ -35,7 +35,6 @@ jobs:
           import json
           import os
           from datetime import datetime
-          
           config = {
               "smtp": {
                   "host": os.environ["SMTP_HOST"],
@@ -46,8 +45,7 @@ jobs:
                   "use_ssl": True,
                   "timeout": 30
               },
-              "to": [addr.strip() for addr in os.environ["TO_ADDRESSES"].split(",")],
-              "subject": f"比赛提醒 - {datetime.now().strftime('%Y-%m-%d')}"
+              "to": [addr.strip() for addr in os.environ["TO_ADDRESSES"].split(",")]
           }
           
           with open("mailer/config.json", "w", encoding="utf-8") as f:
