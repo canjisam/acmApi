@@ -34,7 +34,6 @@ jobs:
           python - <<EOF
           import json
           import os
-          from datetime import datetime
           config = {
               "smtp": {
                   "host": os.environ["SMTP_HOST"],
