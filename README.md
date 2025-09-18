@@ -14,6 +14,11 @@
 ### 日历视图展示
 ![日历视图](img/日历视图网页.png)
 
+### 邮件推送情况
+无比赛
+![无比赛的情况](img/无比赛的情况.png)
+有比赛
+![有比赛的情况](img/有比赛的情况.png)
 ## ✨ 特色功能
 
 ### 1. 现代化界面
@@ -44,7 +49,7 @@
 
 | 平台 Logo | 平台 | 说明 | 官网 |
 |-----------|------|------|------|
-| ![Codeforces](icons/codeforces.png) | Codeforces | 全球最大的竞赛平台 | [访问](https://codeforces.com) |
+| ![Codeforces](icons/codeforces.png =600x) | Codeforces | 全球最大的竞赛平台 | [访问](https://codeforces.com) |
 | ![AtCoder](icons/atcoder.png) | AtCoder | 日本顶级竞赛平台 | [访问](https://atcoder.jp) |
 | ![LeetCode](icons/leetcode.png) | LeetCode | 算法题库和竞赛平台 | [访问](https://leetcode.com) |
 | ![牛客网](icons/nowcoder.png) | 牛客网 | 综合竞赛和面试平台 | [访问](https://www.nowcoder.com) |
