@@ -80,11 +80,7 @@ def main(contests_json_path: str = None, dry_run: bool = True):
     cfg = load_config()
     smtp = cfg.get("smtp")
     to_addrs = cfg.get("to", [])
-<<<<<<< HEAD
-    subject = cfg.get("subject", f"今日比赛提醒 - {datetime.now().strftime('%Y-%m-%d')}")
-=======
-    subject = cfg.get("subject", f"[ACMApi比赛提醒]{datetime.now().strftime('%Y-%m-%d')} - {title} ")
->>>>>>> 7d385cff (feat : 优化显示逻辑)
+    subject = cfg.get("subject", f"[ACMApi比赛提醒]{title} -{datetime.now().strftime('%Y-%m-%d')}  ")
 
     if not smtp or not to_addrs:
         print("[INFO] SMTP 配置或收件人未设置，进入 dry-run 模式，打印邮件内容：\n")

@@ -84,14 +84,19 @@
    在 `config.json` 中填入你的 SMTP 服务器信息
 
 3. 配置 GitHub Actions：
-   在仓库设置中添加以下 Secrets：
-   - `SMTP_HOST`：邮件服务器地址
-   - `SMTP_PORT`：服务器端口（推荐 465）
-   - `SMTP_USERNAME`：邮箱账号
-   - `SMTP_PASSWORD`：授权码
-   - `SMTP_FROM`：发件人地址
-   - `TO_ADDRESSES`：收件人列表（逗号分隔）
 
+![](img/Sercretsandvariable存放密钥.png)
+![](img/采用GitHubAction存储邮箱Secret等.png)
+
+
+- 我们在 `.github/workflows/send_contest_email.yml` 中添加了一个每日定时任务。
+- 在仓库 Settings -> Secrets 中添加以下 Secrets：
+  - SMTP_HOST（例如："smtp.gmail.com"）
+  - SMTP_PORT（例如："587"，纯数字）
+  - SMTP_USERNAME（SMTP 用户名）
+  - SMTP_PASSWORD（SMTP 密码或应用密码）
+  - SMTP_FROM（发件人邮箱地址）
+  - TO_ADDRESSES（收件人邮箱列表，用逗号分隔，如："user1@example.com,user2@example.com"）
 ## � 技术实现
 
 ### 前端技术
