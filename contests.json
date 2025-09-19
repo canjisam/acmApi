@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-19 14:48:41",
+  "last_updated": "2025-09-19 15:37:57",
   "contests": [
     {
       "platform": "AtCoder",
@@ -14,6 +14,13 @@
       "start_time": "2025-10-05 20:00:00",
       "duration": "2小时30分钟",
       "url": "https://atcoder.jp/contests/arc207"
+    },
+    {
+      "platform": "luogu",
+      "name": "zyh_helen's Construction Round",
+      "start_time": "2025-10-04 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/273114"
     },
     {
       "platform": "Codeforces",
@@ -45,6 +52,13 @@
     },
     {
       "platform": "LeetCode",
+      "name": "Weekly Contest 469",
+      "start_time": "2025-09-28 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-469"
+    },
+    {
+      "platform": "LeetCode",
       "name": "Biweekly Contest 166",
       "start_time": "2025-09-27 22:30:00",
       "duration": "1小时30分钟",
@@ -70,13 +84,6 @@
       "start_time": "2025-09-26 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/117762?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "zyh_helen's Construction Round",
-      "start_time": "2025-09-26 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/273114"
     },
     {
       "platform": "Codeforces",
