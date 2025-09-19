@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-19 12:42:52",
+  "last_updated": "2025-09-19 13:40:09",
   "contests": [
     {
       "platform": "AtCoder",
@@ -308,13 +308,6 @@
       "start_time": "2025-09-05 14:30:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/273919"
-    },
-    {
-      "platform": "luogu",
-      "name": "VKOSHP 2024 Unofficial Mirror",
-      "start_time": "2025-09-04 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/274039"
     }
   ]
 }
