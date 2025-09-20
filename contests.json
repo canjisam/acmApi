@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-20 18:39:38",
+  "last_updated": "2025-09-20 19:37:59",
   "contests": [
     {
       "platform": "AtCoder",
@@ -301,13 +301,6 @@
       "start_time": "2025-09-06 13:00:00",
       "duration": "4小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/116893?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客小白月赛120",
-      "start_time": "2025-09-05 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/116657?from=acm_calendar"
     }
   ]
 }
