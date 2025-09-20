@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-20 13:39:44",
+  "last_updated": "2025-09-20 14:46:03",
   "contests": [
     {
       "platform": "AtCoder",
@@ -308,13 +308,6 @@
       "start_time": "2025-09-05 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/116657?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "PO Final 2023 Unofficial Mirror",
-      "start_time": "2025-09-05 14:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/273919"
     }
   ]
 }
