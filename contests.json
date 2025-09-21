@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-21 13:39:38",
+  "last_updated": "2025-09-21 14:46:00",
   "contests": [
     {
       "platform": "AtCoder",
@@ -266,20 +266,6 @@
       "start_time": "2025-09-07 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-466"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-J22】梦熊 J 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
-      "start_time": "2025-09-06 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/273610"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-X19】梦熊 X 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
-      "start_time": "2025-09-06 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/273609"
     }
   ]
 }
