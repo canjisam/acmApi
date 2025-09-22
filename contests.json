@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-22 21:45:08",
+  "last_updated": "2025-09-22 22:44:12",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2025-10-06 22:35:00",
       "duration": "2小时0分钟",
       "url": "https://codeforces.com/contest/2145"
+    },
+    {
+      "platform": "luogu",
+      "name": "『Raiden Ei』 Round 1",
+      "start_time": "2025-10-06 14:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/250078"
     },
     {
       "platform": "AtCoder",
