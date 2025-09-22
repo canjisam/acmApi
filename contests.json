@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-22 18:44:40",
+  "last_updated": "2025-09-22 19:38:17",
   "contests": [
     {
       "platform": "AtCoder",
@@ -252,13 +252,6 @@
       "start_time": "2025-09-09 14:30:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/275073"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 108",
-      "start_time": "2025-09-07 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/116658?from=acm_calendar"
     }
   ]
 }
