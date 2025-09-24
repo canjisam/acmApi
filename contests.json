@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-24 14:48:55",
+  "last_updated": "2025-09-24 15:39:35",
   "contests": [
     {
       "platform": "AtCoder",
@@ -136,7 +136,7 @@
     },
     {
       "platform": "NowCoder",
-      "name": "港城莞新生程序设计排位赛",
+      "name": "2025年香港城市大学（东莞）新生程序设计个人排位赛正式赛（同步赛）",
       "start_time": "2025-09-27 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/118113?from=acm_calendar"
