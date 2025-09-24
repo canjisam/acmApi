@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-24 13:40:18",
+  "last_updated": "2025-09-24 14:48:55",
   "contests": [
     {
       "platform": "AtCoder",
@@ -136,6 +136,13 @@
     },
     {
       "platform": "NowCoder",
+      "name": "港城莞新生程序设计排位赛",
+      "start_time": "2025-09-27 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/118113?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
       "name": "牛客小白月赛121",
       "start_time": "2025-09-26 19:00:00",
       "duration": "2小时0分钟",
@@ -266,13 +273,6 @@
       "start_time": "2025-09-10 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/275088"
-    },
-    {
-      "platform": "luogu",
-      "name": "POCamp 2023 Unofficial Mirror",
-      "start_time": "2025-09-09 14:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/275073"
     }
   ]
 }
