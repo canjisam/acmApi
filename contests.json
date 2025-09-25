@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-25 07:37:41",
+  "last_updated": "2025-09-25 10:11:02",
   "contests": [
     {
       "platform": "AtCoder",
@@ -140,6 +140,13 @@
       "start_time": "2025-09-27 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/118113?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "港城莞热身赛（同步赛）",
+      "start_time": "2025-09-27 09:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/118319?from=acm_calendar"
     },
     {
       "platform": "NowCoder",
