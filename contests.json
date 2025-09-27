@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-27 12:41:34",
+  "last_updated": "2025-09-27 13:38:35",
   "contests": [
     {
       "platform": "AtCoder",
@@ -119,6 +119,13 @@
       "start_time": "2025-10-01 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/256849"
+    },
+    {
+      "platform": "luogu",
+      "name": "[ZJCPC 2017] 第十四届浙江省 ICPC 大学生程序设计竞赛重现赛",
+      "start_time": "2025-09-29 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/278448"
     },
     {
       "platform": "AtCoder",
