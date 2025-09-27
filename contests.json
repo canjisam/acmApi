@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-27 13:38:35",
+  "last_updated": "2025-09-27 14:44:04",
   "contests": [
     {
       "platform": "AtCoder",
@@ -101,6 +101,13 @@
     },
     {
       "platform": "luogu",
+      "name": "【LGR-245-Div.2】「SFMOI」Round II",
+      "start_time": "2025-10-03 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/277395"
+    },
+    {
+      "platform": "luogu",
       "name": "【LGR-245-Div.1】「SFMOI」Round II",
       "start_time": "2025-10-03 14:00:00",
       "duration": "4小时0分钟",
@@ -108,10 +115,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-245-Div.2】「SFMOI」Round II",
-      "start_time": "2025-10-03 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/277395"
+      "name": "【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
+      "start_time": "2025-10-02 14:00:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/278458"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
+      "start_time": "2025-10-02 14:00:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/278459"
     },
     {
       "platform": "luogu",
