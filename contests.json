@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-28 21:38:09",
+  "last_updated": "2025-09-28 22:36:57",
   "contests": [
     {
       "platform": "AtCoder",
@@ -52,13 +52,6 @@
     },
     {
       "platform": "luogu",
-      "name": "『Raiden Ei』 Round 1",
-      "start_time": "2025-10-06 14:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/250078"
-    },
-    {
-      "platform": "luogu",
       "name": "[ICPC2022 Nanjing R] ICPC2022 区域赛南京站重现赛",
       "start_time": "2025-10-06 08:30:00",
       "duration": "5小时0分钟",
@@ -70,6 +63,13 @@
       "start_time": "2025-10-05 20:00:00",
       "duration": "2小时30分钟",
       "url": "https://atcoder.jp/contests/arc207"
+    },
+    {
+      "platform": "luogu",
+      "name": "『Raiden Ei』 Round 1",
+      "start_time": "2025-10-05 14:00:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/250078"
     },
     {
       "platform": "LeetCode",
@@ -287,13 +287,6 @@
       "start_time": "2025-09-14 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-467"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Biweekly Contest 165",
-      "start_time": "2025-09-13 22:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/biweekly-contest-165"
     }
   ]
 }
