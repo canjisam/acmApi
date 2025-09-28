@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-28 19:37:59",
+  "last_updated": "2025-09-28 20:58:23",
   "contests": [
     {
       "platform": "AtCoder",
@@ -154,13 +154,6 @@
       "start_time": "2025-09-29 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/278448"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Grand Contest 073",
-      "start_time": "2025-09-28 20:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://atcoder.jp/contests/agc073"
     },
     {
       "platform": "NowCoder",
