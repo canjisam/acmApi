@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-28 12:41:42",
+  "last_updated": "2025-09-28 13:39:16",
   "contests": [
     {
       "platform": "AtCoder",
@@ -58,6 +58,13 @@
       "url": "https://www.luogu.com.cn/contest/250078"
     },
     {
+      "platform": "luogu",
+      "name": "[ICPC2022 Nanjing R] ICPC2022 区域赛南京站重现赛",
+      "start_time": "2025-10-06 08:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/278653"
+    },
+    {
       "platform": "AtCoder",
       "name": "AtCoder Regular Contest 207 (Div.1)",
       "start_time": "2025-10-05 20:00:00",
@@ -101,17 +108,24 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-245-Div.2】「SFMOI」Round II",
+      "name": "【LGR-245-Div.2】洛谷 10 月月赛 I &「SFMOI」Round II",
       "start_time": "2025-10-03 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/277395"
     },
     {
       "platform": "luogu",
-      "name": "【LGR-245-Div.1】「SFMOI」Round II",
+      "name": "【LGR-245-Div.1】洛谷 10 月月赛 I &「SFMOI」Round II",
       "start_time": "2025-10-03 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/228774"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
+      "start_time": "2025-10-02 14:00:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/278459"
     },
     {
       "platform": "luogu",
@@ -122,10 +136,10 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
-      "start_time": "2025-10-02 14:00:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/278459"
+      "name": "[SCCPC 2021] 第十三届四川省 ICPC 大学生程序设计竞赛重现赛",
+      "start_time": "2025-10-02 08:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/278652"
     },
     {
       "platform": "luogu",
@@ -294,13 +308,6 @@
       "start_time": "2025-09-13 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/275290"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-X20】梦熊 X 组 · 猫猫赛 & FAOI-R7",
-      "start_time": "2025-09-13 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/275289"
     }
   ]
 }
