@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-30 22:44:33",
+  "last_updated": "2025-09-30 23:39:44",
   "contests": [
     {
       "platform": "AtCoder",
@@ -73,14 +73,14 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X23】梦熊 X 组（同步赛）",
+      "name": "【MX-X23】梦熊 X 组 · 月亮赛（同步赛）",
       "start_time": "2025-10-06 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/278944"
     },
     {
       "platform": "luogu",
-      "name": "【MX-J26】梦熊 J 组（同步赛）",
+      "name": "【MX-J26】梦熊 J 组 · 月亮赛（同步赛）",
       "start_time": "2025-10-06 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/278945"
