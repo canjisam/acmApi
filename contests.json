@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-30 21:06:15",
+  "last_updated": "2025-09-30 21:46:35",
   "contests": [
     {
       "platform": "AtCoder",
@@ -80,7 +80,7 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J26】梦熊 X 组（同步赛）",
+      "name": "【MX-J26】梦熊 J 组（同步赛）",
       "start_time": "2025-10-06 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/278945"
