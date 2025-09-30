@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-30 23:39:44",
+  "last_updated": "2025-10-01 00:46:41",
   "contests": [
     {
       "platform": "AtCoder",
@@ -51,6 +51,27 @@
       "url": "https://codeforces.com/contest/2153"
     },
     {
+      "platform": "NowCoder",
+      "name": "2025牛客国庆集训派对day8",
+      "start_time": "2025-10-08 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/117511?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "新疆大学2025年新生赛(同步赛)",
+      "start_time": "2025-10-08 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/118530?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "沈阳化工大学第十二届程序设计沈阳区竞赛",
+      "start_time": "2025-10-08 11:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/118525?from=acm_calendar"
+    },
+    {
       "platform": "luogu",
       "name": "【LGR-244-Div.1】洛谷 10 月月赛 II & FAOI-R8",
       "start_time": "2025-10-07 14:00:00",
@@ -63,6 +84,13 @@
       "start_time": "2025-10-07 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/278764"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2025牛客国庆集训派对day7",
+      "start_time": "2025-10-07 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/117510?from=acm_calendar"
     },
     {
       "platform": "Codeforces",
@@ -86,6 +114,13 @@
       "url": "https://www.luogu.com.cn/contest/278945"
     },
     {
+      "platform": "NowCoder",
+      "name": "2025牛客国庆集训派对day6",
+      "start_time": "2025-10-06 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/117509?from=acm_calendar"
+    },
+    {
       "platform": "luogu",
       "name": "[ICPC2022 Nanjing R] ICPC2022 区域赛南京站重现赛",
       "start_time": "2025-10-06 08:30:00",
@@ -107,11 +142,25 @@
       "url": "https://atcoder.jp/contests/arc207"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 112",
+      "start_time": "2025-10-05 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/118247?from=acm_calendar"
+    },
+    {
       "platform": "luogu",
       "name": "『Raiden Ei』 Round 1",
       "start_time": "2025-10-05 14:00:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/250078"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2025牛客国庆集训派对day5",
+      "start_time": "2025-10-05 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/117508?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
@@ -142,6 +191,13 @@
       "url": "https://www.luogu.com.cn/contest/273114"
     },
     {
+      "platform": "NowCoder",
+      "name": "2025牛客国庆集训派对day4",
+      "start_time": "2025-10-04 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/117507?from=acm_calendar"
+    },
+    {
       "platform": "Codeforces",
       "name": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
       "start_time": "2025-10-03 22:35:00",
@@ -163,6 +219,13 @@
       "url": "https://www.luogu.com.cn/contest/277395"
     },
     {
+      "platform": "NowCoder",
+      "name": "2025牛客国庆集训派对day3",
+      "start_time": "2025-10-03 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/117506?from=acm_calendar"
+    },
+    {
       "platform": "luogu",
       "name": "【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
       "start_time": "2025-10-02 14:00:00",
@@ -175,6 +238,13 @@
       "start_time": "2025-10-02 14:00:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/278459"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2025牛客国庆集训派对day2",
+      "start_time": "2025-10-02 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/117504?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -191,18 +261,18 @@
       "url": "https://www.luogu.com.cn/contest/256849"
     },
     {
+      "platform": "NowCoder",
+      "name": "2025牛客国庆集训派对day1",
+      "start_time": "2025-10-01 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/117503?from=acm_calendar"
+    },
+    {
       "platform": "luogu",
       "name": "[ZJCPC 2017] 第十四届浙江省 ICPC 大学生程序设计竞赛重现赛",
       "start_time": "2025-09-29 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/278448"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 111",
-      "start_time": "2025-09-28 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/117763?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -233,20 +303,6 @@
       "url": "https://www.luogu.com.cn/contest/243716"
     },
     {
-      "platform": "NowCoder",
-      "name": "2025年香港城市大学（东莞）新生程序设计个人排位赛正式赛（同步赛）",
-      "start_time": "2025-09-27 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/118113?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025年香港城市大学（东莞）新生程序设计个人排位赛热身赛（同步赛）",
-      "start_time": "2025-09-27 09:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/118319?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "Fortnight Round 1",
       "start_time": "2025-09-27 08:00:00",
@@ -254,25 +310,11 @@
       "url": "https://www.luogu.com.cn/contest/214471"
     },
     {
-      "platform": "NowCoder",
-      "name": "牛客小白月赛121",
-      "start_time": "2025-09-26 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/117762?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "PO Final 2022 Unofficial Mirror",
       "start_time": "2025-09-22 14:30:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/275647"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 110",
-      "start_time": "2025-09-21 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/117163?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -287,13 +329,6 @@
       "start_time": "2025-09-21 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-468"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客挑战赛82",
-      "start_time": "2025-09-19 19:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/117057?from=acm_calendar"
     }
   ]
 }
