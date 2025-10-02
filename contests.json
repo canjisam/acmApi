@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-02 13:39:34",
+  "last_updated": "2025-10-02 14:47:41",
   "contests": [
     {
       "platform": "AtCoder",
@@ -228,14 +228,14 @@
     {
       "platform": "luogu",
       "name": "【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4",
-      "start_time": "2025-10-02 14:00:00",
+      "start_time": "2025-10-02 14:05:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/278458"
     },
     {
       "platform": "luogu",
       "name": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4",
-      "start_time": "2025-10-02 14:00:00",
+      "start_time": "2025-10-02 14:05:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/278459"
     },
