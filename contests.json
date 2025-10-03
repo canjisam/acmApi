@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-03 17:39:16",
+  "last_updated": "2025-10-03 18:40:49",
   "contests": [
     {
       "platform": "AtCoder",
@@ -44,13 +44,6 @@
       "url": "https://atcoder.jp/contests/abc427"
     },
     {
-      "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
-      "start_time": "2025-10-10 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2153"
-    },
-    {
       "platform": "NowCoder",
       "name": "2025牛客国庆集训派对day8",
       "start_time": "2025-10-08 12:00:00",
@@ -93,13 +86,6 @@
       "url": "https://ac.nowcoder.com/acm/contest/117510?from=acm_calendar"
     },
     {
-      "platform": "Codeforces",
-      "name": "Educational Codeforces Round 183 (Rated for Div. 2)",
-      "start_time": "2025-10-06 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2145"
-    },
-    {
       "platform": "luogu",
       "name": "【MX-X23】梦熊 X 组 · 月亮赛（同步赛）",
       "start_time": "2025-10-06 14:00:00",
@@ -126,13 +112,6 @@
       "start_time": "2025-10-06 08:30:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/278653"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
-      "start_time": "2025-10-06 00:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2155"
     },
     {
       "platform": "AtCoder",
@@ -196,13 +175,6 @@
       "start_time": "2025-10-04 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/117507?from=acm_calendar"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
-      "start_time": "2025-10-03 22:35:00",
-      "duration": "3小时0分钟",
-      "url": "https://codeforces.com/contest/2152"
     },
     {
       "platform": "luogu",
