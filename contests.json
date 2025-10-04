@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-04 19:37:27",
+  "last_updated": "2025-10-04 20:57:37",
   "contests": [
     {
       "platform": "AtCoder",
@@ -196,13 +196,6 @@
       "start_time": "2025-10-05 08:30:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/263244"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Beginner Contest 426",
-      "start_time": "2025-10-04 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc426"
     },
     {
       "platform": "luogu",
