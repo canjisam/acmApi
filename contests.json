@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-04 17:37:00",
+  "last_updated": "2025-10-04 18:39:18",
   "contests": [
     {
       "platform": "AtCoder",
@@ -87,7 +87,7 @@
     },
     {
       "platform": "NowCoder",
-      "name": "沈阳化工大学第十二届程序设计沈阳区竞赛（同步赛）",
+      "name": "沈阳化工大学第十二届程序设计沈阳区竞赛(同步赛)",
       "start_time": "2025-10-08 11:10:00",
       "duration": "3小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/118525?from=acm_calendar"
