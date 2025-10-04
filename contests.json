@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-04 21:37:13",
+  "last_updated": "2025-10-04 22:38:03",
   "contests": [
     {
       "platform": "AtCoder",
@@ -7,6 +7,13 @@
       "start_time": "2025-10-25 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc429"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start_time": "2025-10-19 22:35:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2154"
     },
     {
       "platform": "AtCoder",
@@ -124,14 +131,14 @@
       "platform": "luogu",
       "name": "【MX-J26】梦熊 J 组 · 月亮赛（同步赛）",
       "start_time": "2025-10-06 14:00:00",
-      "duration": "3小时30分钟",
+      "duration": "2小时30分钟",
       "url": "https://www.luogu.com.cn/contest/278945"
     },
     {
       "platform": "luogu",
       "name": "【MX-X23】梦熊 X 组 · 月亮赛（同步赛）",
       "start_time": "2025-10-06 14:00:00",
-      "duration": "3小时30分钟",
+      "duration": "2小时30分钟",
       "url": "https://www.luogu.com.cn/contest/278944"
     },
     {
