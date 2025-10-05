@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-06 01:37:00",
+  "last_updated": "2025-10-06 02:43:54",
   "contests": [
     {
       "platform": "AtCoder",
@@ -45,7 +45,7 @@
     },
     {
       "platform": "AtCoder",
-      "name": "AtCoder Regular Contest 208",
+      "name": "AtCoder Regular Contest 208 (Div. 2)",
       "start_time": "2025-10-12 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc208"
@@ -161,13 +161,6 @@
       "start_time": "2025-10-06 08:30:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/278653"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1056 (Div. 2)",
-      "start_time": "2025-10-06 00:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2155"
     },
     {
       "platform": "NowCoder",
