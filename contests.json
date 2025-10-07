@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-07 19:38:09",
+  "last_updated": "2025-10-07 21:05:24",
   "contests": [
     {
       "platform": "AtCoder",
@@ -30,11 +30,25 @@
       "url": "https://atcoder.jp/contests/ahc055"
     },
     {
+      "platform": "luogu",
+      "name": "【LGR-247】SCP 2025 第二轮（复赛 J 组）模拟",
+      "start_time": "2025-10-19 08:30:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/281663"
+    },
+    {
       "platform": "AtCoder",
       "name": "AtCoder Beginner Contest 428",
       "start_time": "2025-10-18 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc428"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-246】SCP 2025 第二轮（复赛 S 组）模拟",
+      "start_time": "2025-10-18 14:30:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/281662"
     },
     {
       "platform": "Codeforces",
@@ -213,17 +227,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-245-Div.1】洛谷 10 月月赛 I &「SFMOI」Round II",
-      "start_time": "2025-10-03 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/228774"
-    },
-    {
-      "platform": "luogu",
       "name": "【LGR-245-Div.2】洛谷 10 月月赛 I &「SFMOI」Round II",
       "start_time": "2025-10-03 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/277395"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-245-Div.1】洛谷 10 月月赛 I &「SFMOI」Round II",
+      "start_time": "2025-10-03 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/228774"
     },
     {
       "platform": "NowCoder",
@@ -308,13 +322,6 @@
       "start_time": "2025-09-27 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/243716"
-    },
-    {
-      "platform": "luogu",
-      "name": "Fortnight Round 1",
-      "start_time": "2025-09-27 08:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/214471"
     }
   ]
 }
