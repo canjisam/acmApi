@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-07 15:38:11",
+  "last_updated": "2025-10-07 16:46:36",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "FPS 24: 24 Problems on Formal Power Series",
+      "start_time": "2025-10-26 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://atcoder.jp/contests/fps-24"
+    },
     {
       "platform": "AtCoder",
       "name": "Polaris.AI Programming Contest 2025（AtCoder Beginner Contest 429）",
