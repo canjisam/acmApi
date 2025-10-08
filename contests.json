@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-09 00:46:26",
+  "last_updated": "2025-10-09 01:40:19",
   "contests": [
     {
       "platform": "AtCoder",
@@ -7,6 +7,13 @@
       "start_time": "2025-11-07 18:00:00",
       "duration": "240小时0分钟",
       "url": "https://atcoder.jp/contests/ahc056"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Grand Contest 074",
+      "start_time": "2025-10-26 20:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://atcoder.jp/contests/agc074"
     },
     {
       "platform": "AtCoder",
