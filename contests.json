@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-08 11:10:18",
+  "last_updated": "2025-10-08 11:46:46",
   "contests": [
     {
       "platform": "AtCoder",
@@ -70,6 +70,20 @@
       "start_time": "2025-10-12 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc208"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J27】梦熊 J 组 · 土豆赛 & LSOT Round 5（同步赛）",
+      "start_time": "2025-10-12 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/281713"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X24】梦熊 X 组 · 土豆赛 & LSOT Round 5（同步赛）",
+      "start_time": "2025-10-12 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/281712"
     },
     {
       "platform": "LeetCode",
@@ -150,17 +164,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J26】梦熊 J 组 · 月亮赛（同步赛）",
-      "start_time": "2025-10-06 14:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/278945"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X23】梦熊 X 组 · 月亮赛（同步赛）",
       "start_time": "2025-10-06 14:00:00",
       "duration": "2小时30分钟",
       "url": "https://www.luogu.com.cn/contest/278944"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J26】梦熊 J 组 · 月亮赛（同步赛）",
+      "start_time": "2025-10-06 14:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/278945"
     },
     {
       "platform": "NowCoder",
@@ -296,13 +310,6 @@
       "url": "https://www.luogu.com.cn/contest/278448"
     },
     {
-      "platform": "luogu",
-      "name": "POCamp 2022 Unofficial Mirror",
-      "start_time": "2025-09-28 14:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/277913"
-    },
-    {
       "platform": "LeetCode",
       "name": "Weekly Contest 469",
       "start_time": "2025-09-28 10:30:00",
@@ -315,13 +322,6 @@
       "start_time": "2025-09-27 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-166"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-242-Div.2】洛谷 9 月月赛 II & CZOI Round 7",
-      "start_time": "2025-09-27 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/243716"
     }
   ]
 }
