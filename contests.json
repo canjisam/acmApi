@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-08 17:41:05",
+  "last_updated": "2025-10-08 18:43:17",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）",
+      "start_time": "2025-11-07 18:00:00",
+      "duration": "240小时0分钟",
+      "url": "https://atcoder.jp/contests/ahc056"
+    },
     {
       "platform": "AtCoder",
       "name": "FPS 24: 24 Problems on Formal Power Series",
