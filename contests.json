@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-08 21:45:33",
+  "last_updated": "2025-10-08 22:44:57",
   "contests": [
     {
       "platform": "AtCoder",
@@ -283,17 +283,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4",
-      "start_time": "2025-10-02 14:05:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/278458"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4",
       "start_time": "2025-10-02 14:05:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/278459"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4",
+      "start_time": "2025-10-02 14:05:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/278458"
     },
     {
       "platform": "NowCoder",
@@ -301,20 +301,6 @@
       "start_time": "2025-10-02 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/117504?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "[SCCPC 2021] 第十三届四川省 ICPC 大学生程序设计竞赛重现赛",
-      "start_time": "2025-10-02 08:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/278652"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-243-Div.3】洛谷基础赛 #26 & IAMOI Round #4",
-      "start_time": "2025-10-01 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/256849"
     },
     {
       "platform": "NowCoder",
