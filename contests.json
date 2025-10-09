@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-09 14:50:19",
+  "last_updated": "2025-10-09 15:38:24",
   "contests": [
     {
       "platform": "AtCoder",
@@ -42,6 +42,13 @@
       "start_time": "2025-10-19 18:00:00",
       "duration": "4小时0分钟",
       "url": "https://atcoder.jp/contests/ahc055"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 472",
+      "start_time": "2025-10-19 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-472"
     },
     {
       "platform": "luogu",
