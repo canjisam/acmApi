@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-09 18:43:54",
+  "last_updated": "2025-10-09 19:38:22",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,13 @@
       "start_time": "2025-10-25 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc429"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客2025年1024程序员节娱乐赛",
+      "start_time": "2025-10-24 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/117846?from=acm_calendar"
     },
     {
       "platform": "Codeforces",
