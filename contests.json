@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-09 11:12:24",
+  "last_updated": "2025-10-09 11:48:11",
   "contests": [
     {
       "platform": "AtCoder",
@@ -63,6 +63,20 @@
       "start_time": "2025-10-18 14:30:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/281662"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客2025秋季算法编程训练联赛1-入门组",
+      "start_time": "2025-10-15 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/118654?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客2025秋季算法编程训练联赛1-提高组",
+      "start_time": "2025-10-15 19:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/119232?from=acm_calendar"
     },
     {
       "platform": "Codeforces",
