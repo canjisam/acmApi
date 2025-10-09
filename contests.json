@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-09 07:37:30",
+  "last_updated": "2025-10-09 10:09:57",
   "contests": [
     {
       "platform": "AtCoder",
@@ -98,6 +98,13 @@
       "start_time": "2025-10-12 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/281712"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2025年上海海事&amp;电力大学程序设计新生赛",
+      "start_time": "2025-10-12 13:30:00",
+      "duration": "4小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/118971?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
