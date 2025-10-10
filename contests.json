@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-10 13:40:45",
+  "last_updated": "2025-10-10 14:50:07",
   "contests": [
     {
       "platform": "AtCoder",
@@ -35,6 +35,13 @@
       "start_time": "2025-10-25 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc429"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-S8】梦熊 CSP-S 2025 模拟赛（同步赛）",
+      "start_time": "2025-10-25 14:30:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/281947"
     },
     {
       "platform": "luogu",
