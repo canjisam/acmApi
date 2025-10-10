@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-10 17:40:36",
+  "last_updated": "2025-10-10 18:43:02",
   "contests": [
     {
       "platform": "AtCoder",
@@ -7,6 +7,20 @@
       "start_time": "2025-11-08 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc431"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "東京科学大学プログラミングコンテスト2025 (Div. 1)",
+      "start_time": "2025-11-08 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://atcoder.jp/contests/stpc2025_1"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "東京科学大学プログラミングコンテスト2025 (Div. 2)",
+      "start_time": "2025-11-08 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://atcoder.jp/contests/stpc2025_2"
     },
     {
       "platform": "AtCoder",
