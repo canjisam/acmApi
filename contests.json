@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-11 23:37:24",
+  "last_updated": "2025-10-12 00:40:58",
   "contests": [
     {
       "platform": "AtCoder",
@@ -35,6 +35,13 @@
       "start_time": "2025-10-26 20:00:00",
       "duration": "3小时0分钟",
       "url": "https://atcoder.jp/contests/agc074"
+    },
+    {
+      "platform": "luogu",
+      "name": "Aboi Round 2",
+      "start_time": "2025-10-26 14:00:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/278623"
     },
     {
       "platform": "AtCoder",
@@ -108,17 +115,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J27】梦熊 J 组 · 土豆赛 & LSOT Round 5（同步赛）",
-      "start_time": "2025-10-19 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/281713"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X24】梦熊 X 组 · 土豆赛 & LSOT Round 5（同步赛）",
       "start_time": "2025-10-19 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/281712"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J27】梦熊 J 组 · 土豆赛 & LSOT Round 5（同步赛）",
+      "start_time": "2025-10-19 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/281713"
     },
     {
       "platform": "LeetCode",
@@ -283,17 +290,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X23】梦熊 X 组 · 月亮赛（同步赛）",
-      "start_time": "2025-10-06 14:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/278944"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J26】梦熊 J 组 · 月亮赛（同步赛）",
       "start_time": "2025-10-06 14:00:00",
       "duration": "2小时30分钟",
       "url": "https://www.luogu.com.cn/contest/278945"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X23】梦熊 X 组 · 月亮赛（同步赛）",
+      "start_time": "2025-10-06 14:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/278944"
     },
     {
       "platform": "NowCoder",
@@ -385,13 +392,6 @@
       "start_time": "2025-10-02 14:05:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/278459"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4",
-      "start_time": "2025-10-02 14:05:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/278458"
     },
     {
       "platform": "NowCoder",
