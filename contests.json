@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-11 19:37:54",
+  "last_updated": "2025-10-11 20:58:11",
   "contests": [
     {
       "platform": "AtCoder",
@@ -224,13 +224,6 @@
       "start_time": "2025-10-11 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-167"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "Panasonic Programming Contest 2025（AtCoder Beginner Contest 427）",
-      "start_time": "2025-10-11 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc427"
     },
     {
       "platform": "NowCoder",
