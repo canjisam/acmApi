@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-12 13:38:57",
+  "last_updated": "2025-10-12 14:45:37",
   "contests": [
     {
       "platform": "AtCoder",
@@ -115,17 +115,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X24】梦熊 X 组 · 土豆赛 & LSOT Round 5（同步赛）",
-      "start_time": "2025-10-19 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/281712"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J27】梦熊 J 组 · 土豆赛 & LSOT Round 5（同步赛）",
       "start_time": "2025-10-19 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/281713"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X24】梦熊 X 组 · 土豆赛 & LSOT Round 5（同步赛）",
+      "start_time": "2025-10-19 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/281712"
     },
     {
       "platform": "LeetCode",
@@ -175,6 +175,13 @@
       "start_time": "2025-10-15 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/119232?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "[ICPC2024 Kunming I] ICPC2024 邀请赛昆明站重现赛",
+      "start_time": "2025-10-14 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/282825"
     },
     {
       "platform": "Codeforces",
@@ -269,17 +276,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-244-Div.1】洛谷 10 月月赛 II & FAOI-R8",
-      "start_time": "2025-10-07 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/230741"
-    },
-    {
-      "platform": "luogu",
       "name": "【LGR-244-Div.2】洛谷 10 月月赛 II & FAOI-R8",
       "start_time": "2025-10-07 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/278764"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-244-Div.1】洛谷 10 月月赛 II & FAOI-R8",
+      "start_time": "2025-10-07 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/230741"
     },
     {
       "platform": "NowCoder",
@@ -290,17 +297,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J26】梦熊 J 组 · 月亮赛（同步赛）",
-      "start_time": "2025-10-06 14:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/278945"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-X23】梦熊 X 组 · 月亮赛（同步赛）",
       "start_time": "2025-10-06 14:00:00",
       "duration": "2小时30分钟",
       "url": "https://www.luogu.com.cn/contest/278944"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-J26】梦熊 J 组 · 月亮赛（同步赛）",
+      "start_time": "2025-10-06 14:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/278945"
     },
     {
       "platform": "NowCoder",
@@ -385,13 +392,6 @@
       "start_time": "2025-10-03 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/117506?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4",
-      "start_time": "2025-10-02 14:05:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/278459"
     },
     {
       "platform": "NowCoder",
