@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13 00:41:21",
+  "last_updated": "2025-10-13 01:37:33",
   "contests": [
     {
       "platform": "AtCoder",
@@ -168,20 +168,6 @@
       "start_time": "2025-10-14 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/282825"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1058 (Div. 1)",
-      "start_time": "2025-10-12 22:35:00",
-      "duration": "2小时30分钟",
-      "url": "https://codeforces.com/contest/2159"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1058 (Div. 2)",
-      "start_time": "2025-10-12 22:35:00",
-      "duration": "2小时30分钟",
-      "url": "https://codeforces.com/contest/2160"
     },
     {
       "platform": "NowCoder",
