@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13 16:49:54",
+  "last_updated": "2025-10-13 17:43:59",
   "contests": [
     {
       "platform": "AtCoder",
@@ -112,6 +112,13 @@
       "start_time": "2025-10-19 18:00:00",
       "duration": "4小时0分钟",
       "url": "https://atcoder.jp/contests/ahc055"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2025年广东工业大学程序设计竞赛月赛（同步赛）",
+      "start_time": "2025-10-19 13:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/119605?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
