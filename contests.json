@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13 18:45:00",
+  "last_updated": "2025-10-13 19:38:01",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,13 @@
       "start_time": "2025-11-07 18:00:00",
       "duration": "240小时0分钟",
       "url": "https://atcoder.jp/contests/ahc056"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "九坤极限 Code 双赛季 · Accepted编程网络预赛",
+      "start_time": "2025-10-28 19:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/117945?from=acm_calendar"
     },
     {
       "platform": "AtCoder",
