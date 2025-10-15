@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-15 12:43:23",
+  "last_updated": "2025-10-15 13:41:11",
   "contests": [
     {
       "platform": "AtCoder",
@@ -205,6 +205,13 @@
       "url": "https://www.luogu.com.cn/contest/283134"
     },
     {
+      "platform": "luogu",
+      "name": "[CCPC2024 Shandong I] CCPC2024 邀请赛山东站重现赛",
+      "start_time": "2025-10-17 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/283411"
+    },
+    {
       "platform": "NowCoder",
       "name": "牛客2025秋季算法编程训练联赛1-基础组",
       "start_time": "2025-10-15 19:00:00",
@@ -318,17 +325,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X23】梦熊 X 组 · 月亮赛（同步赛）",
-      "start_time": "2025-10-06 14:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/278944"
-    },
-    {
-      "platform": "luogu",
       "name": "【MX-J26】梦熊 J 组 · 月亮赛（同步赛）",
       "start_time": "2025-10-06 14:00:00",
       "duration": "2小时30分钟",
       "url": "https://www.luogu.com.cn/contest/278945"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X23】梦熊 X 组 · 月亮赛（同步赛）",
+      "start_time": "2025-10-06 14:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/278944"
     },
     {
       "platform": "NowCoder",
@@ -392,13 +399,6 @@
       "start_time": "2025-10-04 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/117507?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-245-Div.1】洛谷 10 月月赛 I &「SFMOI」Round II",
-      "start_time": "2025-10-03 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/228774"
     },
     {
       "platform": "NowCoder",
