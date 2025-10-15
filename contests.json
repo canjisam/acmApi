@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-15 10:13:48",
+  "last_updated": "2025-10-15 11:25:53",
   "contests": [
     {
       "platform": "AtCoder",
@@ -72,18 +72,18 @@
       "url": "https://www.luogu.com.cn/contest/282964"
     },
     {
-      "platform": "luogu",
-      "name": "Aboi Round 2",
-      "start_time": "2025-10-26 14:00:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/278623"
-    },
-    {
       "platform": "LeetCode",
       "name": "Weekly Contest 473",
       "start_time": "2025-10-26 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-473"
+    },
+    {
+      "platform": "luogu",
+      "name": "Aboi Round 2",
+      "start_time": "2025-10-26 08:00:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/278623"
     },
     {
       "platform": "LeetCode",
