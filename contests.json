@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-19 13:40:33",
+  "last_updated": "2025-10-19 14:46:20",
   "contests": [
     {
       "platform": "AtCoder",
@@ -427,13 +427,6 @@
       "start_time": "2025-10-05 08:30:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/263244"
-    },
-    {
-      "platform": "luogu",
-      "name": "zyh_helen's Construction Round",
-      "start_time": "2025-10-04 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/273114"
     }
   ]
 }
