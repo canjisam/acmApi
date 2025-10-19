@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-19 17:37:35",
+  "last_updated": "2025-10-19 18:39:55",
   "contests": [
     {
       "platform": "AtCoder",
@@ -196,13 +196,6 @@
       "start_time": "2025-10-19 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/119273?from=acm_calendar"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "RECRUIT Nihonbashi Half Marathon 2025 Autumn （AtCoder Heuristic Contest 055）",
-      "start_time": "2025-10-19 18:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc055"
     },
     {
       "platform": "NowCoder",
