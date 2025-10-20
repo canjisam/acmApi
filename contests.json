@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-20 10:21:43",
+  "last_updated": "2025-10-20 11:35:33",
   "contests": [
     {
       "platform": "AtCoder",
@@ -114,25 +114,11 @@
       "url": "https://www.luogu.com.cn/contest/282964"
     },
     {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 473",
-      "start_time": "2025-10-26 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-473"
-    },
-    {
       "platform": "luogu",
       "name": "Aboi Round 2",
       "start_time": "2025-10-26 08:00:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/278623"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Biweekly Contest 168",
-      "start_time": "2025-10-25 22:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/biweekly-contest-168"
     },
     {
       "platform": "AtCoder",
@@ -196,13 +182,6 @@
       "start_time": "2025-10-19 13:30:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/119605?from=acm_calendar"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 472",
-      "start_time": "2025-10-19 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-472"
     },
     {
       "platform": "luogu",
@@ -275,25 +254,11 @@
       "url": "https://ac.nowcoder.com/acm/contest/118971?from=acm_calendar"
     },
     {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 471",
-      "start_time": "2025-10-12 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-471"
-    },
-    {
       "platform": "luogu",
       "name": "KismetOI Easy Round 1",
       "start_time": "2025-10-12 08:30:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/270938"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Biweekly Contest 167",
-      "start_time": "2025-10-11 22:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/biweekly-contest-167"
     },
     {
       "platform": "NowCoder",
@@ -399,13 +364,6 @@
       "start_time": "2025-10-05 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/117508?from=acm_calendar"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 470",
-      "start_time": "2025-10-05 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-470"
     }
   ]
 }
