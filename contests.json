@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-20 07:37:56",
+  "last_updated": "2025-10-20 10:21:43",
   "contests": [
     {
       "platform": "AtCoder",
@@ -406,13 +406,6 @@
       "start_time": "2025-10-05 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-470"
-    },
-    {
-      "platform": "luogu",
-      "name": "Algo Beat Contest 002.5",
-      "start_time": "2025-10-05 08:30:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/263244"
     }
   ]
 }
