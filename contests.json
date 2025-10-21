@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-21 13:41:24",
+  "last_updated": "2025-10-21 14:49:39",
   "contests": [
     {
       "platform": "AtCoder",
@@ -166,7 +166,7 @@
       "platform": "NowCoder",
       "name": "牛客2025年1024程序员节娱乐赛",
       "start_time": "2025-10-24 19:00:00",
-      "duration": "2小时0分钟",
+      "duration": "3小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/117846?from=acm_calendar"
     },
     {
@@ -350,20 +350,6 @@
       "start_time": "2025-10-07 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/117510?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-J26】梦熊 J 组 · 月亮赛（同步赛）",
-      "start_time": "2025-10-06 14:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/278945"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-X23】梦熊 X 组 · 月亮赛（同步赛）",
-      "start_time": "2025-10-06 14:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/278944"
     }
   ]
 }
