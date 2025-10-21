@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-21 16:49:41",
+  "last_updated": "2025-10-21 17:42:46",
   "contests": [
     {
       "platform": "AtCoder",
@@ -49,6 +49,13 @@
       "start_time": "2025-11-03 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://atcoder.jp/contests/fps-24"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 474",
+      "start_time": "2025-11-02 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-474"
     },
     {
       "platform": "AtCoder",
