@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-21 07:37:41",
+  "last_updated": "2025-10-21 10:15:03",
   "contests": [
     {
       "platform": "AtCoder",
@@ -371,13 +371,6 @@
       "start_time": "2025-10-06 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/117509?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "[ICPC2022 Nanjing R] ICPC2022 区域赛南京站重现赛",
-      "start_time": "2025-10-06 08:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/278653"
     }
   ]
 }
