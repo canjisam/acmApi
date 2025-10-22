@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-22 21:50:17",
+  "last_updated": "2025-10-22 22:47:47",
   "contests": [
     {
       "platform": "AtCoder",
@@ -42,6 +42,13 @@
       "start_time": "2025-11-07 18:00:00",
       "duration": "240小时0分钟",
       "url": "https://atcoder.jp/contests/ahc056"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
+      "start_time": "2025-11-06 22:35:00",
+      "duration": "3小时0分钟",
+      "url": "https://codeforces.com/contest/2164"
     },
     {
       "platform": "AtCoder",
