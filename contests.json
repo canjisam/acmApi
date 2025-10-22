@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-22 11:31:38",
+  "last_updated": "2025-10-22 12:45:06",
   "contests": [
     {
       "platform": "AtCoder",
@@ -364,13 +364,6 @@
       "start_time": "2025-10-07 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/278764"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025牛客国庆集训派对day7",
-      "start_time": "2025-10-07 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/117510?from=acm_calendar"
     }
   ]
 }
