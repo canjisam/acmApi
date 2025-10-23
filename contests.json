@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-23 11:49:43",
+  "last_updated": "2025-10-23 12:43:46",
   "contests": [
     {
       "platform": "AtCoder",
@@ -336,20 +336,6 @@
       "start_time": "2025-10-11 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/281894"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025牛客国庆集训派对day8",
-      "start_time": "2025-10-08 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/117511?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "新疆大学2025年新生赛(同步赛)",
-      "start_time": "2025-10-08 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/118530?from=acm_calendar"
     }
   ]
 }
