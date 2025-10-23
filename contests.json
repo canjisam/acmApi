@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-24 01:41:04",
+  "last_updated": "2025-10-24 02:49:25",
   "contests": [
     {
       "platform": "AtCoder",
@@ -80,7 +80,7 @@
     },
     {
       "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 1 + Div. 2)",
+      "name": "Pinely Round 5 (Div. 1 + Div. 2)",
       "start_time": "2025-10-31 00:35:00",
       "duration": "3小时0分钟",
       "url": "https://codeforces.com/contest/2161"
