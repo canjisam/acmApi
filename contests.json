@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-24 00:47:31",
+  "last_updated": "2025-10-24 01:41:04",
   "contests": [
     {
       "platform": "AtCoder",
@@ -171,7 +171,7 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-J28】梦熊 CSP-J 2025 模拟赛（同步赛）",
+      "name": "【MX-J27】梦熊 CSP-J 2025 模拟赛（同步赛）",
       "start_time": "2025-10-25 08:30:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/281945"
