@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-26 21:39:49",
+  "last_updated": "2025-10-26 22:39:11",
   "contests": [
     {
       "platform": "AtCoder",
@@ -301,13 +301,6 @@
       "start_time": "2025-10-12 08:30:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/270938"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Biweekly Contest 167",
-      "start_time": "2025-10-11 22:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/biweekly-contest-167"
     }
   ]
 }
