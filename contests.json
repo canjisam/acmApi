@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-26 17:37:38",
+  "last_updated": "2025-10-26 18:40:23",
   "contests": [
     {
       "platform": "AtCoder",
@@ -315,13 +315,6 @@
       "start_time": "2025-10-11 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-167"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "苏州工学院（常熟理工学院）2025新生赛（同步赛）",
-      "start_time": "2025-10-11 18:30:00",
-      "duration": "3小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/119118?from=acm_calendar"
     }
   ]
 }
