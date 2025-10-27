@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-27 07:38:20",
+  "last_updated": "2025-10-27 10:25:18",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Beginner Contest 433",
+      "start_time": "2025-11-22 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc433"
+    },
     {
       "platform": "AtCoder",
       "name": "AtCoder Regular Contest 210",
@@ -294,13 +301,6 @@
       "start_time": "2025-10-12 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-471"
-    },
-    {
-      "platform": "luogu",
-      "name": "KismetOI Easy Round 1",
-      "start_time": "2025-10-12 08:30:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/270938"
     }
   ]
 }
