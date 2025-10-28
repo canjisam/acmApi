@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-29 00:50:56",
+  "last_updated": "2025-10-29 01:42:42",
   "contests": [
     {
       "platform": "AtCoder",
@@ -140,13 +140,6 @@
       "start_time": "2025-10-29 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/120456?from=acm_calendar"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1062 (Div. 4)",
-      "start_time": "2025-10-28 22:35:00",
-      "duration": "2小时15分钟",
-      "url": "https://codeforces.com/contest/2167"
     },
     {
       "platform": "NowCoder",
