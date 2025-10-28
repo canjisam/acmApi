@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-28 11:54:48",
+  "last_updated": "2025-10-28 12:44:09",
   "contests": [
     {
       "platform": "AtCoder",
@@ -30,6 +30,13 @@
       "url": "https://atcoder.jp/contests/arc209"
     },
     {
+      "platform": "luogu",
+      "name": "【LGR-248-Div.1】洛谷 11 月月赛 I & WAOI R1",
+      "start_time": "2025-11-09 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/230986"
+    },
+    {
       "platform": "LeetCode",
       "name": "Weekly Contest 475",
       "start_time": "2025-11-09 10:30:00",
@@ -49,20 +56,6 @@
       "start_time": "2025-11-08 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc431"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "東京科学大学プログラミングコンテスト2025 (Div. 1)",
-      "start_time": "2025-11-08 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://atcoder.jp/contests/stpc2025_1"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "東京科学大学プログラミングコンテスト2025 (Div. 2)",
-      "start_time": "2025-11-08 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://atcoder.jp/contests/stpc2025_2"
     },
     {
       "platform": "AtCoder",
