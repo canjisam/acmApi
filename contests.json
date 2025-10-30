@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-31 02:50:17",
+  "last_updated": "2025-10-31 03:38:30",
   "contests": [
     {
       "platform": "AtCoder",
@@ -119,13 +119,6 @@
       "start_time": "2025-10-31 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/119666?from=acm_calendar"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Pinely Round 5 (Div. 1 + Div. 2)",
-      "start_time": "2025-10-31 00:35:00",
-      "duration": "3小时0分钟",
-      "url": "https://codeforces.com/contest/2161"
     },
     {
       "platform": "NowCoder",
