@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-31 23:41:42",
+  "last_updated": "2025-11-01 00:48:20",
   "contests": [
     {
       "platform": "AtCoder",
@@ -30,11 +30,32 @@
       "url": "https://atcoder.jp/contests/abc432"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客2025秋季算法编程训练联赛5-基础组",
+      "start_time": "2025-11-12 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/120454?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客2025秋季算法编程训练联赛5-提升组",
+      "start_time": "2025-11-12 19:00:00",
+      "duration": "8258小时30分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/120458?from=acm_calendar"
+    },
+    {
       "platform": "AtCoder",
       "name": "AtCoder Regular Contest 209 (Div. 1)",
       "start_time": "2025-11-09 20:00:00",
       "duration": "2小时30分钟",
       "url": "https://atcoder.jp/contests/arc209"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 117",
+      "start_time": "2025-11-09 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/121300?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -72,11 +93,25 @@
       "url": "https://atcoder.jp/contests/abc431"
     },
     {
+      "platform": "NowCoder",
+      "name": "三晋七校第一届新生赛（同步赛）",
+      "start_time": "2025-11-08 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/121107?from=acm_calendar"
+    },
+    {
       "platform": "luogu",
       "name": "【MX-S10】梦熊 NOIP 2025 模拟赛 2 & FeOI Round 4（同步赛）",
       "start_time": "2025-11-08 08:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/287507"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客挑战赛83",
+      "start_time": "2025-11-07 19:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/121395?from=acm_calendar"
     },
     {
       "platform": "AtCoder",
@@ -93,11 +128,32 @@
       "url": "https://codeforces.com/contest/2164"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客2025秋季算法编程训练联赛4-基础组",
+      "start_time": "2025-11-05 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/120453?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客2025秋季算法编程训练联赛4-提升组",
+      "start_time": "2025-11-05 19:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/120457?from=acm_calendar"
+    },
+    {
       "platform": "AtCoder",
       "name": "FPS 24: 24 Problems on Formal Power Series",
       "start_time": "2025-11-03 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://atcoder.jp/contests/fps-24"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 116",
+      "start_time": "2025-11-02 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/120553?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
@@ -119,41 +175,6 @@
       "start_time": "2025-11-01 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc430"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客练习赛145",
-      "start_time": "2025-10-31 19:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/119666?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客2025秋季算法编程训练联赛3-基础组",
-      "start_time": "2025-10-29 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/120452?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客2025秋季算法编程训练联赛3-提升组",
-      "start_time": "2025-10-29 19:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/120456?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "九坤极限 Code 双赛季 · Accepted编程网络预赛",
-      "start_time": "2025-10-28 19:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/117945?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 115",
-      "start_time": "2025-10-26 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/119895?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -205,41 +226,6 @@
       "url": "https://www.luogu.com.cn/contest/281945"
     },
     {
-      "platform": "NowCoder",
-      "name": "牛客2025年1024程序员节娱乐赛",
-      "start_time": "2025-10-24 19:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/117846?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客2025秋季算法编程训练联赛2-基础组",
-      "start_time": "2025-10-22 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/118653?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客2025秋季算法编程训练联赛2-提升组",
-      "start_time": "2025-10-22 19:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/119774?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 114",
-      "start_time": "2025-10-19 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/119273?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025年广东工业大学程序设计竞赛月赛（同步赛）",
-      "start_time": "2025-10-19 13:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/119605?from=acm_calendar"
-    },
-    {
       "platform": "LeetCode",
       "name": "Weekly Contest 472",
       "start_time": "2025-10-19 10:30:00",
@@ -259,13 +245,6 @@
       "start_time": "2025-10-18 14:30:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/281662"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客小白月赛122",
-      "start_time": "2025-10-17 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/119664?from=acm_calendar"
     },
     {
       "platform": "luogu",
