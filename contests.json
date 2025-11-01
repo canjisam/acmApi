@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-01 18:40:43",
+  "last_updated": "2025-11-01 19:37:54",
   "contests": [
     {
       "platform": "AtCoder",
@@ -287,13 +287,6 @@
       "start_time": "2025-10-18 14:30:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/281662"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-251-Div.4】洛谷入门赛 #40",
-      "start_time": "2025-10-17 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/283134"
     }
   ]
 }
