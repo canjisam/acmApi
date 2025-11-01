@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-01 07:36:30",
+  "last_updated": "2025-11-01 10:20:30",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2025-11-16 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc210"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-S11】梦熊 NOIP 2025 模拟赛 3 & WAOI R7 & FeOI R4.5（同步赛）",
+      "start_time": "2025-11-16 08:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/287508"
     },
     {
       "platform": "AtCoder",
