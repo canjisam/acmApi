@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-01 12:41:17",
+  "last_updated": "2025-11-01 13:40:29",
   "contests": [
     {
       "platform": "AtCoder",
@@ -185,10 +185,10 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-252-Div.2】洛谷 10 月月赛 III & ALFR Round 11",
-      "start_time": "2025-10-26 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/282964"
+      "name": "CSP-J 2025 自测（民间数据）",
+      "start_time": "2025-11-01 12:45:00",
+      "duration": "217小时15分钟",
+      "url": "https://www.luogu.com.cn/contest/288427"
     },
     {
       "platform": "luogu",
@@ -196,6 +196,13 @@
       "start_time": "2025-10-26 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/246498"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-252-Div.2】洛谷 10 月月赛 III & ALFR Round 11",
+      "start_time": "2025-10-26 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/282964"
     },
     {
       "platform": "LeetCode",
@@ -259,13 +266,6 @@
       "start_time": "2025-10-17 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://www.luogu.com.cn/contest/283134"
-    },
-    {
-      "platform": "luogu",
-      "name": "[CCPC2024 Shandong I] CCPC2024 邀请赛山东站重现赛",
-      "start_time": "2025-10-17 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/283411"
     }
   ]
 }
