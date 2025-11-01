@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-01 19:37:54",
+  "last_updated": "2025-11-01 21:00:02",
   "contests": [
     {
       "platform": "AtCoder",
@@ -87,17 +87,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-248-Div.1】洛谷 11 月月赛 I & WAOI R1",
-      "start_time": "2025-11-09 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/230986"
-    },
-    {
-      "platform": "luogu",
       "name": "【LGR-248-Div.2】洛谷 11 月月赛 I & WAOI R1",
       "start_time": "2025-11-09 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/276844"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-248-Div.1】洛谷 11 月月赛 I & WAOI R1",
+      "start_time": "2025-11-09 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/230986"
     },
     {
       "platform": "LeetCode",
@@ -205,11 +205,11 @@
       "url": "https://www.luogu.com.cn/contest/287506"
     },
     {
-      "platform": "AtCoder",
-      "name": "AtCoder Beginner Contest 430",
-      "start_time": "2025-11-01 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc430"
+      "platform": "luogu",
+      "name": "CSP-S 2025 自测（民间数据）",
+      "start_time": "2025-11-01 20:30:00",
+      "duration": "216小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/288428"
     },
     {
       "platform": "luogu",
