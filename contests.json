@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-11-01 13:40:29",
+  "last_updated": "2025-11-01 14:46:19",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Regular Contest 211 (Div. 2)",
+      "start_time": "2025-11-30 20:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://atcoder.jp/contests/arc211"
+    },
     {
       "platform": "AtCoder",
       "name": "Ｓｋｙ Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
@@ -21,6 +28,13 @@
       "start_time": "2025-11-16 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc210"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2025年贵州工程应用技术学院迎新赛（同步赛）",
+      "start_time": "2025-11-16 14:30:00",
+      "duration": "3小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/115032?from=acm_calendar"
     },
     {
       "platform": "luogu",
