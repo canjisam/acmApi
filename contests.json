@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-03 05:37:24",
+  "last_updated": "2025-11-03 06:39:20",
   "contests": [
     {
       "platform": "AtCoder",
@@ -185,7 +185,7 @@
     },
     {
       "platform": "Codeforces",
-      "name": "Testing Round 20 (Unrated)",
+      "name": "Testing Round 20 (Unrated, Communication Problems)",
       "start_time": "2025-11-03 22:35:00",
       "duration": "1小时0分钟",
       "url": "https://codeforces.com/contest/2168"
