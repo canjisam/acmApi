@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-02 13:40:39",
+  "last_updated": "2025-11-02 14:48:05",
   "contests": [
     {
       "platform": "AtCoder",
@@ -301,13 +301,6 @@
       "start_time": "2025-10-19 08:30:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/281663"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-246】SCP 2025 第二轮（复赛 S 组）模拟",
-      "start_time": "2025-10-18 14:30:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/281662"
     }
   ]
 }
