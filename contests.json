@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-03 10:22:53",
+  "last_updated": "2025-11-03 11:38:01",
   "contests": [
     {
       "platform": "AtCoder",
@@ -46,8 +46,8 @@
     {
       "platform": "NowCoder",
       "name": "2025年贵州工程应用技术学院迎新赛（同步赛）",
-      "start_time": "2025-11-16 14:30:00",
-      "duration": "3小时0分钟",
+      "start_time": "2025-11-16 16:30:00",
+      "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/115032?from=acm_calendar"
     },
     {
@@ -287,13 +287,6 @@
       "start_time": "2025-10-25 08:30:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/281945"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 472",
-      "start_time": "2025-10-19 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-472"
     }
   ]
 }
