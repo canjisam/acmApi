@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-03 21:47:05",
+  "last_updated": "2025-11-03 22:44:57",
   "contests": [
     {
       "platform": "AtCoder",
@@ -59,7 +59,7 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-250】洛谷 NOIP2025 模拟赛",
+      "name": "【LGR-250】洛谷 NOIP 2025 模拟赛",
       "start_time": "2025-11-15 08:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/289075"
