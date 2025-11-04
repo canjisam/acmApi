@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-04 16:50:35",
+  "last_updated": "2025-11-04 17:44:15",
   "contests": [
     {
       "platform": "AtCoder",
@@ -44,6 +44,13 @@
       "url": "https://atcoder.jp/contests/arc210"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 118",
+      "start_time": "2025-11-16 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/121952?from=acm_calendar"
+    },
+    {
       "platform": "luogu",
       "name": "【MX-S11】梦熊 NOIP 2025 模拟赛 3 & WAOI R7 & FeOI R4.5（同步赛）",
       "start_time": "2025-11-16 08:30:00",
@@ -63,6 +70,13 @@
       "start_time": "2025-11-15 08:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/289075"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Educational Codeforces Round 184 (Rated for Div. 2)",
+      "start_time": "2025-11-14 22:35:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2169"
     },
     {
       "platform": "NowCoder",
