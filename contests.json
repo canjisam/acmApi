@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-06 12:47:33",
+  "last_updated": "2025-11-06 13:42:18",
   "contests": [
     {
       "platform": "AtCoder",
@@ -227,7 +227,7 @@
     },
     {
       "platform": "luogu",
-      "name": "CSP-S 2025 自测（除 T2 均为官方数据）",
+      "name": "CSP-S 2025 自测（官方数据）",
       "start_time": "2025-11-01 20:30:00",
       "duration": "216小时0分钟",
       "url": "https://www.luogu.com.cn/contest/288428"
