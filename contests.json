@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-06 15:39:26",
+  "last_updated": "2025-11-06 16:49:41",
   "contests": [
     {
       "platform": "AtCoder",
@@ -14,6 +14,13 @@
       "start_time": "2025-11-29 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc434"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Heuristic Contest 057",
+      "start_time": "2025-11-29 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://atcoder.jp/contests/ahc057"
     },
     {
       "platform": "AtCoder",
@@ -154,6 +161,13 @@
       "start_time": "2025-11-08 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/121107?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "大连大学2025年11月程序设计竞赛(同步赛)",
+      "start_time": "2025-11-08 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/122058?from=acm_calendar"
     },
     {
       "platform": "luogu",
