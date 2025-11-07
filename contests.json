@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-07 17:41:19",
+  "last_updated": "2025-11-07 18:44:45",
   "contests": [
     {
       "platform": "AtCoder",
@@ -122,6 +122,13 @@
     },
     {
       "platform": "NowCoder",
+      "name": "武汉工程大学第八届ACM新生赛（同步赛）",
+      "start_time": "2025-11-13 10:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/121302?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
       "name": "牛客2025秋季算法编程训练联赛5-基础组",
       "start_time": "2025-11-12 19:00:00",
       "duration": "2小时0分钟",
@@ -177,6 +184,13 @@
       "url": "https://leetcode.com/contest/weekly-contest-475"
     },
     {
+      "platform": "NowCoder",
+      "name": "2025华南理工大学程序设计竞赛（秋季赛）第二场",
+      "start_time": "2025-11-09 10:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/122330?from=acm_calendar"
+    },
+    {
       "platform": "LeetCode",
       "name": "Biweekly Contest 169",
       "start_time": "2025-11-08 22:30:00",
@@ -217,13 +231,6 @@
       "start_time": "2025-11-07 19:00:00",
       "duration": "3小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/121395?from=acm_calendar"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）",
-      "start_time": "2025-11-07 18:00:00",
-      "duration": "240小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc056"
     },
     {
       "platform": "NowCoder",
