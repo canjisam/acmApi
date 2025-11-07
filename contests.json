@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-07 19:38:45",
+  "last_updated": "2025-11-07 21:05:30",
   "contests": [
     {
       "platform": "AtCoder",
@@ -164,17 +164,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-248-Div.2】洛谷 11 月月赛 I & WAOI R1",
-      "start_time": "2025-11-09 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/276844"
-    },
-    {
-      "platform": "luogu",
       "name": "【LGR-248-Div.1】洛谷 11 月月赛 I & WAOI R1",
       "start_time": "2025-11-09 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/230986"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-248-Div.2】洛谷 11 月月赛 I & WAOI R1",
+      "start_time": "2025-11-09 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/276844"
     },
     {
       "platform": "LeetCode",
@@ -189,6 +189,13 @@
       "start_time": "2025-11-09 10:30:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/122330?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "BYOI Round 1",
+      "start_time": "2025-11-09 08:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/261933"
     },
     {
       "platform": "LeetCode",
