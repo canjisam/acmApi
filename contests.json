@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-07 21:44:54",
+  "last_updated": "2025-11-07 22:43:01",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,13 @@
       "start_time": "2025-11-29 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://atcoder.jp/contests/ahc057"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Biweekly Contest 170",
+      "start_time": "2025-11-22 22:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/biweekly-contest-170"
     },
     {
       "platform": "AtCoder",
