@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-08 13:40:55",
+  "last_updated": "2025-11-08 14:47:33",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,13 @@
       "start_time": "2025-11-29 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://atcoder.jp/contests/ahc057"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2025年贵州工程应用技术学院迎新赛（同步赛）",
+      "start_time": "2025-11-23 14:30:00",
+      "duration": "3小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/115032?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
@@ -91,6 +98,13 @@
       "start_time": "2025-11-16 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/121952?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "BYOI Round 1",
+      "start_time": "2025-11-16 14:00:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/261933"
     },
     {
       "platform": "LeetCode",
@@ -196,13 +210,6 @@
       "start_time": "2025-11-09 10:30:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/122330?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "BYOI Round 1",
-      "start_time": "2025-11-09 08:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/261933"
     },
     {
       "platform": "LeetCode",
