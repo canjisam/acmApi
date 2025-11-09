@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-09 13:40:32",
+  "last_updated": "2025-11-09 14:47:51",
   "contests": [
     {
       "platform": "AtCoder",
@@ -136,6 +136,13 @@
     },
     {
       "platform": "luogu",
+      "name": "NFLSPC #8 重现赛",
+      "start_time": "2025-11-15 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/285711"
+    },
+    {
+      "platform": "luogu",
       "name": "【LGR-250】洛谷 NOIP 2025 模拟赛",
       "start_time": "2025-11-15 08:30:00",
       "duration": "4小时30分钟",
@@ -168,6 +175,13 @@
       "start_time": "2025-11-12 19:00:00",
       "duration": "8258小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/120458?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "[ICPC2025 Xi'an R] ICPC 2025 区域赛西安站重现赛",
+      "start_time": "2025-11-11 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/289673"
     },
     {
       "platform": "Codeforces",
@@ -320,7 +334,7 @@
       "platform": "luogu",
       "name": "CSP-J 2025 自测（官方数据）",
       "start_time": "2025-11-01 12:45:00",
-      "duration": "217小时15分钟",
+      "duration": "223小时45分钟",
       "url": "https://www.luogu.com.cn/contest/288427"
     },
     {
@@ -357,13 +371,6 @@
       "start_time": "2025-10-25 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-168"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-S8】梦熊 CSP-S 2025 模拟赛（同步赛）",
-      "start_time": "2025-10-25 14:30:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/281947"
     }
   ]
 }
