@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-10 14:52:38",
+  "last_updated": "2025-11-10 15:39:39",
   "contests": [
     {
       "platform": "AtCoder",
@@ -187,7 +187,7 @@
       "platform": "NowCoder",
       "name": "牛客2025秋季算法编程训练联赛5-提升组",
       "start_time": "2025-11-12 19:00:00",
-      "duration": "8258小时30分钟",
+      "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/120458?from=acm_calendar"
     },
     {
