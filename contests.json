@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-12 00:49:32",
+  "last_updated": "2025-11-12 01:41:55",
   "contests": [
     {
       "platform": "AtCoder",
@@ -161,6 +161,13 @@
       "start_time": "2025-11-16 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-476"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "2025 ICPC Asia Taichung Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
+      "start_time": "2025-11-16 09:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://codeforces.com/contest/2172"
     },
     {
       "platform": "luogu",
