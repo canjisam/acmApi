@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-13 15:40:46",
+  "last_updated": "2025-11-13 16:49:42",
   "contests": [
     {
       "platform": "AtCoder",
@@ -189,6 +189,13 @@
       "start_time": "2025-11-15 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/285711"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "中国地质大学（武汉）2025年冬新生赛（同步赛）",
+      "start_time": "2025-11-15 08:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/122886?from=acm_calendar"
     },
     {
       "platform": "luogu",
