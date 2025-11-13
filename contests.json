@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-13 11:34:48",
+  "last_updated": "2025-11-13 12:46:06",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,13 @@
       "start_time": "2025-11-29 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://atcoder.jp/contests/ahc057"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "第十七届北京信息科技大学程序设计竞赛（校外同步赛）",
+      "start_time": "2025-11-26 13:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/122913?from=acm_calendar"
     },
     {
       "platform": "NowCoder",
@@ -117,14 +124,14 @@
       "platform": "Codeforces",
       "name": "Codeforces Round (Div. 1)",
       "start_time": "2025-11-16 22:35:00",
-      "duration": "2小时0分钟",
+      "duration": "2小时30分钟",
       "url": "https://codeforces.com/contest/2165"
     },
     {
       "platform": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start_time": "2025-11-16 22:35:00",
-      "duration": "2小时0分钟",
+      "duration": "2小时30分钟",
       "url": "https://codeforces.com/contest/2166"
     },
     {
