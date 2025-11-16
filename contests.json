@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-16 15:37:41",
+  "last_updated": "2025-11-16 16:44:56",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2025-11-30 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc211"
+    },
+    {
+      "platform": "luogu",
+      "name": "OIMO Round 1",
+      "start_time": "2025-11-30 13:30:00",
+      "duration": "3小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/251007"
     },
     {
       "platform": "AtCoder",
