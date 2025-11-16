@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-16 19:37:37",
+  "last_updated": "2025-11-16 21:00:47",
   "contests": [
     {
       "platform": "AtCoder",
@@ -154,13 +154,6 @@
       "start_time": "2025-11-16 22:35:00",
       "duration": "2小时0分钟",
       "url": "https://codeforces.com/contest/2166"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Regular Contest 210",
-      "start_time": "2025-11-16 20:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://atcoder.jp/contests/arc210"
     },
     {
       "platform": "NowCoder",
@@ -371,13 +364,6 @@
       "start_time": "2025-11-02 08:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/287506"
-    },
-    {
-      "platform": "luogu",
-      "name": "CSP-S 2025 自测（官方数据）",
-      "start_time": "2025-11-01 20:30:00",
-      "duration": "216小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/288428"
     }
   ]
 }
