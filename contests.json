@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-17 18:47:04",
+  "last_updated": "2025-11-17 19:39:07",
   "contests": [
     {
       "platform": "AtCoder",
@@ -336,13 +336,6 @@
       "start_time": "2025-11-05 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/120457?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 116",
-      "start_time": "2025-11-02 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/120553?from=acm_calendar"
     }
   ]
 }
