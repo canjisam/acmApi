@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-17 16:50:52",
+  "last_updated": "2025-11-17 17:45:53",
   "contests": [
     {
       "platform": "AtCoder",
@@ -126,6 +126,13 @@
       "start_time": "2025-11-21 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/122727?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-254-Div.4】洛谷入门赛 #41",
+      "start_time": "2025-11-21 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/291890"
     },
     {
       "platform": "NowCoder",
