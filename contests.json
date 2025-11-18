@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-18 13:42:56",
+  "last_updated": "2025-11-18 14:51:09",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,13 @@
       "start_time": "2025-11-30 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc211"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2025年广东工业大学新生赛（同步赛）",
+      "start_time": "2025-11-30 13:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/123428?from=acm_calendar"
     },
     {
       "platform": "luogu",
