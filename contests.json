@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-18 14:51:09",
+  "last_updated": "2025-11-18 15:40:51",
   "contests": [
     {
       "platform": "AtCoder",
@@ -161,6 +161,13 @@
       "start_time": "2025-11-19 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/120459?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "IO 2024 Round 3（团体赛）Unofficial Mirror",
+      "start_time": "2025-11-19 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/292020"
     },
     {
       "platform": "Codeforces",
