@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-18 07:39:20",
+  "last_updated": "2025-11-18 10:18:57",
   "contests": [
     {
       "platform": "AtCoder",
@@ -77,6 +77,13 @@
       "start_time": "2025-11-23 17:35:00",
       "duration": "3小时0分钟",
       "url": "https://codeforces.com/contest/2157"
+    },
+    {
+      "platform": "luogu",
+      "name": "第六届辽宁省大学生程序设计竞赛重现赛",
+      "start_time": "2025-11-23 17:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/291968"
     },
     {
       "platform": "luogu",
