@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-18 22:45:35",
+  "last_updated": "2025-11-18 23:45:23",
   "contests": [
     {
       "platform": "AtCoder",
@@ -37,6 +37,13 @@
       "url": "https://ac.nowcoder.com/acm/contest/123428?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "OIMO Round 1",
+      "start_time": "2025-11-30 13:30:00",
+      "duration": "3小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/251007"
+    },
+    {
       "platform": "AtCoder",
       "name": "Ｓｋｙ Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
       "start_time": "2025-11-29 20:00:00",
@@ -49,13 +56,6 @@
       "start_time": "2025-11-29 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://atcoder.jp/contests/ahc057"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Educational Codeforces Round 185 (Rated for Div. 2)",
-      "start_time": "2025-11-28 22:35:00",
-      "duration": "2小时0分钟",
-      "url": "https://codeforces.com/contest/2170"
     },
     {
       "platform": "NowCoder",
@@ -72,11 +72,11 @@
       "url": "https://ac.nowcoder.com/acm/contest/122724?from=acm_calendar"
     },
     {
-      "platform": "Codeforces",
-      "name": "Codeforces Round (Div. 1 + Div. 2)",
-      "start_time": "2025-11-23 17:35:00",
-      "duration": "3小时0分钟",
-      "url": "https://codeforces.com/contest/2157"
+      "platform": "luogu",
+      "name": "第六届辽宁省大学生程序设计竞赛重现赛",
+      "start_time": "2025-11-23 17:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/291968"
     },
     {
       "platform": "NowCoder",
@@ -84,6 +84,13 @@
       "start_time": "2025-11-23 14:00:00",
       "duration": "3小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/122651?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-249-Div.3】洛谷基础赛 #27 &「S4OI」Round 1",
+      "start_time": "2025-11-23 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/242706"
     },
     {
       "platform": "LeetCode",
@@ -107,6 +114,20 @@
       "url": "https://atcoder.jp/contests/abc433"
     },
     {
+      "platform": "luogu",
+      "name": "Conclusion Masters #3: LAOI-R11",
+      "start_time": "2025-11-22 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/230112"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-S12】梦熊 NOIP 2025 模拟赛 4（同步赛）",
+      "start_time": "2025-11-22 08:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/287515"
+    },
+    {
       "platform": "NowCoder",
       "name": "牛客练习赛146",
       "start_time": "2025-11-21 19:00:00",
@@ -114,11 +135,11 @@
       "url": "https://ac.nowcoder.com/acm/contest/122727?from=acm_calendar"
     },
     {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1065 (Div. 3)",
-      "start_time": "2025-11-20 22:35:00",
-      "duration": "2小时30分钟",
-      "url": "https://codeforces.com/contest/2171"
+      "platform": "luogu",
+      "name": "【LGR-254-Div.4】洛谷入门赛 #41 · 曼波",
+      "start_time": "2025-11-21 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/291890"
     },
     {
       "platform": "NowCoder",
@@ -135,11 +156,25 @@
       "url": "https://ac.nowcoder.com/acm/contest/120459?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "IO 2024 Round 3（团体赛）Unofficial Mirror",
+      "start_time": "2025-11-19 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/292020"
+    },
+    {
       "platform": "NowCoder",
       "name": "牛客周赛 Round 118",
       "start_time": "2025-11-16 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/121952?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "BYOI Round 1",
+      "start_time": "2025-11-16 14:00:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/261933"
     },
     {
       "platform": "LeetCode",
@@ -149,11 +184,32 @@
       "url": "https://leetcode.com/contest/weekly-contest-476"
     },
     {
+      "platform": "luogu",
+      "name": "【MX-S11】梦熊 NOIP 2025 模拟赛 3 & WAOI R7 & FeOI R6.5（同步赛）",
+      "start_time": "2025-11-16 08:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/287508"
+    },
+    {
+      "platform": "luogu",
+      "name": "NFLSPC #8 重现赛",
+      "start_time": "2025-11-15 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/285711"
+    },
+    {
       "platform": "NowCoder",
       "name": "中国地质大学（武汉）2025年冬新生赛（同步赛）",
       "start_time": "2025-11-15 08:30:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/122886?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-250】洛谷 NOIP 2025 模拟赛",
+      "start_time": "2025-11-15 08:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/289075"
     },
     {
       "platform": "NowCoder",
@@ -184,11 +240,32 @@
       "url": "https://ac.nowcoder.com/acm/contest/120458?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "[ICPC2025 Xi'an R] ICPC 2025 区域赛西安站重现赛",
+      "start_time": "2025-11-11 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/289673"
+    },
+    {
       "platform": "NowCoder",
       "name": "牛客周赛 Round 117",
       "start_time": "2025-11-09 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/121300?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-248-Div.2】洛谷 11 月月赛 I & WAOI R1",
+      "start_time": "2025-11-09 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/276844"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-248-Div.1】洛谷 11 月月赛 I & WAOI R1",
+      "start_time": "2025-11-09 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/230986"
     },
     {
       "platform": "LeetCode",
@@ -205,11 +282,25 @@
       "url": "https://ac.nowcoder.com/acm/contest/122330?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "测试赛",
+      "start_time": "2025-11-08 22:35:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/290136"
+    },
+    {
       "platform": "LeetCode",
       "name": "Biweekly Contest 169",
       "start_time": "2025-11-08 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-169"
+    },
+    {
+      "platform": "luogu",
+      "name": "COCI 2025/2026 #1 Unofficial Mirror",
+      "start_time": "2025-11-08 15:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/289769"
     },
     {
       "platform": "NowCoder",
@@ -224,6 +315,13 @@
       "start_time": "2025-11-08 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/122058?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-S10】梦熊 NOIP 2025 模拟赛 2 & FeOI Round 4（同步赛）",
+      "start_time": "2025-11-08 08:30:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/287507"
     },
     {
       "platform": "NowCoder",
