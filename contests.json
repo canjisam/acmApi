@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-18 21:48:40",
+  "last_updated": "2025-11-18 22:45:35",
   "contests": [
     {
       "platform": "AtCoder",
@@ -51,6 +51,13 @@
       "url": "https://atcoder.jp/contests/ahc057"
     },
     {
+      "platform": "Codeforces",
+      "name": "Educational Codeforces Round 185 (Rated for Div. 2)",
+      "start_time": "2025-11-28 22:35:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2170"
+    },
+    {
       "platform": "NowCoder",
       "name": "第十七届北京信息科技大学程序设计竞赛（校外同步赛）",
       "start_time": "2025-11-26 13:00:00",
@@ -65,11 +72,32 @@
       "url": "https://ac.nowcoder.com/acm/contest/122724?from=acm_calendar"
     },
     {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 1 + Div. 2)",
+      "start_time": "2025-11-23 17:35:00",
+      "duration": "3小时0分钟",
+      "url": "https://codeforces.com/contest/2157"
+    },
+    {
       "platform": "NowCoder",
       "name": "2025年冬第十届河北工业大学程序设计校赛",
       "start_time": "2025-11-23 14:00:00",
       "duration": "3小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/122651?from=acm_calendar"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 477",
+      "start_time": "2025-11-23 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-477"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Biweekly Contest 170",
+      "start_time": "2025-11-22 22:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/biweekly-contest-170"
     },
     {
       "platform": "AtCoder",
@@ -84,6 +112,13 @@
       "start_time": "2025-11-21 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/122727?from=acm_calendar"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Round 1065 (Div. 3)",
+      "start_time": "2025-11-20 22:35:00",
+      "duration": "2小时30分钟",
+      "url": "https://codeforces.com/contest/2171"
     },
     {
       "platform": "NowCoder",
@@ -105,6 +140,13 @@
       "start_time": "2025-11-16 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/121952?from=acm_calendar"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 476",
+      "start_time": "2025-11-16 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-476"
     },
     {
       "platform": "NowCoder",
@@ -149,11 +191,25 @@
       "url": "https://ac.nowcoder.com/acm/contest/121300?from=acm_calendar"
     },
     {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 475",
+      "start_time": "2025-11-09 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-475"
+    },
+    {
       "platform": "NowCoder",
       "name": "2025华南理工大学程序设计竞赛（秋季赛）第二场",
       "start_time": "2025-11-09 10:30:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/122330?from=acm_calendar"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Biweekly Contest 169",
+      "start_time": "2025-11-08 22:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/biweekly-contest-169"
     },
     {
       "platform": "NowCoder",
