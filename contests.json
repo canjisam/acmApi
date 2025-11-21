@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-11-21 19:38:16",
+  "last_updated": "2025-11-21 21:05:41",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Grand Contest 075",
+      "start_time": "2025-12-21 20:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://atcoder.jp/contests/agc075"
+    },
     {
       "platform": "AtCoder",
       "name": "UNIQUE VISION Programming Contest 2025 Christmas (AtCoder Beginner Contest 437)",
