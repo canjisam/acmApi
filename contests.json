@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 15:40:17",
+  "last_updated": "2025-11-21 16:49:32",
   "contests": [
     {
       "platform": "AtCoder",
@@ -101,6 +101,13 @@
     },
     {
       "platform": "NowCoder",
+      "name": "2025年冬第十届河北工业大学程序设计校赛",
+      "start_time": "2025-11-28 18:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/122651?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
       "name": "第十七届北京信息科技大学程序设计竞赛（校外同步赛）",
       "start_time": "2025-11-26 13:00:00",
       "duration": "4小时0分钟",
@@ -126,13 +133,6 @@
       "start_time": "2025-11-23 17:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/291968"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025年冬第十届河北工业大学程序设计校赛",
-      "start_time": "2025-11-23 14:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/122651?from=acm_calendar"
     },
     {
       "platform": "luogu",
