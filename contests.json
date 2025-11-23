@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23 12:51:21",
+  "last_updated": "2025-11-23 13:41:35",
   "contests": [
     {
       "platform": "AtCoder",
@@ -357,13 +357,6 @@
       "start_time": "2025-11-08 15:00:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/289769"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "三晋七校第一届新生赛（同步赛）",
-      "start_time": "2025-11-08 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/121107?from=acm_calendar"
     }
   ]
 }
