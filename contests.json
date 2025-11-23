@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23 07:38:57",
+  "last_updated": "2025-11-23 10:34:09",
   "contests": [
     {
       "platform": "AtCoder",
@@ -371,13 +371,6 @@
       "start_time": "2025-11-08 12:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/122058?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-S10】梦熊 NOIP 2025 模拟赛 2 & FeOI Round 4（同步赛）",
-      "start_time": "2025-11-08 08:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/287507"
     }
   ]
 }
