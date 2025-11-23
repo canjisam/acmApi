@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23 14:49:08",
+  "last_updated": "2025-11-23 15:38:22",
   "contests": [
     {
       "platform": "AtCoder",
@@ -350,13 +350,6 @@
       "start_time": "2025-11-08 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-169"
-    },
-    {
-      "platform": "luogu",
-      "name": "COCI 2025/2026 #1 Unofficial Mirror",
-      "start_time": "2025-11-08 15:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/289769"
     }
   ]
 }
