@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23 19:37:39",
+  "last_updated": "2025-11-23 20:59:34",
   "contests": [
     {
       "platform": "AtCoder",
@@ -133,13 +133,6 @@
       "start_time": "2025-11-23 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/122724?from=acm_calendar"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Codeforces Round 1066 (Div. 1 + Div. 2)",
-      "start_time": "2025-11-23 17:35:00",
-      "duration": "3小时0分钟",
-      "url": "https://codeforces.com/contest/2157"
     },
     {
       "platform": "luogu",
