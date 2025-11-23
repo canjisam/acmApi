@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23 10:34:09",
+  "last_updated": "2025-11-23 12:08:45",
   "contests": [
     {
       "platform": "AtCoder",
@@ -364,13 +364,6 @@
       "start_time": "2025-11-08 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/121107?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "大连大学2025年11月程序设计竞赛(同步赛)",
-      "start_time": "2025-11-08 12:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/122058?from=acm_calendar"
     }
   ]
 }
