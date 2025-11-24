@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24 07:39:06",
+  "last_updated": "2025-11-24 10:28:00",
   "contests": [
     {
       "platform": "AtCoder",
@@ -126,6 +126,13 @@
       "start_time": "2025-11-26 13:00:00",
       "duration": "4小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/122913?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "COCI 2025/2026 #2 Unofficial Mirror",
+      "start_time": "2025-11-24 15:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/293391"
     },
     {
       "platform": "NowCoder",
