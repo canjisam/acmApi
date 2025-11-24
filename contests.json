@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24 10:28:00",
+  "last_updated": "2025-11-24 11:45:39",
   "contests": [
     {
       "platform": "AtCoder",
@@ -322,20 +322,6 @@
       "start_time": "2025-11-09 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/230986"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 475",
-      "start_time": "2025-11-09 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-475"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025华南理工大学程序设计竞赛（秋季赛）第二场",
-      "start_time": "2025-11-09 10:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/122330?from=acm_calendar"
     }
   ]
 }
