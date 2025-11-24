@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24 13:44:38",
+  "last_updated": "2025-11-24 14:52:23",
   "contests": [
     {
       "platform": "AtCoder",
@@ -315,20 +315,6 @@
       "start_time": "2025-11-09 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/121300?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-248-Div.2】洛谷 11 月月赛 I & WAOI R1",
-      "start_time": "2025-11-09 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/276844"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-248-Div.1】洛谷 11 月月赛 I & WAOI R1",
-      "start_time": "2025-11-09 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/230986"
     }
   ]
 }
