@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-25 11:35:55",
+  "last_updated": "2025-11-25 12:46:58",
   "contests": [
     {
       "platform": "AtCoder",
@@ -84,6 +84,13 @@
       "start_time": "2025-11-30 13:30:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/251007"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "CACPC - 环海岸线联盟联合校赛（同步赛）",
+      "start_time": "2025-11-30 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/124163?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
