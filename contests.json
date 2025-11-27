@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-27 18:46:24",
+  "last_updated": "2025-11-27 19:39:27",
   "contests": [
     {
       "platform": "AtCoder",
@@ -322,20 +322,6 @@
       "start_time": "2025-11-13 10:30:00",
       "duration": "5小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/121302?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客2025秋季算法编程训练联赛5-基础组",
-      "start_time": "2025-11-12 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/120454?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客2025秋季算法编程训练联赛5-提升组",
-      "start_time": "2025-11-12 19:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/120458?from=acm_calendar"
     }
   ]
 }
