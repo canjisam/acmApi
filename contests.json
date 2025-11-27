@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-11-27 19:39:27",
+  "last_updated": "2025-11-27 21:08:19",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Beginner Contest 438",
+      "start_time": "2025-12-27 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc438"
+    },
     {
       "platform": "AtCoder",
       "name": "AtCoder Grand Contest 075",
