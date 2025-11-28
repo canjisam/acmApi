@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-28 10:17:19",
+  "last_updated": "2025-11-28 11:32:50",
   "contests": [
     {
       "platform": "AtCoder",
@@ -329,13 +329,6 @@
       "start_time": "2025-11-14 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/122725?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "武汉工程大学第八届ACM新生赛（同步赛）",
-      "start_time": "2025-11-13 10:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/121302?from=acm_calendar"
     }
   ]
 }
