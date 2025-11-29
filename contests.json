@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-29 19:37:48",
+  "last_updated": "2025-11-29 21:03:22",
   "contests": [
     {
       "platform": "AtCoder",
@@ -128,15 +128,8 @@
       "url": "https://codeforces.com/contest/2158"
     },
     {
-      "platform": "AtCoder",
-      "name": "Ｓｋｙ Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
-      "start_time": "2025-11-29 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc434"
-    },
-    {
       "platform": "luogu",
-      "name": "NOIP2025 民间自测（暂无数据）",
+      "name": "NOIP2025 民间自测（民间数据）",
       "start_time": "2025-11-29 13:30:00",
       "duration": "222小时30分钟",
       "url": "https://www.luogu.com.cn/contest/294607"
