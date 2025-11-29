@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-29 17:39:52",
+  "last_updated": "2025-11-29 18:42:10",
   "contests": [
     {
       "platform": "AtCoder",
@@ -101,13 +101,6 @@
     },
     {
       "platform": "luogu",
-      "name": "NOIP2025 民间自测（暂无数据）",
-      "start_time": "2025-11-30 13:30:00",
-      "duration": "198小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/294607"
-    },
-    {
-      "platform": "luogu",
       "name": "OIMO Round 1",
       "start_time": "2025-11-30 13:30:00",
       "duration": "3小时0分钟",
@@ -140,6 +133,13 @@
       "start_time": "2025-11-29 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc434"
+    },
+    {
+      "platform": "luogu",
+      "name": "NOIP2025 民间自测（暂无数据）",
+      "start_time": "2025-11-29 13:30:00",
+      "duration": "222小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/294607"
     },
     {
       "platform": "NowCoder",
