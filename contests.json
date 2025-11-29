@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-29 18:42:10",
+  "last_updated": "2025-11-29 19:37:48",
   "contests": [
     {
       "platform": "AtCoder",
@@ -322,13 +322,6 @@
       "start_time": "2025-11-15 08:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/289075"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客小白月赛123",
-      "start_time": "2025-11-14 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/122725?from=acm_calendar"
     }
   ]
 }
