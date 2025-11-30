@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-30 13:42:38",
+  "last_updated": "2025-11-30 14:50:45",
   "contests": [
     {
       "platform": "AtCoder",
@@ -287,13 +287,6 @@
       "start_time": "2025-11-16 08:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/287508"
-    },
-    {
-      "platform": "luogu",
-      "name": "NFLSPC #8 重现赛",
-      "start_time": "2025-11-15 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/285711"
     }
   ]
 }
