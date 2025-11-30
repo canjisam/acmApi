@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-30 19:37:41",
+  "last_updated": "2025-11-30 21:02:58",
   "contests": [
     {
       "platform": "AtCoder",
@@ -77,13 +77,6 @@
       "start_time": "2025-12-05 22:35:00",
       "duration": "2小时0分钟",
       "url": "https://codeforces.com/contest/2173"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Regular Contest 211 (Div. 2)",
-      "start_time": "2025-11-30 20:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://atcoder.jp/contests/arc211"
     },
     {
       "platform": "NowCoder",
