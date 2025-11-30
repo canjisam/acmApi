@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-30 07:39:26",
+  "last_updated": "2025-11-30 10:32:53",
   "contests": [
     {
       "platform": "AtCoder",
@@ -294,20 +294,6 @@
       "start_time": "2025-11-15 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/285711"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "中国地质大学（武汉）2025年冬新生赛（同步赛）",
-      "start_time": "2025-11-15 08:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/122886?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-250】洛谷 NOIP 2025 模拟赛",
-      "start_time": "2025-11-15 08:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/289075"
     }
   ]
 }
