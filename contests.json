@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-30 23:41:14",
+  "last_updated": "2025-12-01 00:45:55",
   "contests": [
     {
       "platform": "AtCoder",
@@ -44,6 +44,13 @@
       "url": "https://atcoder.jp/contests/abc436"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 121",
+      "start_time": "2025-12-07 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/124143?from=acm_calendar"
+    },
+    {
       "platform": "luogu",
       "name": "【LGR-253-Div.3】洛谷基础赛 #28 & KenOI Round 1",
       "start_time": "2025-12-07 14:00:00",
@@ -51,11 +58,32 @@
       "url": "https://www.luogu.com.cn/contest/254710"
     },
     {
+      "platform": "NowCoder",
+      "name": "浙江机电职业技术大学第十届程序设计竞赛",
+      "start_time": "2025-12-07 12:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/124420?from=acm_calendar"
+    },
+    {
       "platform": "LeetCode",
       "name": "Weekly Contest 479",
       "start_time": "2025-12-07 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-479"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "华中农业大学第十五届程序设计竞赛（新生赛）同步赛",
+      "start_time": "2025-12-07 10:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/123093?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "辽宁科技大学第二十一届ACM队纳新赛",
+      "start_time": "2025-12-07 09:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/123451?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
@@ -72,6 +100,13 @@
       "url": "https://atcoder.jp/contests/abc435"
     },
     {
+      "platform": "NowCoder",
+      "name": "2025年浙江工商大学程序设计竞赛新生赛（同步赛）",
+      "start_time": "2025-12-06 13:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/124451?from=acm_calendar"
+    },
+    {
       "platform": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start_time": "2025-12-05 22:35:00",
@@ -80,17 +115,10 @@
     },
     {
       "platform": "NowCoder",
-      "name": "牛客周赛 Round 120",
-      "start_time": "2025-11-30 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/123788?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025年广东工业大学新生赛（同步赛）",
-      "start_time": "2025-11-30 13:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/123428?from=acm_calendar"
+      "name": "牛客挑战赛84",
+      "start_time": "2025-12-05 19:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/124146?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -98,13 +126,6 @@
       "start_time": "2025-11-30 13:30:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/251007"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "CACPC - 环海岸线联盟联合校赛（同步赛）",
-      "start_time": "2025-11-30 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/124163?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
@@ -121,20 +142,6 @@
       "url": "https://www.luogu.com.cn/contest/294607"
     },
     {
-      "platform": "NowCoder",
-      "name": "牛客小白月赛124",
-      "start_time": "2025-11-28 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/123787?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025年冬第十届河北工业大学程序设计校赛",
-      "start_time": "2025-11-28 18:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/122651?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "KAIST RUN 2018 FALL Unofficial Mirror",
       "start_time": "2025-11-28 13:00:00",
@@ -149,13 +156,6 @@
       "url": "https://www.luogu.com.cn/contest/293901"
     },
     {
-      "platform": "NowCoder",
-      "name": "第十七届北京信息科技大学程序设计竞赛（校外同步赛）",
-      "start_time": "2025-11-26 13:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/122913?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "NOIP 模板自测赛",
       "start_time": "2025-11-25 11:00:00",
@@ -168,13 +168,6 @@
       "start_time": "2025-11-24 15:00:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/293391"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 119",
-      "start_time": "2025-11-23 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/122724?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -219,13 +212,6 @@
       "url": "https://www.luogu.com.cn/contest/287515"
     },
     {
-      "platform": "NowCoder",
-      "name": "牛客练习赛146",
-      "start_time": "2025-11-21 19:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/122727?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "【LGR-254-Div.4】洛谷入门赛 #41 · 曼波",
       "start_time": "2025-11-21 19:00:00",
@@ -233,32 +219,11 @@
       "url": "https://www.luogu.com.cn/contest/291890"
     },
     {
-      "platform": "NowCoder",
-      "name": "牛客2025秋季算法编程训练联赛6-基础组",
-      "start_time": "2025-11-19 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/120455?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客2025秋季算法编程训练联赛6-提升组",
-      "start_time": "2025-11-19 19:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/120459?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "IO 2024 Round 3（团体赛）Unofficial Mirror",
       "start_time": "2025-11-19 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/292020"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 118",
-      "start_time": "2025-11-16 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/121952?from=acm_calendar"
     },
     {
       "platform": "luogu",
