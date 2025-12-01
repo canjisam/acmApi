@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-01 07:39:51",
+  "last_updated": "2025-12-01 10:42:16",
   "contests": [
     {
       "platform": "AtCoder",
@@ -231,20 +231,6 @@
       "start_time": "2025-11-16 14:00:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/261933"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 476",
-      "start_time": "2025-11-16 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-476"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-S11】梦熊 NOIP 2025 模拟赛 3 & WAOI R7 & FeOI R6.5（同步赛）",
-      "start_time": "2025-11-16 08:30:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/287508"
     }
   ]
 }
