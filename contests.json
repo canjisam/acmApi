@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-01 19:40:16",
+  "last_updated": "2025-12-01 21:11:06",
   "contests": [
     {
       "platform": "AtCoder",
@@ -119,6 +119,20 @@
       "start_time": "2025-12-06 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc435"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 1)",
+      "start_time": "2025-12-06 16:15:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2174"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start_time": "2025-12-06 16:15:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2175"
     },
     {
       "platform": "NowCoder",
