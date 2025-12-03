@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-03 11:38:52",
+  "last_updated": "2025-12-03 12:49:23",
   "contests": [
     {
       "platform": "AtCoder",
@@ -192,7 +192,7 @@
     },
     {
       "platform": "luogu",
-      "name": "NOIP2025 民间自测（民间数据）",
+      "name": "NOIP2025 自测（官方数据）",
       "start_time": "2025-11-29 13:30:00",
       "duration": "222小时30分钟",
       "url": "https://www.luogu.com.cn/contest/294607"
