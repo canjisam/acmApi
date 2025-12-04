@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-04 12:50:26",
+  "last_updated": "2025-12-04 13:43:46",
   "contests": [
     {
       "platform": "AtCoder",
@@ -301,13 +301,6 @@
       "start_time": "2025-11-21 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://www.luogu.com.cn/contest/291890"
-    },
-    {
-      "platform": "luogu",
-      "name": "IO 2024 Round 3（团体赛）Unofficial Mirror",
-      "start_time": "2025-11-19 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/292020"
     }
   ]
 }
