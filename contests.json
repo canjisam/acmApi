@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-06 18:42:22",
+  "last_updated": "2025-12-06 19:37:32",
   "contests": [
     {
       "platform": "AtCoder",
@@ -56,6 +56,13 @@
       "start_time": "2025-12-20 14:00:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/261469"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "ICPC 2025 Online Challenge powered by Huawei",
+      "start_time": "2025-12-19 19:00:00",
+      "duration": "408小时0分钟",
+      "url": "https://codeforces.com/contest/2177"
     },
     {
       "platform": "NowCoder",
@@ -287,13 +294,6 @@
       "start_time": "2025-11-22 08:30:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/287515"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-254-Div.4】洛谷入门赛 #41 · 曼波",
-      "start_time": "2025-11-21 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/291890"
     }
   ]
 }
