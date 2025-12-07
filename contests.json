@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-07 21:02:08",
+  "last_updated": "2025-12-07 21:41:57",
   "contests": [
     {
       "platform": "AtCoder",
@@ -23,13 +23,6 @@
       "url": "https://atcoder.jp/contests/agc075"
     },
     {
-      "platform": "luogu",
-      "name": "GenshinOI Round 7",
-      "start_time": "2025-12-21 13:30:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/261472"
-    },
-    {
       "platform": "LeetCode",
       "name": "Biweekly Contest 172",
       "start_time": "2025-12-20 22:30:00",
@@ -49,13 +42,6 @@
       "start_time": "2025-12-20 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/125084?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "GenshinOI Round 6",
-      "start_time": "2025-12-20 14:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/261469"
     },
     {
       "platform": "Codeforces",
