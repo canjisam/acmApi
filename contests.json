@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-08 13:46:12",
+  "last_updated": "2025-12-08 14:56:58",
   "contests": [
     {
       "platform": "AtCoder",
@@ -77,6 +77,13 @@
       "start_time": "2025-12-14 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://atcoder.jp/contests/ahc058"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2025年大连海事大学程序设计竞赛",
+      "start_time": "2025-12-14 13:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/125351?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
@@ -252,13 +259,6 @@
       "start_time": "2025-11-23 17:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/291968"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-249-Div.3】洛谷基础赛 #27 &「S4OI」Round 1",
-      "start_time": "2025-11-23 14:00:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/242706"
     }
   ]
 }
