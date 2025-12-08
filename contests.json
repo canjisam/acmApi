@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-09 02:52:18",
+  "last_updated": "2025-12-09 03:39:09",
   "contests": [
     {
       "platform": "AtCoder",
@@ -56,13 +56,6 @@
       "start_time": "2025-12-20 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/125084?from=acm_calendar"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "ICPC 2025 Online Winter Challenge powered by Huawei",
-      "start_time": "2025-12-19 19:00:00",
-      "duration": "408小时0分钟",
-      "url": "https://codeforces.com/contest/2177"
     },
     {
       "platform": "NowCoder",
