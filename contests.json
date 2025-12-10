@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-10 10:26:30",
+  "last_updated": "2025-12-10 11:43:48",
   "contests": [
     {
       "platform": "AtCoder",
@@ -35,6 +35,13 @@
       "start_time": "2025-12-21 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/276342"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 481",
+      "start_time": "2025-12-21 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-481"
     },
     {
       "platform": "LeetCode",
@@ -259,13 +266,6 @@
       "start_time": "2025-11-27 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/293901"
-    },
-    {
-      "platform": "luogu",
-      "name": "NOIP 模板自测赛",
-      "start_time": "2025-11-25 11:00:00",
-      "duration": "93小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/293606"
     }
   ]
 }
