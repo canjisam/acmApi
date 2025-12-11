@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-11 16:52:44",
+  "last_updated": "2025-12-11 17:47:42",
   "contests": [
     {
       "platform": "AtCoder",
@@ -119,6 +119,13 @@
       "start_time": "2025-12-14 13:00:00",
       "duration": "4小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/125351?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "东北大学秦皇岛分校第十三届“图灵杯”程序设计竞赛",
+      "start_time": "2025-12-14 11:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/296933"
     },
     {
       "platform": "LeetCode",
