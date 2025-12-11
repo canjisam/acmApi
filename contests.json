@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-11 18:49:49",
+  "last_updated": "2025-12-11 19:41:14",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2025-12-27 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc438"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "ICPC 2025 Online Winter Challenge powered by Huawei",
+      "start_time": "2025-12-26 19:00:00",
+      "duration": "384小时0分钟",
+      "url": "https://codeforces.com/contest/2177"
     },
     {
       "platform": "Codeforces",
