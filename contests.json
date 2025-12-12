@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-12 12:53:59",
+  "last_updated": "2025-12-12 13:45:50",
   "contests": [
     {
       "platform": "AtCoder",
@@ -280,13 +280,6 @@
       "start_time": "2025-11-28 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/293956"
-    },
-    {
-      "platform": "luogu",
-      "name": "KAIST RUN 2019 FALL Unofficial Mirror",
-      "start_time": "2025-11-27 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/293901"
     }
   ]
 }
