@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-14 13:43:03",
+  "last_updated": "2025-12-14 14:51:37",
   "contests": [
     {
       "platform": "AtCoder",
@@ -119,13 +119,6 @@
       "start_time": "2025-12-14 14:30:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/194087"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "ALGO ARTIS Programming Contest 2025 December（AtCoder Heuristic Contest 058）",
-      "start_time": "2025-12-14 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc058"
     },
     {
       "platform": "NowCoder",
