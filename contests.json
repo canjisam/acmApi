@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-12-15 13:48:48",
+  "last_updated": "2025-12-15 14:57:15",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Beginner Contest 440",
+      "start_time": "2026-01-10 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc440"
+    },
     {
       "platform": "AtCoder",
       "name": "AtCoder Beginner Contest 439",
