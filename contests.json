@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-16 21:12:32",
+  "last_updated": "2025-12-16 21:55:11",
   "contests": [
     {
       "platform": "AtCoder",
@@ -63,6 +63,13 @@
       "start_time": "2025-12-26 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/125955?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-259-Div.4】洛谷入门赛 #42",
+      "start_time": "2025-12-26 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/298165"
     },
     {
       "platform": "Codeforces",
@@ -133,13 +140,6 @@
       "start_time": "2025-12-19 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/125084?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-259-Div.4】洛谷入门赛 #42",
-      "start_time": "2025-12-19 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/298165"
     },
     {
       "platform": "Codeforces",
