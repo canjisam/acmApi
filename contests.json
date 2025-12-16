@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-16 07:41:28",
+  "last_updated": "2025-12-16 10:28:25",
   "contests": [
     {
       "platform": "AtCoder",
@@ -93,13 +93,6 @@
       "url": "https://atcoder.jp/contests/abc437"
     },
     {
-      "platform": "NowCoder",
-      "name": "牛客练习赛147",
-      "start_time": "2025-12-20 19:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/125084?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "[CCPC 2024 Harbin R] CCPC 2024 分站赛哈尔滨站重现赛",
       "start_time": "2025-12-20 13:00:00",
@@ -114,6 +107,13 @@
       "url": "https://codeforces.com/contest/2180"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客练习赛147",
+      "start_time": "2025-12-19 19:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/125084?from=acm_calendar"
+    },
+    {
       "platform": "Codeforces",
       "name": "2025-2026 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
       "start_time": "2025-12-17 16:05:00",
@@ -123,7 +123,7 @@
     {
       "platform": "luogu",
       "name": "COCI 2025/2026 #3 Unofficial Mirror",
-      "start_time": "2025-12-16 15:00:00",
+      "start_time": "2025-12-17 15:00:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/296955"
     },
