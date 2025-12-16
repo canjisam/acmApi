@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-16 19:41:33",
+  "last_updated": "2025-12-16 21:12:32",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2026-01-03 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc439"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客2025跨年场",
+      "start_time": "2025-12-31 21:00:00",
+      "duration": "3小时5分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/125085?from=acm_calendar"
     },
     {
       "platform": "AtCoder",
