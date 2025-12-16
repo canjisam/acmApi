@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-16 10:28:25",
+  "last_updated": "2025-12-16 11:47:06",
   "contests": [
     {
       "platform": "AtCoder",
@@ -51,6 +51,13 @@
       "url": "https://codeforces.com/contest/2177"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客小白月赛126",
+      "start_time": "2025-12-26 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/125955?from=acm_calendar"
+    },
+    {
       "platform": "Codeforces",
       "name": "Codeforces Round (Div. 3)",
       "start_time": "2025-12-23 22:35:00",
@@ -63,6 +70,13 @@
       "start_time": "2025-12-21 20:00:00",
       "duration": "3小时0分钟",
       "url": "https://atcoder.jp/contests/agc075"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 123",
+      "start_time": "2025-12-21 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/125954?from=acm_calendar"
     },
     {
       "platform": "luogu",
