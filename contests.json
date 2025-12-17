@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-17 19:41:52",
+  "last_updated": "2025-12-17 21:12:20",
   "contests": [
     {
       "platform": "AtCoder",
@@ -147,13 +147,6 @@
       "start_time": "2025-12-19 19:00:00",
       "duration": "2小时30分钟",
       "url": "https://ac.nowcoder.com/acm/contest/125084?from=acm_calendar"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "2025-2026 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
-      "start_time": "2025-12-17 16:05:00",
-      "duration": "5小时0分钟",
-      "url": "https://codeforces.com/contest/2181"
     },
     {
       "platform": "luogu",
