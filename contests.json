@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-19 19:40:10",
+  "last_updated": "2025-12-19 21:09:34",
   "contests": [
     {
       "platform": "AtCoder",
@@ -49,6 +49,13 @@
       "start_time": "2025-12-31 21:00:00",
       "duration": "3小时5分钟",
       "url": "https://ac.nowcoder.com/acm/contest/125085?from=acm_calendar"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Educational Codeforces Round 186 (Rated for Div. 2)",
+      "start_time": "2025-12-29 22:35:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2182"
     },
     {
       "platform": "AtCoder",
