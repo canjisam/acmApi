@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-20 19:38:06",
+  "last_updated": "2025-12-20 21:04:10",
   "contests": [
     {
       "platform": "AtCoder",
@@ -161,13 +161,6 @@
       "start_time": "2025-12-20 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-172"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "UNIQUE VISION Programming Contest 2025 Christmas (AtCoder Beginner Contest 437)",
-      "start_time": "2025-12-20 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc437"
     },
     {
       "platform": "luogu",
