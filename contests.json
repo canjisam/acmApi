@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-21 13:44:21",
+  "last_updated": "2025-12-21 14:51:57",
   "contests": [
     {
       "platform": "AtCoder",
@@ -308,13 +308,6 @@
       "start_time": "2025-12-06 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-171"
-    },
-    {
-      "platform": "luogu",
-      "name": "PhirainEX Round 1",
-      "start_time": "2025-12-06 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/288474"
     }
   ]
 }
