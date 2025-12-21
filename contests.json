@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-21 19:38:26",
+  "last_updated": "2025-12-21 21:05:08",
   "contests": [
     {
       "platform": "AtCoder",
@@ -79,6 +79,13 @@
       "url": "https://ac.nowcoder.com/acm/contest/126120?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "【LGR-256-Div.3】洛谷基础赛 #29 & QFOI Round 3",
+      "start_time": "2025-12-28 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/256235"
+    },
+    {
       "platform": "LeetCode",
       "name": "Weekly Contest 482",
       "start_time": "2025-12-28 10:30:00",
@@ -126,13 +133,6 @@
       "start_time": "2025-12-23 22:35:00",
       "duration": "2小时30分钟",
       "url": "https://codeforces.com/contest/2179"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Grand Contest 075",
-      "start_time": "2025-12-21 20:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://atcoder.jp/contests/agc075"
     },
     {
       "platform": "NowCoder",
