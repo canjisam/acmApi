@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-27 17:41:46",
+  "last_updated": "2025-12-27 18:43:56",
   "contests": [
     {
       "platform": "AtCoder",
@@ -294,13 +294,6 @@
       "start_time": "2025-12-12 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/125080?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "湖南师范大学2025新生赛决赛（同步赛）",
-      "start_time": "2025-12-12 18:30:00",
-      "duration": "3小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/124874?from=acm_calendar"
     }
   ]
 }
