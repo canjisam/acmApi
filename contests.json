@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-28 19:39:02",
+  "last_updated": "2025-12-28 21:07:38",
   "contests": [
     {
       "platform": "AtCoder",
@@ -42,20 +42,6 @@
       "start_time": "2026-01-07 22:35:00",
       "duration": "3小时0分钟",
       "url": "https://codeforces.com/contest/2183"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 483",
-      "start_time": "2026-01-04 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-483"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Biweekly Contest 173",
-      "start_time": "2026-01-03 22:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/biweekly-contest-173"
     },
     {
       "platform": "AtCoder",
@@ -107,13 +93,6 @@
       "url": "https://codeforces.com/contest/2182"
     },
     {
-      "platform": "AtCoder",
-      "name": "AtCoder Grand Contest 076",
-      "start_time": "2025-12-28 20:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://atcoder.jp/contests/agc076"
-    },
-    {
       "platform": "NowCoder",
       "name": "牛客周赛 Round 124",
       "start_time": "2025-12-28 19:00:00",
@@ -126,13 +105,6 @@
       "start_time": "2025-12-28 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/256235"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 482",
-      "start_time": "2025-12-28 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-482"
     },
     {
       "platform": "NowCoder",
@@ -175,20 +147,6 @@
       "start_time": "2025-12-21 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/276342"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 481",
-      "start_time": "2025-12-21 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-481"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Biweekly Contest 172",
-      "start_time": "2025-12-20 22:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/biweekly-contest-172"
     },
     {
       "platform": "luogu",
@@ -259,13 +217,6 @@
       "start_time": "2025-12-14 11:30:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/296933"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 480",
-      "start_time": "2025-12-14 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-480"
     }
   ]
 }
