@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-29 18:49:11",
+  "last_updated": "2025-12-29 19:41:30",
   "contests": [
     {
       "platform": "AtCoder",
@@ -224,13 +224,6 @@
       "start_time": "2025-12-17 15:00:00",
       "duration": "3小时0分钟",
       "url": "https://www.luogu.com.cn/contest/296955"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 122",
-      "start_time": "2025-12-14 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/125083?from=acm_calendar"
     }
   ]
 }
