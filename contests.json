@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-29 12:34:52",
+  "last_updated": "2025-12-29 13:51:20",
   "contests": [
     {
       "platform": "AtCoder",
@@ -245,20 +245,6 @@
       "start_time": "2025-12-14 14:30:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/194087"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025年广州大学程序设计竞赛新生赛（同步赛）",
-      "start_time": "2025-12-14 13:30:00",
-      "duration": "5小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/124960?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2025年大连海事大学程序设计竞赛",
-      "start_time": "2025-12-14 13:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/125351?from=acm_calendar"
     }
   ]
 }
