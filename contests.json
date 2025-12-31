@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-31 21:18:21",
+  "last_updated": "2025-12-31 21:49:55",
   "contests": [
     {
       "platform": "AtCoder",
@@ -100,11 +100,25 @@
       "url": "https://www.luogu.com.cn/contest/261469"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客2025跨年场",
+      "start_time": "2025-12-31 21:00:00",
+      "duration": "3小时5分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/125085?from=acm_calendar"
+    },
+    {
       "platform": "luogu",
       "name": "【LGR-260-Div.1+2】洛谷 12 月月赛 II & FAOI R10: 2025-2026 跨年赛",
       "start_time": "2025-12-31 19:30:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/251472"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 124",
+      "start_time": "2025-12-28 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/126120?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -121,6 +135,13 @@
       "url": "https://leetcode.com/contest/weekly-contest-482"
     },
     {
+      "platform": "NowCoder",
+      "name": "浙大城市学院第二十二届大学生程序设计竞赛",
+      "start_time": "2025-12-27 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/126321?from=acm_calendar"
+    },
+    {
       "platform": "Codeforces",
       "name": "ICPC 2025 Online Winter Challenge powered by Huawei",
       "start_time": "2025-12-26 19:00:00",
@@ -128,11 +149,25 @@
       "url": "https://codeforces.com/contest/2177"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客小白月赛126",
+      "start_time": "2025-12-26 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/125955?from=acm_calendar"
+    },
+    {
       "platform": "luogu",
       "name": "【LGR-259-Div.4】洛谷入门赛 #42",
       "start_time": "2025-12-26 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://www.luogu.com.cn/contest/298165"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 123",
+      "start_time": "2025-12-21 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/125954?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -161,6 +196,13 @@
       "start_time": "2025-12-20 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/298025"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客练习赛147",
+      "start_time": "2025-12-19 19:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/125084?from=acm_calendar"
     },
     {
       "platform": "luogu",
