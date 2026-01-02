@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-01-02 17:46:42",
+  "last_updated": "2026-01-02 18:45:57",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
+      "start_time": "2026-02-01 18:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://atcoder.jp/contests/ahc060"
+    },
     {
       "platform": "AtCoder",
       "name": "Denso Create Programming Contest 2026（AtCoder Beginner Contest 443）",
