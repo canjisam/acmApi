@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-03 19:38:35",
+  "last_updated": "2026-01-03 21:06:38",
   "contests": [
     {
       "platform": "AtCoder",
@@ -93,6 +93,13 @@
       "url": "https://atcoder.jp/contests/abc440"
     },
     {
+      "platform": "luogu",
+      "name": "【LGR-258-Div.2】洛谷 1 月月赛 II & KWOI Round 1",
+      "start_time": "2026-01-10 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/280819"
+    },
+    {
       "platform": "AtCoder",
       "name": "AtCoder Heuristic Contest 059",
       "start_time": "2026-01-10 14:00:00",
@@ -133,13 +140,6 @@
       "start_time": "2026-01-03 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-173"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Beginner Contest 439",
-      "start_time": "2026-01-03 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc439"
     },
     {
       "platform": "luogu",
