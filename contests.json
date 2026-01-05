@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-05 13:56:36",
+  "last_updated": "2026-01-05 15:02:32",
   "contests": [
     {
       "platform": "AtCoder",
@@ -203,13 +203,6 @@
       "start_time": "2025-12-26 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://www.luogu.com.cn/contest/298165"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-255-Div.2】洛谷 12 月月赛 I &「菜菜杯」Round 1",
-      "start_time": "2025-12-21 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/276342"
     }
   ]
 }
