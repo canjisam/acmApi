@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06 14:58:36",
+  "last_updated": "2026-01-06 15:46:14",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2026-01-24 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc442"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 127",
+      "start_time": "2026-01-18 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/126798?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
