@@ -1,0 +1,49 @@
+.platform-tag {
+    pointer-events: none;
+    user-select: none;
+    display: inline-block;
+    padding: 4px 8px 4px 32px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+    background-repeat: no-repeat;
+    background-position: 8px center;
+    background-size: 20px;
+}
+
+.platform-tag.codeforces {
+    background-color: #1e88e5;
+    color: white;
+    box-shadow: 0 2px 4px rgba(30, 136, 229, 0.3);
+    background-image: url('icons/codeforces.png');
+}
+
+.platform-tag.leetcode {
+    background-color: #ffa726;
+    color: white;
+    box-shadow: 0 2px 4px rgba(255, 167, 38, 0.3);
+    background-image: url('icons/leetcode.png');
+}
+
+.platform-tag.nowcoder {
+    background-color: #25c6fc;
+    color: white;
+    box-shadow: 0 2px 4px rgba(37, 198, 252, 0.3);
+    background-image: url('icons/nowcoder.png');
+}
+
+.platform-tag.luogu {
+    background-color: #5eb95e;
+    color: white;
+    box-shadow: 0 2px 4px rgba(94, 185, 94, 0.3);
+    background-image: url('icons/luogu.png');
+}
+
+.platform-tag.atcoder {
+    background-color: #9b4dca;
+    color: white;
+    box-shadow: 0 2px 4px rgba(155, 77, 202, 0.3);
+    background-image: url('icons/atcoder.png');
+}

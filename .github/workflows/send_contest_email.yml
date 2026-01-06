@@ -1,0 +1,58 @@
+name: Send Contest Email
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 08:00 UTC 运行，可在仓库设置中调整
+  workflow_dispatch: {}
+
+jobs:
+  send_email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: Prepare config
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          TO_ADDRESSES: ${{ secrets.TO_ADDRESSES }}
+        run: |
+          mkdir -p mailer
+          python - <<EOF
+          import json
+          import os
+          config = {
+              "smtp": {
+                  "host": os.environ["SMTP_HOST"],
+                  "port": int(os.environ["SMTP_PORT"]),
+                  "username": os.environ["SMTP_USERNAME"],
+                  "password": os.environ["SMTP_PASSWORD"],
+                  "from": os.environ["SMTP_FROM"],
+                  "use_ssl": True,
+                  "timeout": 30
+              },
+              "to": [addr.strip() for addr in os.environ["TO_ADDRESSES"].split(",")]
+          }
+          
+          with open("mailer/config.json", "w", encoding="utf-8") as f:
+              json.dump(config, f, ensure_ascii=False, indent=2)
+          EOF
+
+      - name: Run mailer
+        env:
+          PYTHONUNBUFFERED: 1
+        run: |
+          python -c "import mailer.send_contest_email as m; m.main(dry_run=False)"

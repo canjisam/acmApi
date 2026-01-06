@@ -1,0 +1,13 @@
+{
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 465,
+    "username": "your-gmail-username@gmail.com",
+    "password": "your-app-specific-password",
+    "from": "your-gmail-username@gmail.com",
+    "use_ssl": true,
+    "timeout": 30
+  },
+  "to": ["recipient@example.com"],
+  "subject": "比赛提醒 - {{date}}"
+}

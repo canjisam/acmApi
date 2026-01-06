@@ -1,0 +1,303 @@
+:root {
+    --primary-color: #2B2D42;
+    --accent-color: #FF4D6D;
+    --background-light: #F8F9FA;
+    --background-dark: #1A1B1E;
+    --text-light: #2B2D42;
+    --text-dark: #E9ECEF;
+    --card-shadow: 5px 5px 0px #000;
+    --card-border: 3px solid #000;
+    --secondary-text-light: #666;
+    --secondary-text-dark: #A0A0A0;
+}
+
+[data-theme="dark"] {
+    --primary-color: #FF4D6D;
+    --background-color: var(--background-dark);
+    --text-color: var(--text-dark);
+    --card-background: #2B2D42;
+    --secondary-text: var(--secondary-text-dark);
+    --link-color: #66B2FF;
+    --border-color: #444;
+    --header-text-color: #FFFFFF;
+    --header-shadow-color: #FF6B6B;
+}
+
+[data-theme="light"] {
+    --primary-color: #2B2D42;
+    --background-color: var(--background-light);
+    --text-color: var(--text-light);
+    --card-background: #ffffff;
+    --secondary-text: var(--secondary-text-light);
+    --link-color: #1976d2;
+    --border-color: #000;
+    --header-text-color: var(--primary-color);
+    --header-shadow-color: var(--accent-color);
+}
+
+body {
+    font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+ .header {
+    text-align: center;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.header h1 {
+    font-size: 3em;
+    font-weight: 800;
+    color: var(--header-text-color);
+    margin: 0;
+    letter-spacing: -0.03em;
+    text-shadow: 3px 3px 0px var(--header-shadow-color);
+}
+
+.theme-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 10px;
+    border: 2px solid #000;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    background-color: var(--background-light);
+    box-shadow: 3px 3px 0px #000;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.theme-toggle:hover {
+    transform: translate(-2px, -2px);
+    box-shadow: 5px 5px 0px #000;
+}
+
+.filters {
+    margin-bottom: 30px;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+ .filter-btn {
+    padding: 12px 24px;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    background-color: var(--card-background);
+    color: var(--text-color);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-weight: 600;
+    font-size: 1rem;
+    box-shadow: 3px 3px 0px var(--border-color);
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.filter-btn:hover {
+    transform: translate(-2px, -2px);
+    box-shadow: 5px 5px 0px #000;
+}
+
+.filter-btn.active {
+    background-color: var(--accent-color);
+    color: white;
+    border-color: #000;
+}
+
+.filter-btn:active {
+    transform: translate(2px, 2px);
+    box-shadow: 1px 1px 0px #000;
+}
+
+ .contest-grid {
+     display: grid;
+     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+     gap: 20px;
+ }
+
+ .contest-card {
+    position: relative;
+    background: var(--card-background);
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    padding: 25px;
+    box-shadow: 5px 5px 0px var(--border-color);
+    transition: all 0.2s ease;
+    transform: translate(0, 0);
+}
+
+.contest-card:hover {
+    transform: translate(-2px, -2px);
+    box-shadow: 7px 7px 0px var(--border-color);
+}
+
+.contest-name {
+    font-size: 1.4em;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: var(--text-color);
+    letter-spacing: -0.02em;
+}
+
+.contest-time,
+.contest-duration {
+    color: var(--secondary-text);
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.copy-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: var(--card-background);
+    border: 2px solid var(--border-color);
+    border-radius: 4px;
+    padding: 5px 8px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.copy-btn:hover {
+    background: #f0f0f0;
+    transform: scale(1.05);
+}
+
+.contest-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: var(--link-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.contest-link:hover {
+    text-decoration: underline;
+    opacity: 0.9;
+}
+
+.update-time {
+    text-align: center;
+    color: var(--secondary-text);
+    margin-top: 20px;
+    font-size: 0.9em;
+    padding: 10px;
+    border-top: 1px solid var(--border-color);
+}
+
+ /* 新增模态框样式 */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.modal-content {
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    max-width: 500px;
+    width: 90%;
+    position: relative;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.modal-close {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: none;
+    border: none;
+    font-size: 1.5em;
+    cursor: pointer;
+    color: #666;
+}
+
+.modal-title {
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.modal-info p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+.modal-link {
+    display: inline-block;
+    margin-top: 20px;
+    color: #1976d2;
+    text-decoration: none;
+}
+
+.modal-link:hover {
+    text-decoration: underline;
+}
+
+ @media (max-width: 768px) {
+   .footer {
+     padding: 15px 0;
+     font-size: 0.8em;
+   }
+   .container {
+     padding: 10px;
+   }
+
+   .contest-grid {
+     grid-template-columns: 1fr;
+     gap: 15px;
+   }
+
+   .filters {
+     gap: 12px;
+     flex-wrap: wrap;
+   }
+
+   @media (max-width: 768px) {
+     .filter-btn {
+       padding: 12px 20px;
+       min-width: 110px;
+       margin: 6px;
+       font-size: 0.9em;
+     }
+   
+     .contest-card {
+    position: relative;
+
+       margin: 0 8px 15px 8px;
+       padding: 16px;
+     }
+   }
+   .contest-name {
+     font-size: 1.1em;
+   }
+ }

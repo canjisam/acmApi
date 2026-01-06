@@ -1,0 +1,208 @@
+{
+  "last_updated": "2026-01-06 10:31:16",
+  "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
+      "start_time": "2026-02-01 18:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://atcoder.jp/contests/ahc060"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "Denso Create Programming Contest 2026（AtCoder Beginner Contest 443）",
+      "start_time": "2026-01-31 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc443"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
+      "start_time": "2026-01-24 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc442"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 485",
+      "start_time": "2026-01-18 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-485"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Biweekly Contest 174",
+      "start_time": "2026-01-17 22:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/biweekly-contest-174"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
+      "start_time": "2026-01-17 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc441"
+    },
+    {
+      "platform": "luogu",
+      "name": "『GTOI』Round 2",
+      "start_time": "2026-01-17 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/298257"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客小白月赛127",
+      "start_time": "2026-01-16 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/126634?from=acm_calendar"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 3)",
+      "start_time": "2026-01-12 22:35:00",
+      "duration": "2小时15分钟",
+      "url": "https://codeforces.com/contest/2184"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Regular Contest 212 (Div. 2)",
+      "start_time": "2026-01-11 20:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://atcoder.jp/contests/arc212"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 126",
+      "start_time": "2026-01-11 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/126636?from=acm_calendar"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 484",
+      "start_time": "2026-01-11 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-484"
+    },
+    {
+      "platform": "luogu",
+      "name": "『LBA-OI』Round 2",
+      "start_time": "2026-01-11 08:30:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/292354"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Beginner Contest 440",
+      "start_time": "2026-01-10 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc440"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-258-Div.2】洛谷 1 月月赛 II & KWOI Round 1",
+      "start_time": "2026-01-10 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/280819"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Heuristic Contest 059",
+      "start_time": "2026-01-10 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://atcoder.jp/contests/ahc059"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客挑战赛85",
+      "start_time": "2026-01-09 19:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/126635?from=acm_calendar"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Hello 2026",
+      "start_time": "2026-01-07 22:35:00",
+      "duration": "3小时0分钟",
+      "url": "https://codeforces.com/contest/2183"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 125",
+      "start_time": "2026-01-04 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/126319?from=acm_calendar"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 483",
+      "start_time": "2026-01-04 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-483"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Biweekly Contest 173",
+      "start_time": "2026-01-03 22:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/biweekly-contest-173"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-257-Div.2】洛谷 1 月月赛 I & ffbb OI round 1",
+      "start_time": "2026-01-03 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/226658"
+    },
+    {
+      "platform": "luogu",
+      "name": "GenshinOI Round 7",
+      "start_time": "2026-01-02 13:30:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/261472"
+    },
+    {
+      "platform": "luogu",
+      "name": "GenshinOI Round 6",
+      "start_time": "2026-01-01 14:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/261469"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-260-Div.1+2】洛谷 12 月月赛 II & FAOI R10: 2025-2026 跨年赛",
+      "start_time": "2025-12-31 19:30:00",
+      "duration": "5小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/251472"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-256-Div.3】洛谷基础赛 #29 & QFOI Round 3",
+      "start_time": "2025-12-28 14:00:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/256235"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 482",
+      "start_time": "2025-12-28 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-482"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "ICPC 2025 Online Winter Challenge powered by Huawei",
+      "start_time": "2025-12-26 19:00:00",
+      "duration": "384小时0分钟",
+      "url": "https://codeforces.com/contest/2177"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-259-Div.4】洛谷入门赛 #42",
+      "start_time": "2025-12-26 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/298165"
+    }
+  ]
+}

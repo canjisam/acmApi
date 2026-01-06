@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <link rel="icon" type="image/png" href="icons/icon.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>即将开始的比赛</title>
+    <script src="main.js"></script>
+
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+    <link rel="stylesheet" href="calendar.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="platform-tag.css">
+</head>
+
+<body>
+    <div id="app" class="container">
+        <button class="theme-toggle" @click="toggleTheme" :title="theme === 'dark' ? '切换到亮色模式' : '切换到暗色模式'">
+            {{ theme === 'dark' ? '🌞' : '🌙' }}
+        </button>
+        <div class="header">
+            <h1>编程竞赛日历</h1>
+        </div>
+
+        <nav class="view-switcher">
+            <a href="index.html" class="nav-link active">列表视图</a>
+            <a href="calendar.html" class="nav-link">日历视图</a>
+        </nav>
+
+        <div class="filters">
+            <button v-for="platform in platforms" :key="platform"
+                :class="['filter-btn', { active: selectedPlatform === platform }]" @click="selectedPlatform = platform">
+                {{ platform === 'all' ? '全部' : platform }}
+            </button>
+        </div>
+
+        <div class="contest-grid">
+            <div v-for="contest in filteredContests.slice().reverse()" :key="contest.url" class="contest-card">
+                <div :class="['platform-tag', contest.platform.toLowerCase()]">
+                    {{ contest.platform }}
+                </div>
+                <div class="contest-name">{{ contest.name }}</div>
+                <button class="copy-btn" @click="copyContestInfo(contest)" title="复制比赛信息">📋</button>
+                <div class="contest-time">开始时间：{{ contest.start_time }}</div>
+                <div class="contest-duration">持续时间：{{ contest.duration }}</div>
+                <a :href="contest.url" target="_blank" class="contest-link">查看详情 →</a>
+            </div>
+        </div>
+
+        <div class="update-time">
+            最后更新时间：{{ updateTime }}
+        </div>
+        
+    </div>
+
+    <script>
+        const { createApp } = Vue
+
+        createApp({
+            data() {
+                return {
+                    contests: [],
+                    selectedPlatform: 'all',
+                    platforms: ['all', 'Codeforces', 'LeetCode', 'NowCoder', 'luogu', 'AtCoder'],
+                    updateTime: '',
+                    theme: localStorage.getItem('theme') || 'light'
+                }
+            },
+            created() {
+                document.documentElement.setAttribute('data-theme', this.theme);
+            },
+            computed: {
+                filteredContests() {
+                    if (this.selectedPlatform === 'all') {
+                        return this.contests.sort((a, b) => new Date(b.start_time) - new Date(a.start_time))
+                    }
+                    return this.contests.filter(contest =>
+                        contest.platform === this.selectedPlatform
+                    ).sort((a, b) => new Date(b.start_time) - new Date(a.start_time))
+                },
+                
+            },
+            mounted() {
+                this.fetchContests()
+            },
+            methods: {
+                copyContestInfo(contest) {
+                    const text = `${contest.name}\n开始时间：${contest.start_time}\n平台：${contest.platform}\n\n© 2025 canjisam. All rights reserved.`;
+                    navigator.clipboard.writeText(text)
+                        .then(() => alert('已复制比赛信息并添加版权声明'))
+                        .catch(err => console.error('复制失败:', err));
+                },
+                toggleTheme() {
+                    this.theme = this.theme === 'light' ? 'dark' : 'light';
+                    document.documentElement.setAttribute('data-theme', this.theme);
+                    localStorage.setItem('theme', this.theme);
+                },
+                async fetchContests() {
+                    try {
+                        const response = await fetch('contests.json')
+                        const data = await response.json()
+                        const today = new Date()
+                        today.setHours(0, 0, 0, 0) // 将时间设置为今天凌晨
+                        
+                        // 筛选今天之后的比赛
+                        this.contests = data.contests.filter(contest => {
+                            const contestDate = new Date(contest.start_time)
+                            return contestDate >= today
+                        })
+                        
+                        this.updateTime = new Date().toLocaleString('zh-CN')
+                    } catch (error) {
+                        console.error('Error fetching contests:', error)
+                    }
+                }
+            }
+        }).mount('#app')
+    </script>
+    <footer class="footer">
+        <p>© 2025 canjisam. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
