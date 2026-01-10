@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10 18:44:44",
+  "last_updated": "2026-01-10 19:39:00",
   "contests": [
     {
       "platform": "AtCoder",
@@ -42,6 +42,20 @@
       "start_time": "2026-01-18 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/126798?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-259-Div.1】洛谷 1 月月赛 III",
+      "start_time": "2026-01-18 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/302392"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-259-Div.2】洛谷 1 月月赛 III",
+      "start_time": "2026-01-18 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/302393"
     },
     {
       "platform": "LeetCode",
@@ -196,20 +210,6 @@
       "start_time": "2025-12-28 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-482"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "ICPC 2025 Online Winter Challenge powered by Huawei",
-      "start_time": "2025-12-26 19:00:00",
-      "duration": "384小时0分钟",
-      "url": "https://codeforces.com/contest/2177"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-259-Div.4】洛谷入门赛 #42",
-      "start_time": "2025-12-26 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/298165"
     }
   ]
 }
