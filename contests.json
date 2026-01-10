@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10 22:43:21",
+  "last_updated": "2026-01-10 23:41:16",
   "contests": [
     {
       "platform": "AtCoder",
@@ -45,14 +45,14 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-259-Div.1】洛谷 1 月月赛 III",
+      "name": "【LGR-261-Div.1】洛谷 1 月月赛 III",
       "start_time": "2026-01-18 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/302392"
     },
     {
       "platform": "luogu",
-      "name": "【LGR-259-Div.2】洛谷 1 月月赛 III",
+      "name": "【LGR-261-Div.2】洛谷 1 月月赛 III",
       "start_time": "2026-01-18 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/302393"
