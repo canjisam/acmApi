@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11 23:41:45",
+  "last_updated": "2026-01-12 00:48:01",
   "contests": [
     {
       "platform": "AtCoder",
@@ -84,6 +84,13 @@
       "start_time": "2026-01-17 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/298257"
+    },
+    {
+      "platform": "luogu",
+      "name": "『LHB-OI』Round 1",
+      "start_time": "2026-01-17 08:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/302723"
     },
     {
       "platform": "NowCoder",
