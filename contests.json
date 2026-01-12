@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12 15:00:33",
+  "last_updated": "2026-01-12 15:47:31",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2026-01-31 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc443"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 486",
+      "start_time": "2026-01-25 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-486"
     },
     {
       "platform": "AtCoder",
