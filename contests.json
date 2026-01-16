@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-16 13:48:57",
+  "last_updated": "2026-01-16 14:56:45",
   "contests": [
     {
       "platform": "AtCoder",
@@ -231,13 +231,6 @@
       "start_time": "2026-01-02 13:30:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/261472"
-    },
-    {
-      "platform": "luogu",
-      "name": "GenshinOI Round 6",
-      "start_time": "2026-01-01 14:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/261469"
     }
   ]
 }
