@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-16 21:55:15",
+  "last_updated": "2026-01-16 22:50:13",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2026-02-01 18:00:00",
       "duration": "4小时0分钟",
       "url": "https://atcoder.jp/contests/ahc060"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Biweekly Contest 175",
+      "start_time": "2026-01-31 22:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/biweekly-contest-175"
     },
     {
       "platform": "AtCoder",
