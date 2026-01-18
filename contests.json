@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-18 12:28:43",
+  "last_updated": "2026-01-18 12:58:57",
   "contests": [
     {
       "platform": "AtCoder",
@@ -35,6 +35,13 @@
       "start_time": "2026-01-31 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc443"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-263-Div.4】洛谷入门赛 #43 · 洛谷 2026",
+      "start_time": "2026-01-30 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/304401"
     },
     {
       "platform": "Codeforces",
@@ -101,17 +108,17 @@
     },
     {
       "platform": "luogu",
-      "name": "【LGR-262-Div.1】洛谷 1 月月赛 III",
-      "start_time": "2026-01-18 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/302392"
-    },
-    {
-      "platform": "luogu",
       "name": "【LGR-262-Div.2】洛谷 1 月月赛 III",
       "start_time": "2026-01-18 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/302393"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-262-Div.1】洛谷 1 月月赛 III",
+      "start_time": "2026-01-18 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/302392"
     },
     {
       "platform": "LeetCode",
