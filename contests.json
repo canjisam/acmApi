@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-18 21:46:02",
+  "last_updated": "2026-01-18 22:42:29",
   "contests": [
     {
       "platform": "AtCoder",
@@ -203,13 +203,6 @@
       "start_time": "2026-01-04 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-483"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Biweekly Contest 173",
-      "start_time": "2026-01-03 22:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/biweekly-contest-173"
     }
   ]
 }
