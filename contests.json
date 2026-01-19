@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-01-19 07:41:18",
+  "last_updated": "2026-01-19 10:38:55",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Beginner Contest 445",
+      "start_time": "2026-02-14 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc445"
+    },
     {
       "platform": "AtCoder",
       "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
@@ -196,13 +203,6 @@
       "start_time": "2026-01-04 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/126319?from=acm_calendar"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Weekly Contest 483",
-      "start_time": "2026-01-04 10:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/weekly-contest-483"
     }
   ]
 }
