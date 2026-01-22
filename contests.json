@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-22 18:54:27",
+  "last_updated": "2026-01-22 19:45:21",
   "contests": [
     {
       "platform": "AtCoder",
@@ -91,6 +91,13 @@
       "start_time": "2026-01-25 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/127240?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "chaynOI Round 2",
+      "start_time": "2026-01-25 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/259953"
     },
     {
       "platform": "LeetCode",
