@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-25 19:40:09",
+  "last_updated": "2026-01-25 21:09:45",
   "contests": [
     {
       "platform": "AtCoder",
@@ -119,13 +119,6 @@
       "start_time": "2026-01-25 22:35:00",
       "duration": "2小时15分钟",
       "url": "https://codeforces.com/contest/2193"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Regular Contest 213 (Div. 1)",
-      "start_time": "2026-01-25 20:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://atcoder.jp/contests/arc213"
     },
     {
       "platform": "NowCoder",
