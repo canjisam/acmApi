@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-25 13:50:16",
+  "last_updated": "2026-01-25 14:55:21",
   "contests": [
     {
       "platform": "AtCoder",
@@ -238,13 +238,6 @@
       "start_time": "2026-01-11 08:30:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/292354"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-258-Div.2】洛谷 1 月月赛 II & KWOI Round 1",
-      "start_time": "2026-01-10 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/280819"
     }
   ]
 }
