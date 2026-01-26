@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-26 18:52:43",
+  "last_updated": "2026-01-26 19:43:12",
   "contests": [
     {
       "platform": "AtCoder",
@@ -210,13 +210,6 @@
       "start_time": "2026-01-16 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/126634?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 126",
-      "start_time": "2026-01-11 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/126636?from=acm_calendar"
     }
   ]
 }
