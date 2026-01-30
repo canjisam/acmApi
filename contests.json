@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-01-30 11:11:52",
+  "last_updated": "2026-01-30 12:54:51",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "The 3rd Masters Championship-qual-",
+      "start_time": "2026-03-01 12:00:00",
+      "duration": "6小时0分钟",
+      "url": "https://atcoder.jp/contests/masters2026-qual"
+    },
     {
       "platform": "AtCoder",
       "name": "AtCoder Beginner Contest 446",
@@ -100,6 +107,13 @@
       "url": "https://atcoder.jp/contests/abc443"
     },
     {
+      "platform": "luogu",
+      "name": "COCI 2025/2026 #4 Unofficial Mirror",
+      "start_time": "2026-01-31 15:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/305806"
+    },
+    {
       "platform": "NowCoder",
       "name": "牛客小白月赛128",
       "start_time": "2026-01-30 19:00:00",
@@ -112,13 +126,6 @@
       "start_time": "2026-01-30 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://www.luogu.com.cn/contest/304401"
-    },
-    {
-      "platform": "luogu",
-      "name": "COCI 2025/2026 #4 Unofficial Mirror",
-      "start_time": "2026-01-30 15:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/305806"
     },
     {
       "platform": "luogu",
