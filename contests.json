@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31 11:06:05",
+  "last_updated": "2026-01-31 12:47:53",
   "contests": [
     {
       "platform": "AtCoder",
@@ -100,6 +100,13 @@
       "url": "https://atcoder.jp/contests/ahc060"
     },
     {
+      "platform": "luogu",
+      "name": "COCI 2025/2026 #4 Unofficial Mirror",
+      "start_time": "2026-02-01 15:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/305806"
+    },
+    {
       "platform": "LeetCode",
       "name": "Weekly Contest 487",
       "start_time": "2026-02-01 10:30:00",
@@ -119,13 +126,6 @@
       "start_time": "2026-01-31 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc443"
-    },
-    {
-      "platform": "luogu",
-      "name": "COCI 2025/2026 #4 Unofficial Mirror",
-      "start_time": "2026-01-31 15:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/305806"
     },
     {
       "platform": "NowCoder",
