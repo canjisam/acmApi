@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31 23:47:12",
+  "last_updated": "2026-02-01 00:54:11",
   "contests": [
     {
       "platform": "AtCoder",
@@ -23,6 +23,13 @@
       "url": "https://codeforces.com/contest/2195"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 131",
+      "start_time": "2026-02-15 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/127703?from=acm_calendar"
+    },
+    {
       "platform": "LeetCode",
       "name": "Biweekly Contest 176",
       "start_time": "2026-02-14 22:30:00",
@@ -37,11 +44,25 @@
       "url": "https://atcoder.jp/contests/abc445"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客2026年情人节比赛",
+      "start_time": "2026-02-14 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/127094?from=acm_calendar"
+    },
+    {
       "platform": "AtCoder",
       "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
       "start_time": "2026-02-13 18:00:00",
       "duration": "240小时0分钟",
       "url": "https://atcoder.jp/contests/ahc061"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2026牛客寒假算法基础集训营6",
+      "start_time": "2026-02-13 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/120566?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -65,11 +86,32 @@
       "url": "https://codeforces.com/contest/2197"
     },
     {
+      "platform": "NowCoder",
+      "name": "2026牛客寒假算法基础集训营5",
+      "start_time": "2026-02-11 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/120565?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2026牛客寒假算法基础集训营4",
+      "start_time": "2026-02-09 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/120564?from=acm_calendar"
+    },
+    {
       "platform": "AtCoder",
       "name": "AtCoder Regular Contest 214",
       "start_time": "2026-02-08 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc214"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 130",
+      "start_time": "2026-02-08 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/127702?from=acm_calendar"
     },
     {
       "platform": "Codeforces",
@@ -100,6 +142,34 @@
       "url": "https://atcoder.jp/contests/abc444"
     },
     {
+      "platform": "NowCoder",
+      "name": "2026牛客寒假算法基础集训营3",
+      "start_time": "2026-02-07 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/120563?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2026牛客寒假算法基础集训营2",
+      "start_time": "2026-02-05 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/120562?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "2026牛客寒假算法基础集训营1",
+      "start_time": "2026-02-03 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/120561?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 129",
+      "start_time": "2026-02-01 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/127264?from=acm_calendar"
+    },
+    {
       "platform": "AtCoder",
       "name": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
       "start_time": "2026-02-01 18:00:00",
@@ -128,13 +198,6 @@
       "url": "https://leetcode.com/contest/biweekly-contest-175"
     },
     {
-      "platform": "NowCoder",
-      "name": "牛客小白月赛128",
-      "start_time": "2026-01-30 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/127265?from=acm_calendar"
-    },
-    {
       "platform": "luogu",
       "name": "【LGR-263-Div.4】洛谷入门赛 #43",
       "start_time": "2026-01-30 19:00:00",
@@ -154,13 +217,6 @@
       "start_time": "2026-01-26 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/305336"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 128",
-      "start_time": "2026-01-25 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/127240?from=acm_calendar"
     },
     {
       "platform": "luogu",
@@ -189,20 +245,6 @@
       "start_time": "2026-01-24 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/266133"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客练习赛148",
-      "start_time": "2026-01-23 19:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/127263?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 127",
-      "start_time": "2026-01-18 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/126798?from=acm_calendar"
     },
     {
       "platform": "luogu",
