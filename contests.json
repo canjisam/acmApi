@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01 19:44:27",
+  "last_updated": "2026-02-01 21:25:14",
   "contests": [
     {
       "platform": "AtCoder",
@@ -119,6 +119,13 @@
       "start_time": "2026-02-08 17:05:00",
       "duration": "2小时0分钟",
       "url": "https://codeforces.com/contest/2194"
+    },
+    {
+      "platform": "luogu",
+      "name": "「CROI」Round 3",
+      "start_time": "2026-02-08 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/236252"
     },
     {
       "platform": "LeetCode",
