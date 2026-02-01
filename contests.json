@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01 13:43:39",
+  "last_updated": "2026-02-01 15:11:14",
   "contests": [
     {
       "platform": "AtCoder",
@@ -156,6 +156,13 @@
       "url": "https://ac.nowcoder.com/acm/contest/120562?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "COCI 2025/2026 #4 Unofficial Mirror",
+      "start_time": "2026-02-03 15:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/305806"
+    },
+    {
       "platform": "NowCoder",
       "name": "2026牛客寒假算法基础集训营1",
       "start_time": "2026-02-03 14:00:00",
@@ -175,13 +182,6 @@
       "start_time": "2026-02-01 18:00:00",
       "duration": "4小时0分钟",
       "url": "https://atcoder.jp/contests/ahc060"
-    },
-    {
-      "platform": "luogu",
-      "name": "COCI 2025/2026 #4 Unofficial Mirror",
-      "start_time": "2026-02-01 15:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/305806"
     },
     {
       "platform": "LeetCode",
@@ -273,13 +273,6 @@
       "start_time": "2026-01-17 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-174"
-    },
-    {
-      "platform": "luogu",
-      "name": "『GTOI』Round 2",
-      "start_time": "2026-01-17 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/298257"
     }
   ]
 }
