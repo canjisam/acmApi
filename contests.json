@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01 17:53:10",
+  "last_updated": "2026-02-01 18:53:30",
   "contests": [
     {
       "platform": "AtCoder",
@@ -175,13 +175,6 @@
       "start_time": "2026-02-01 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/127264?from=acm_calendar"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
-      "start_time": "2026-02-01 18:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc060"
     },
     {
       "platform": "LeetCode",
