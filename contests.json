@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02 13:12:28",
+  "last_updated": "2026-02-02 14:38:19",
   "contests": [
     {
       "platform": "AtCoder",
@@ -7,6 +7,13 @@
       "start_time": "2026-03-01 12:00:00",
       "duration": "6小时0分钟",
       "url": "https://atcoder.jp/contests/masters2026-qual"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Beginner Contest 447",
+      "start_time": "2026-02-28 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc447"
     },
     {
       "platform": "AtCoder",
@@ -252,20 +259,6 @@
       "start_time": "2026-01-24 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/266133"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-262-Div.2】洛谷 1 月月赛 III",
-      "start_time": "2026-01-18 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/302393"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-262-Div.1】洛谷 1 月月赛 III",
-      "start_time": "2026-01-18 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/302392"
     }
   ]
 }
