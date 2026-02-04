@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04 15:27:28",
+  "last_updated": "2026-02-04 16:02:42",
   "contests": [
     {
       "platform": "AtCoder",
@@ -35,6 +35,13 @@
       "start_time": "2026-02-16 23:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/127676?from=acm_calendar"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 3)",
+      "start_time": "2026-02-15 22:35:00",
+      "duration": "2小时15分钟",
+      "url": "https://codeforces.com/contest/2195"
     },
     {
       "platform": "NowCoder",
@@ -86,6 +93,20 @@
       "url": "https://www.luogu.com.cn/contest/273960"
     },
     {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 1)",
+      "start_time": "2026-02-11 22:35:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2196"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start_time": "2026-02-11 22:35:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2197"
+    },
+    {
       "platform": "NowCoder",
       "name": "2026牛客寒假算法基础集训营5",
       "start_time": "2026-02-11 14:00:00",
@@ -98,6 +119,13 @@
       "start_time": "2026-02-11 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/282947"
+    },
+    {
+      "platform": "luogu",
+      "name": "NOSOI Round 1",
+      "start_time": "2026-02-10 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/303869"
     },
     {
       "platform": "NowCoder",
@@ -119,6 +147,13 @@
       "start_time": "2026-02-08 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/127702?from=acm_calendar"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start_time": "2026-02-08 17:05:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2194"
     },
     {
       "platform": "luogu",
