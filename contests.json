@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04 07:52:10",
+  "last_updated": "2026-02-04 11:14:50",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2026-02-21 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc446"
+    },
+    {
+      "platform": "luogu",
+      "name": "FeSo4OI Long Round #1 春节欢乐赛",
+      "start_time": "2026-02-19 08:00:00",
+      "duration": "60小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/305706"
     },
     {
       "platform": "NowCoder",
