@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06 21:41:01",
+  "last_updated": "2026-02-06 23:08:27",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2026-02-22 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc215"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Kotlin Heroes: Practice 14",
+      "start_time": "2026-02-21 22:30:00",
+      "duration": "216小时0分钟",
+      "url": "https://codeforces.com/contest/2198"
     },
     {
       "platform": "AtCoder",
