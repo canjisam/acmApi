@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06 14:12:09",
+  "last_updated": "2026-02-06 15:28:21",
   "contests": [
     {
       "platform": "AtCoder",
@@ -203,13 +203,6 @@
       "start_time": "2026-02-07 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/274734"
-    },
-    {
-      "platform": "luogu",
-      "name": "COCI 2025/2026 #4 Unofficial Mirror",
-      "start_time": "2026-02-06 15:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/305806"
     },
     {
       "platform": "NowCoder",
