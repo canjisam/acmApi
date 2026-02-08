@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08 16:57:21",
+  "last_updated": "2026-02-08 17:52:59",
   "contests": [
     {
       "platform": "AtCoder",
@@ -287,13 +287,6 @@
       "start_time": "2026-01-25 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-486"
-    },
-    {
-      "platform": "luogu",
-      "name": "洛谷 2025 年度试题推荐选集",
-      "start_time": "2026-01-24 17:00:00",
-      "duration": "264小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/305403"
     }
   ]
 }
