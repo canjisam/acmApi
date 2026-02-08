@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08 13:46:28",
+  "last_updated": "2026-02-08 15:13:23",
   "contests": [
     {
       "platform": "AtCoder",
@@ -294,13 +294,6 @@
       "start_time": "2026-01-24 17:00:00",
       "duration": "264小时0分钟",
       "url": "https://www.luogu.com.cn/contest/305403"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-261-Div.2】洛谷 1 月月赛 Ⅳ & WAOI Round 9",
-      "start_time": "2026-01-24 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/266133"
     }
   ]
 }
