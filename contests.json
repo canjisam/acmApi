@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08 19:45:31",
+  "last_updated": "2026-02-08 21:26:32",
   "contests": [
     {
       "platform": "AtCoder",
@@ -210,13 +210,6 @@
       "start_time": "2026-02-09 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/120564?from=acm_calendar"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Regular Contest 214",
-      "start_time": "2026-02-08 20:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://atcoder.jp/contests/arc214"
     },
     {
       "platform": "NowCoder",
