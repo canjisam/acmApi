@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08 17:52:59",
+  "last_updated": "2026-02-08 18:54:48",
   "contests": [
     {
       "platform": "AtCoder",
@@ -101,6 +101,13 @@
     },
     {
       "platform": "AtCoder",
+      "name": "AtCoder Weekday Contest 005 Beta",
+      "start_time": "2026-02-13 19:00:00",
+      "duration": "1小时30分钟",
+      "url": "https://atcoder.jp/contests/awc005"
+    },
+    {
+      "platform": "AtCoder",
       "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
       "start_time": "2026-02-13 18:00:00",
       "duration": "240小时0分钟",
@@ -112,6 +119,13 @@
       "start_time": "2026-02-13 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/120566?from=acm_calendar"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Weekday Contest 004 Beta",
+      "start_time": "2026-02-12 19:00:00",
+      "duration": "1小时30分钟",
+      "url": "https://atcoder.jp/contests/awc004"
     },
     {
       "platform": "luogu",
@@ -135,6 +149,13 @@
       "url": "https://codeforces.com/contest/2197"
     },
     {
+      "platform": "AtCoder",
+      "name": "AtCoder Weekday Contest 003 Beta",
+      "start_time": "2026-02-11 19:00:00",
+      "duration": "1小时30分钟",
+      "url": "https://atcoder.jp/contests/awc003"
+    },
+    {
       "platform": "NowCoder",
       "name": "2026牛客寒假算法基础集训营5",
       "start_time": "2026-02-11 14:00:00",
@@ -149,11 +170,25 @@
       "url": "https://www.luogu.com.cn/contest/282947"
     },
     {
+      "platform": "AtCoder",
+      "name": "AtCoder Weekday Contest 002 Beta",
+      "start_time": "2026-02-10 19:00:00",
+      "duration": "1小时30分钟",
+      "url": "https://atcoder.jp/contests/awc002"
+    },
+    {
       "platform": "luogu",
       "name": "NOSOI Round 1",
       "start_time": "2026-02-10 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/303869"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Weekday Contest 001 Beta",
+      "start_time": "2026-02-09 19:00:00",
+      "duration": "1小时30分钟",
+      "url": "https://atcoder.jp/contests/awc001"
     },
     {
       "platform": "NowCoder",
