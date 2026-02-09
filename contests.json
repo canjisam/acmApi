@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09 23:30:41",
+  "last_updated": "2026-02-10 01:27:17",
   "contests": [
     {
       "platform": "AtCoder",
@@ -112,6 +112,13 @@
       "start_time": "2026-02-14 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/127094?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X24】梦熊 X 组 · RiOI-7（同步赛）",
+      "start_time": "2026-02-14 14:00:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/309581"
     },
     {
       "platform": "luogu",
