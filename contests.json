@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-02-09 11:26:38",
+  "last_updated": "2026-02-09 13:16:50",
   "contests": [
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Beginner Contest 448",
+      "start_time": "2026-03-07 20:00:00",
+      "duration": "1小时40分钟",
+      "url": "https://atcoder.jp/contests/abc448"
+    },
     {
       "platform": "AtCoder",
       "name": "The 3rd Masters Championship-qual-",
