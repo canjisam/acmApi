@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09 13:16:50",
+  "last_updated": "2026-02-09 14:41:46",
   "contests": [
     {
       "platform": "AtCoder",
@@ -122,10 +122,10 @@
     },
     {
       "platform": "AtCoder",
-      "name": "AtCoder Weekday Contest 005 Beta",
+      "name": "AtCoder Weekday Contest 0005 Beta",
       "start_time": "2026-02-13 19:00:00",
       "duration": "1小时30分钟",
-      "url": "https://atcoder.jp/contests/awc005"
+      "url": "https://atcoder.jp/contests/awc0005"
     },
     {
       "platform": "AtCoder",
@@ -143,10 +143,10 @@
     },
     {
       "platform": "AtCoder",
-      "name": "AtCoder Weekday Contest 004 Beta",
+      "name": "AtCoder Weekday Contest 0004 Beta",
       "start_time": "2026-02-12 19:00:00",
       "duration": "1小时30分钟",
-      "url": "https://atcoder.jp/contests/awc004"
+      "url": "https://atcoder.jp/contests/awc0004"
     },
     {
       "platform": "luogu",
@@ -171,10 +171,10 @@
     },
     {
       "platform": "AtCoder",
-      "name": "AtCoder Weekday Contest 003 Beta",
+      "name": "AtCoder Weekday Contest 0003 Beta",
       "start_time": "2026-02-11 19:00:00",
       "duration": "1小时30分钟",
-      "url": "https://atcoder.jp/contests/awc003"
+      "url": "https://atcoder.jp/contests/awc0003"
     },
     {
       "platform": "NowCoder",
@@ -192,10 +192,10 @@
     },
     {
       "platform": "AtCoder",
-      "name": "AtCoder Weekday Contest 002 Beta",
+      "name": "AtCoder Weekday Contest 0002 Beta",
       "start_time": "2026-02-10 19:00:00",
       "duration": "1小时30分钟",
-      "url": "https://atcoder.jp/contests/awc002"
+      "url": "https://atcoder.jp/contests/awc0002"
     },
     {
       "platform": "luogu",
@@ -206,10 +206,10 @@
     },
     {
       "platform": "AtCoder",
-      "name": "AtCoder Weekday Contest 001 Beta",
+      "name": "AtCoder Weekday Contest 0001 Beta",
       "start_time": "2026-02-09 19:00:00",
       "duration": "1小时30分钟",
-      "url": "https://atcoder.jp/contests/awc001"
+      "url": "https://atcoder.jp/contests/awc0001"
     },
     {
       "platform": "NowCoder",
@@ -315,13 +315,6 @@
       "start_time": "2026-01-26 13:00:00",
       "duration": "5小时0分钟",
       "url": "https://www.luogu.com.cn/contest/305336"
-    },
-    {
-      "platform": "luogu",
-      "name": "chaynOI Round 2",
-      "start_time": "2026-01-25 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/259953"
     }
   ]
 }
