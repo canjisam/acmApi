@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10 13:56:11",
+  "last_updated": "2026-02-10 15:38:31",
   "contests": [
     {
       "platform": "AtCoder",
@@ -42,6 +42,13 @@
       "start_time": "2026-02-22 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc215"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 490",
+      "start_time": "2026-02-22 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-490"
     },
     {
       "platform": "Codeforces",
