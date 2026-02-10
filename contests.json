@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10 11:39:11",
+  "last_updated": "2026-02-10 13:56:11",
   "contests": [
     {
       "platform": "AtCoder",
@@ -308,13 +308,6 @@
       "start_time": "2026-01-29 18:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/304744"
-    },
-    {
-      "platform": "luogu",
-      "name": "[ICPC2024 Chengdu R] ICPC 2024 区域赛成都站重现赛",
-      "start_time": "2026-01-26 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/305336"
     }
   ]
 }
