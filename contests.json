@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11 08:02:11",
+  "last_updated": "2026-02-11 11:35:02",
   "contests": [
     {
       "platform": "AtCoder",
@@ -79,6 +79,13 @@
       "url": "https://ac.nowcoder.com/acm/contest/127676?from=acm_calendar"
     },
     {
+      "platform": "luogu",
+      "name": "【LGR-271-Div.3】洛谷基础赛 #31 &「WYZOI」中国新年跨年赛 2025→2026",
+      "start_time": "2026-02-16 20:30:00",
+      "duration": "3小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/300994"
+    },
+    {
       "platform": "Codeforces",
       "name": "Codeforces Round 1080 (Div. 3)",
       "start_time": "2026-02-15 22:35:00",
@@ -122,7 +129,7 @@
     },
     {
       "platform": "luogu",
-      "name": "【MX-X24】梦熊 X 组 · RiOI Round 7（同步赛）",
+      "name": "【MX-X24】梦熊 X 组 · 二重身赛 & RiOI Round 7（同步赛）",
       "start_time": "2026-02-14 14:00:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/309581"
