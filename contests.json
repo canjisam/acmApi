@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12 18:12:01",
+  "last_updated": "2026-02-12 19:12:34",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2026-02-28 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc447"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客小白月赛129",
+      "start_time": "2026-02-27 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/128675?from=acm_calendar"
     },
     {
       "platform": "Codeforces",
@@ -189,13 +196,6 @@
       "start_time": "2026-02-13 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/120566?from=acm_calendar"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Weekday Contest 0004 Beta",
-      "start_time": "2026-02-12 19:00:00",
-      "duration": "1小时30分钟",
-      "url": "https://atcoder.jp/contests/awc0004"
     },
     {
       "platform": "luogu",
