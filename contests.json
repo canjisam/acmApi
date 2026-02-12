@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12 07:53:09",
+  "last_updated": "2026-02-12 11:27:31",
   "contests": [
     {
       "platform": "AtCoder",
@@ -42,6 +42,13 @@
       "start_time": "2026-02-22 20:00:00",
       "duration": "2小时0分钟",
       "url": "https://atcoder.jp/contests/arc215"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 132",
+      "start_time": "2026-02-22 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/128672?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
