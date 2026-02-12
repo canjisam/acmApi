@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12 11:27:31",
+  "last_updated": "2026-02-12 13:14:23",
   "contests": [
     {
       "platform": "AtCoder",
@@ -119,6 +119,13 @@
       "start_time": "2026-02-15 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/127703?from=acm_calendar"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "Whalica Cup (Round 2)",
+      "start_time": "2026-02-15 13:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/128674?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
