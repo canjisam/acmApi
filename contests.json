@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13 17:10:23",
+  "last_updated": "2026-02-13 18:07:50",
   "contests": [
     {
       "platform": "AtCoder",
@@ -226,13 +226,6 @@
       "url": "https://atcoder.jp/contests/awc0005"
     },
     {
-      "platform": "AtCoder",
-      "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
-      "start_time": "2026-02-13 18:00:00",
-      "duration": "240小时0分钟",
-      "url": "https://atcoder.jp/contests/ahc061"
-    },
-    {
       "platform": "NowCoder",
       "name": "2026牛客寒假算法基础集训营6",
       "start_time": "2026-02-13 14:00:00",
@@ -357,13 +350,6 @@
       "start_time": "2026-01-30 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://www.luogu.com.cn/contest/304401"
-    },
-    {
-      "platform": "luogu",
-      "name": "嘟嘟哒哒大作战",
-      "start_time": "2026-01-29 18:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/304744"
     }
   ]
 }
