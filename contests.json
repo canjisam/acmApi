@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13 11:27:22",
+  "last_updated": "2026-02-13 13:10:05",
   "contests": [
     {
       "platform": "AtCoder",
@@ -93,11 +93,32 @@
       "url": "https://www.luogu.com.cn/contest/299754"
     },
     {
+      "platform": "AtCoder",
+      "name": "AtCoder Weekday Contest 0009 Beta",
+      "start_time": "2026-02-19 19:00:00",
+      "duration": "1小时0分钟",
+      "url": "https://atcoder.jp/contests/awc0009"
+    },
+    {
       "platform": "luogu",
       "name": "FeSo4OI Long Round #1 春节欢乐赛",
       "start_time": "2026-02-19 08:00:00",
       "duration": "60小时0分钟",
       "url": "https://www.luogu.com.cn/contest/305706"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Weekday Contest 0008 Beta",
+      "start_time": "2026-02-18 19:00:00",
+      "duration": "1小时0分钟",
+      "url": "https://atcoder.jp/contests/awc0008"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Weekday Contest 0007 Beta",
+      "start_time": "2026-02-17 19:00:00",
+      "duration": "1小时0分钟",
+      "url": "https://atcoder.jp/contests/awc0007"
     },
     {
       "platform": "NowCoder",
@@ -112,6 +133,13 @@
       "start_time": "2026-02-16 20:30:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/300994"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Weekday Contest 0006 Beta",
+      "start_time": "2026-02-16 19:00:00",
+      "duration": "1小时0分钟",
+      "url": "https://atcoder.jp/contests/awc0006"
     },
     {
       "platform": "luogu",
