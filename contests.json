@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13 14:35:10",
+  "last_updated": "2026-02-13 16:03:42",
   "contests": [
     {
       "platform": "AtCoder",
@@ -91,6 +91,13 @@
       "start_time": "2026-02-21 14:00:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/299754"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Weekday Contest 0010 Beta",
+      "start_time": "2026-02-20 19:00:00",
+      "duration": "1小时0分钟",
+      "url": "https://atcoder.jp/contests/awc0010"
     },
     {
       "platform": "AtCoder",
