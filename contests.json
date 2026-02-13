@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13 19:54:35",
+  "last_updated": "2026-02-13 21:42:13",
   "contests": [
     {
       "platform": "AtCoder",
@@ -171,7 +171,7 @@
     },
     {
       "platform": "luogu",
-      "name": "RedStone OI Round 1 & 巨额奖金赛",
+      "name": "RedStone OI Round 1 & 送钱赛",
       "start_time": "2026-02-15 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/222594"
