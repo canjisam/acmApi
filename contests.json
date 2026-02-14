@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14 12:55:45",
+  "last_updated": "2026-02-14 14:05:10",
   "contests": [
     {
       "platform": "AtCoder",
@@ -184,18 +184,18 @@
       "url": "https://ac.nowcoder.com/acm/contest/127703?from=acm_calendar"
     },
     {
+      "platform": "NowCoder",
+      "name": "Whalica Cup (Round 2)",
+      "start_time": "2026-02-15 14:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/128674?from=acm_calendar"
+    },
+    {
       "platform": "luogu",
       "name": "RedStone OI Round 1 & 送钱赛",
       "start_time": "2026-02-15 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/222594"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "Whalica Cup (Round 2)",
-      "start_time": "2026-02-15 13:00:00",
-      "duration": "3小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/128674?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
