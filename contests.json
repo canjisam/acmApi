@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14 11:13:10",
+  "last_updated": "2026-02-14 12:55:45",
   "contests": [
     {
       "platform": "AtCoder",
@@ -70,6 +70,13 @@
       "start_time": "2026-02-22 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/128672?from=acm_calendar"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-268-Div.2】洛谷 2 月月赛 IV & TBOI Round 1",
+      "start_time": "2026-02-22 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/251331"
     },
     {
       "platform": "LeetCode",
