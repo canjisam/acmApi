@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14 22:53:05",
+  "last_updated": "2026-02-14 23:49:17",
   "contests": [
     {
       "platform": "AtCoder",
@@ -161,6 +161,13 @@
       "start_time": "2026-02-16 19:00:00",
       "duration": "1小时0分钟",
       "url": "https://atcoder.jp/contests/awc0006"
+    },
+    {
+      "platform": "luogu",
+      "name": "「LCOI」Round 2 & 除夕赛",
+      "start_time": "2026-02-16 14:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/308153"
     },
     {
       "platform": "Codeforces",
