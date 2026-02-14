@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14 19:45:54",
+  "last_updated": "2026-02-14 21:25:43",
   "contests": [
     {
       "platform": "AtCoder",
@@ -163,13 +163,6 @@
       "url": "https://atcoder.jp/contests/awc0006"
     },
     {
-      "platform": "luogu",
-      "name": "「LCOI」Round 2 & 除夕赛",
-      "start_time": "2026-02-16 14:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/308153"
-    },
-    {
       "platform": "Codeforces",
       "name": "Codeforces Round 1080 (Div. 3)",
       "start_time": "2026-02-15 22:35:00",
@@ -210,13 +203,6 @@
       "start_time": "2026-02-14 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-176"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Beginner Contest 445",
-      "start_time": "2026-02-14 20:00:00",
-      "duration": "1小时40分钟",
-      "url": "https://atcoder.jp/contests/abc445"
     },
     {
       "platform": "NowCoder",
