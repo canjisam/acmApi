@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16 18:29:27",
+  "last_updated": "2026-02-16 19:23:25",
   "contests": [
     {
       "platform": "AtCoder",
@@ -198,13 +198,6 @@
       "url": "https://www.luogu.com.cn/contest/300994"
     },
     {
-      "platform": "AtCoder",
-      "name": "AtCoder Weekday Contest 0006 Beta",
-      "start_time": "2026-02-16 19:00:00",
-      "duration": "1小时0分钟",
-      "url": "https://atcoder.jp/contests/awc0006"
-    },
-    {
       "platform": "luogu",
       "name": "「LCOI」Round 2 & 除夕赛",
       "start_time": "2026-02-16 14:00:00",
@@ -364,13 +357,6 @@
       "start_time": "2026-02-03 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/120561?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 129",
-      "start_time": "2026-02-01 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/127264?from=acm_calendar"
     }
   ]
 }
