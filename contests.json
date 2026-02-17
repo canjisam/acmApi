@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17 18:12:20",
+  "last_updated": "2026-02-17 19:12:14",
   "contests": [
     {
       "platform": "AtCoder",
@@ -175,13 +175,6 @@
       "start_time": "2026-02-18 19:00:00",
       "duration": "1小时0分钟",
       "url": "https://atcoder.jp/contests/awc0008"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Weekday Contest 0007 Beta",
-      "start_time": "2026-02-17 19:00:00",
-      "duration": "1小时0分钟",
-      "url": "https://atcoder.jp/contests/awc0007"
     },
     {
       "platform": "NowCoder",
