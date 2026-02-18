@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18 18:10:44",
+  "last_updated": "2026-02-18 19:12:08",
   "contests": [
     {
       "platform": "AtCoder",
@@ -72,25 +72,32 @@
       "url": "https://ac.nowcoder.com/acm/contest/128675?from=acm_calendar"
     },
     {
-      "platform": "luogu",
-      "name": "Construction Masters：yrOI R1",
-      "start_time": "2026-02-23 14:30:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/305992"
+      "platform": "Codeforces",
+      "name": "Educational Codeforces Round 187 (Rated for Div. 2)",
+      "start_time": "2026-02-24 22:35:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2203"
     },
     {
       "platform": "Codeforces",
       "name": "Codeforces Round (Div. 1)",
-      "start_time": "2026-02-22 22:35:00",
+      "start_time": "2026-02-23 22:35:00",
       "duration": "3小时0分钟",
       "url": "https://codeforces.com/contest/2201"
     },
     {
       "platform": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
-      "start_time": "2026-02-22 22:35:00",
+      "start_time": "2026-02-23 22:35:00",
       "duration": "3小时0分钟",
       "url": "https://codeforces.com/contest/2202"
+    },
+    {
+      "platform": "luogu",
+      "name": "Construction Masters：yrOI R1",
+      "start_time": "2026-02-23 14:30:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/305992"
     },
     {
       "platform": "AtCoder",
@@ -168,13 +175,6 @@
       "start_time": "2026-02-19 08:00:00",
       "duration": "60小时0分钟",
       "url": "https://www.luogu.com.cn/contest/305706"
-    },
-    {
-      "platform": "AtCoder",
-      "name": "AtCoder Weekday Contest 0008 Beta",
-      "start_time": "2026-02-18 19:00:00",
-      "duration": "1小时0分钟",
-      "url": "https://atcoder.jp/contests/awc0008"
     },
     {
       "platform": "NowCoder",
