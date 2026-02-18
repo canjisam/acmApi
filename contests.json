@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18 13:10:28",
+  "last_updated": "2026-02-18 14:38:29",
   "contests": [
     {
       "platform": "AtCoder",
@@ -343,13 +343,6 @@
       "start_time": "2026-02-05 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/120562?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2026牛客寒假算法基础集训营1",
-      "start_time": "2026-02-03 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/120561?from=acm_calendar"
     }
   ]
 }
