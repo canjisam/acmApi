@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19 07:53:16",
+  "last_updated": "2026-02-19 11:21:39",
   "contests": [
     {
       "platform": "AtCoder",
@@ -28,6 +28,20 @@
       "start_time": "2026-03-02 22:35:00",
       "duration": "2小时30分钟",
       "url": "https://codeforces.com/contest/2199"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-273-Div.1】洛谷 3 月月赛 I & NtF Round 3",
+      "start_time": "2026-03-01 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/309087"
+    },
+    {
+      "platform": "luogu",
+      "name": "【LGR-273-Div.2】洛谷 3 月月赛 I & NtF Round 3",
+      "start_time": "2026-03-01 14:00:00",
+      "duration": "4小时0分钟",
+      "url": "https://www.luogu.com.cn/contest/309086"
     },
     {
       "platform": "AtCoder",
