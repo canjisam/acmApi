@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19 21:47:49",
+  "last_updated": "2026-02-19 23:12:53",
   "contests": [
     {
       "platform": "AtCoder",
@@ -84,6 +84,13 @@
       "start_time": "2026-02-27 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/128675?from=acm_calendar"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start_time": "2026-02-26 22:35:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2205"
     },
     {
       "platform": "luogu",
