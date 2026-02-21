@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21 11:07:50",
+  "last_updated": "2026-02-21 12:51:09",
   "contests": [
     {
       "platform": "AtCoder",
@@ -98,6 +98,13 @@
       "start_time": "2026-02-26 22:35:00",
       "duration": "2小时30分钟",
       "url": "https://codeforces.com/contest/2205"
+    },
+    {
+      "platform": "luogu",
+      "name": "【MX-X25】梦熊 X 组 · 欧尼恩赛 & FeOI Round 5",
+      "start_time": "2026-02-26 14:00:00",
+      "duration": "4小时30分钟",
+      "url": "https://www.luogu.com.cn/contest/311071"
     },
     {
       "platform": "luogu",
@@ -343,13 +350,6 @@
       "start_time": "2026-02-08 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-488"
-    },
-    {
-      "platform": "luogu",
-      "name": "Google HashCode 启发式问题测试 I",
-      "start_time": "2026-02-07 19:00:00",
-      "duration": "96小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/309179"
     },
     {
       "platform": "NowCoder",
