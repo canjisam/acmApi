@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22 11:21:48",
+  "last_updated": "2026-02-22 13:04:34",
   "contests": [
     {
       "platform": "AtCoder",
@@ -49,6 +49,13 @@
       "start_time": "2026-03-01 12:00:00",
       "duration": "6小时0分钟",
       "url": "https://atcoder.jp/contests/masters2026-qual"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 491",
+      "start_time": "2026-03-01 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-491"
     },
     {
       "platform": "LeetCode",
