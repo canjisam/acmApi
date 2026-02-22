@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22 13:04:34",
+  "last_updated": "2026-02-22 14:08:58",
   "contests": [
     {
       "platform": "AtCoder",
@@ -343,13 +343,6 @@
       "start_time": "2026-02-08 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-488"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2026牛客寒假算法基础集训营3",
-      "start_time": "2026-02-07 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/120563?from=acm_calendar"
     }
   ]
 }
