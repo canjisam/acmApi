@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24 13:08:43",
+  "last_updated": "2026-02-24 14:35:19",
   "contests": [
     {
       "platform": "AtCoder",
@@ -301,13 +301,6 @@
       "start_time": "2026-02-10 14:00:00",
       "duration": "4小时0分钟",
       "url": "https://www.luogu.com.cn/contest/303869"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2026牛客寒假算法基础集训营4",
-      "start_time": "2026-02-09 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/120564?from=acm_calendar"
     }
   ]
 }
