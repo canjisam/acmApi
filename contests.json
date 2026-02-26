@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26 13:08:00",
+  "last_updated": "2026-02-26 14:34:04",
   "contests": [
     {
       "platform": "AtCoder",
@@ -287,20 +287,6 @@
       "start_time": "2026-02-12 14:00:00",
       "duration": "3小时30分钟",
       "url": "https://www.luogu.com.cn/contest/273960"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "2026牛客寒假算法基础集训营5",
-      "start_time": "2026-02-11 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/120565?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-267-Div.2】洛谷 2 月月赛 II & UTOI Round 1",
-      "start_time": "2026-02-11 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/282947"
     }
   ]
 }
