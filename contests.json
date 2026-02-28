@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28 23:45:22",
+  "last_updated": "2026-03-01 00:49:29",
   "contests": [
     {
       "platform": "AtCoder",
@@ -23,6 +23,13 @@
       "url": "https://atcoder.jp/contests/abc450"
     },
     {
+      "platform": "NowCoder",
+      "name": "【小羊肖恩】小羊杯 Round 3",
+      "start_time": "2026-03-15 13:00:00",
+      "duration": "5小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/129122?from=acm_calendar"
+    },
+    {
       "platform": "LeetCode",
       "name": "Biweekly Contest 178",
       "start_time": "2026-03-14 22:30:00",
@@ -44,11 +51,25 @@
       "url": "https://atcoder.jp/contests/ahc062"
     },
     {
+      "platform": "NowCoder",
+      "name": "牛客练习赛149",
+      "start_time": "2026-03-13 19:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/129232?from=acm_calendar"
+    },
+    {
       "platform": "Codeforces",
       "name": "Codeforces Round (Div. 1 + Div. 2)",
       "start_time": "2026-03-08 22:35:00",
       "duration": "3小时0分钟",
       "url": "https://codeforces.com/contest/2207"
+    },
+    {
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 134",
+      "start_time": "2026-03-08 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/129231?from=acm_calendar"
     },
     {
       "platform": "LeetCode",
@@ -72,18 +93,11 @@
       "url": "https://atcoder.jp/contests/abc448"
     },
     {
-      "platform": "luogu",
-      "name": "KTSC 2026 R2 Unofficial Mirror",
-      "start_time": "2026-03-04 14:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/311761"
-    },
-    {
-      "platform": "luogu",
-      "name": "KTSC 2026 R1 Unofficial Mirror",
-      "start_time": "2026-03-03 14:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/310905"
+      "platform": "NowCoder",
+      "name": "牛客挑战赛86",
+      "start_time": "2026-03-06 19:00:00",
+      "duration": "3小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/129209?from=acm_calendar"
     },
     {
       "platform": "Codeforces",
@@ -93,25 +107,11 @@
       "url": "https://codeforces.com/contest/2199"
     },
     {
-      "platform": "luogu",
-      "name": "[CCPC 2025 哈尔滨站] CCPC 2025 分站赛哈尔滨站重现赛",
-      "start_time": "2026-03-02 13:00:00",
-      "duration": "5小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/312041"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-273-Div.1】洛谷 3 月月赛 I & NtF Round 3",
-      "start_time": "2026-03-01 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/309087"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-273-Div.2】洛谷 3 月月赛 I & NtF Round 3",
-      "start_time": "2026-03-01 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/309086"
+      "platform": "NowCoder",
+      "name": "牛客周赛 Round 133",
+      "start_time": "2026-03-01 19:00:00",
+      "duration": "2小时0分钟",
+      "url": "https://ac.nowcoder.com/acm/contest/128678?from=acm_calendar"
     },
     {
       "platform": "AtCoder",
@@ -135,69 +135,6 @@
       "url": "https://leetcode.com/contest/biweekly-contest-177"
     },
     {
-      "platform": "luogu",
-      "name": "【LGR-270-Div.2】洛谷 2 月月赛 V & MYCOI-R1",
-      "start_time": "2026-02-28 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/245434"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客小白月赛129",
-      "start_time": "2026-02-27 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/128675?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-275-Div.4】洛谷入门赛 #44",
-      "start_time": "2026-02-27 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/311027"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-X25】梦熊 X 组 · 欧尼恩赛 & FeOI Round 5",
-      "start_time": "2026-02-26 14:00:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/311071"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-269-Div.2】洛谷 2 月月赛 VI & IXOI Round 1",
-      "start_time": "2026-02-25 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/305773"
-    },
-    {
-      "platform": "luogu",
-      "name": "「DBOI」Round -1",
-      "start_time": "2026-02-24 13:00:00",
-      "duration": "5小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/273961"
-    },
-    {
-      "platform": "luogu",
-      "name": "Construction Masters：yrOI R1",
-      "start_time": "2026-02-23 14:30:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/305992"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 132",
-      "start_time": "2026-02-22 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/128672?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-268-Div.2】洛谷 2 月月赛 IV & TBOI Round 1",
-      "start_time": "2026-02-22 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/251331"
-    },
-    {
       "platform": "LeetCode",
       "name": "Weekly Contest 490",
       "start_time": "2026-02-22 10:30:00",
@@ -212,62 +149,6 @@
       "url": "https://codeforces.com/contest/2198"
     },
     {
-      "platform": "luogu",
-      "name": "【LGR-272-Div.2】洛谷 2 月月赛 III & 『ICerOI』Round 1",
-      "start_time": "2026-02-21 14:00:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/299754"
-    },
-    {
-      "platform": "luogu",
-      "name": "FeSo4OI Long Round #1 春节欢乐赛",
-      "start_time": "2026-02-19 08:00:00",
-      "duration": "60小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/305706"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客2026年除夕娱乐赛",
-      "start_time": "2026-02-16 23:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/127676?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-271-Div.3】洛谷基础赛 #31 &「WYZOI」中国新年跨年赛 2025→2026",
-      "start_time": "2026-02-16 20:30:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/300994"
-    },
-    {
-      "platform": "luogu",
-      "name": "「LCOI」Round 2 & 除夕赛",
-      "start_time": "2026-02-16 14:00:00",
-      "duration": "2小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/308153"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客周赛 Round 131",
-      "start_time": "2026-02-15 19:00:00",
-      "duration": "2小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/127703?from=acm_calendar"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "Whalica Cup (Round 2)",
-      "start_time": "2026-02-15 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/128674?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "RedStone OI Round 1 & 送钱赛",
-      "start_time": "2026-02-15 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/222594"
-    },
-    {
       "platform": "LeetCode",
       "name": "Weekly Contest 489",
       "start_time": "2026-02-15 10:30:00",
@@ -280,27 +161,6 @@
       "start_time": "2026-02-14 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-176"
-    },
-    {
-      "platform": "NowCoder",
-      "name": "牛客2026年情人节比赛",
-      "start_time": "2026-02-14 19:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://ac.nowcoder.com/acm/contest/127094?from=acm_calendar"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-X24】梦熊 X 组 · 二重身赛 & RiOI Round 7（同步赛）",
-      "start_time": "2026-02-14 14:00:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/309581"
-    },
-    {
-      "platform": "luogu",
-      "name": "NFC-OI Round 1 & 情人节赛",
-      "start_time": "2026-02-14 08:30:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/293448"
     }
   ]
 }
