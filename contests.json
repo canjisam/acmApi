@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28 22:47:19",
+  "last_updated": "2026-02-28 23:45:22",
   "contests": [
     {
       "platform": "AtCoder",
@@ -7,6 +7,13 @@
       "start_time": "2026-03-29 20:00:00",
       "duration": "3小时0分钟",
       "url": "https://atcoder.jp/contests/agc077"
+    },
+    {
+      "platform": "AtCoder",
+      "name": "AtCoder Regular Contest++ 216",
+      "start_time": "2026-03-22 20:00:00",
+      "duration": "2小时30分钟",
+      "url": "https://atcoder.jp/contests/arc216"
     },
     {
       "platform": "AtCoder",
