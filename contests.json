@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01 07:44:40",
+  "last_updated": "2026-03-01 11:27:16",
   "contests": [
     {
       "platform": "AtCoder",
@@ -287,13 +287,6 @@
       "start_time": "2026-02-14 14:00:00",
       "duration": "4小时30分钟",
       "url": "https://www.luogu.com.cn/contest/309581"
-    },
-    {
-      "platform": "luogu",
-      "name": "NFC-OI Round 1 & 情人节赛",
-      "start_time": "2026-02-14 08:30:00",
-      "duration": "3小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/293448"
     }
   ]
 }
