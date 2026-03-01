@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01 13:07:46",
+  "last_updated": "2026-03-01 14:07:26",
   "contests": [
     {
       "platform": "AtCoder",
@@ -273,13 +273,6 @@
       "start_time": "2026-02-14 22:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/biweekly-contest-176"
-    },
-    {
-      "platform": "luogu",
-      "name": "【MX-X24】梦熊 X 组 · 二重身赛 & RiOI Round 7（同步赛）",
-      "start_time": "2026-02-14 14:00:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/309581"
     }
   ]
 }
