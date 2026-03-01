@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01 21:54:59",
+  "last_updated": "2026-03-01 22:49:16",
   "contests": [
     {
       "platform": "AtCoder",
@@ -21,6 +21,13 @@
       "start_time": "2026-03-21 20:00:00",
       "duration": "1小时40分钟",
       "url": "https://atcoder.jp/contests/abc450"
+    },
+    {
+      "platform": "Codeforces",
+      "name": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "start_time": "2026-03-16 22:35:00",
+      "duration": "2小时0分钟",
+      "url": "https://codeforces.com/contest/2204"
     },
     {
       "platform": "NowCoder",
@@ -266,13 +273,6 @@
       "start_time": "2026-02-15 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-489"
-    },
-    {
-      "platform": "LeetCode",
-      "name": "Biweekly Contest 176",
-      "start_time": "2026-02-14 22:30:00",
-      "duration": "1小时30分钟",
-      "url": "https://leetcode.com/contest/biweekly-contest-176"
     }
   ]
 }
