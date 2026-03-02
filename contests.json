@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02 13:04:05",
+  "last_updated": "2026-03-02 14:10:43",
   "contests": [
     {
       "platform": "AtCoder",
@@ -37,6 +37,13 @@
       "url": "https://ac.nowcoder.com/acm/contest/129122?from=acm_calendar"
     },
     {
+      "platform": "LeetCode",
+      "name": "Biweekly Contest 178",
+      "start_time": "2026-03-14 22:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/biweekly-contest-178"
+    },
+    {
       "platform": "AtCoder",
       "name": "AtCoder Beginner Contest 449",
       "start_time": "2026-03-14 20:00:00",
@@ -70,6 +77,13 @@
       "start_time": "2026-03-08 19:00:00",
       "duration": "2小时0分钟",
       "url": "https://ac.nowcoder.com/acm/contest/129231?from=acm_calendar"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 492",
+      "start_time": "2026-03-08 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-492"
     },
     {
       "platform": "Codeforces",
@@ -149,6 +163,20 @@
       "url": "https://www.luogu.com.cn/contest/309086"
     },
     {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 491",
+      "start_time": "2026-03-01 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-491"
+    },
+    {
+      "platform": "LeetCode",
+      "name": "Biweekly Contest 177",
+      "start_time": "2026-02-28 22:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/biweekly-contest-177"
+    },
+    {
       "platform": "luogu",
       "name": "【LGR-270-Div.2】洛谷 2 月月赛 V & MYCOI-R1",
       "start_time": "2026-02-28 14:00:00",
@@ -198,6 +226,13 @@
       "url": "https://www.luogu.com.cn/contest/251331"
     },
     {
+      "platform": "LeetCode",
+      "name": "Weekly Contest 490",
+      "start_time": "2026-02-22 10:30:00",
+      "duration": "1小时30分钟",
+      "url": "https://leetcode.com/contest/weekly-contest-490"
+    },
+    {
       "platform": "Codeforces",
       "name": "Kotlin Heroes: Practice 14",
       "start_time": "2026-02-21 22:30:00",
@@ -231,13 +266,6 @@
       "start_time": "2026-02-16 14:00:00",
       "duration": "2小时30分钟",
       "url": "https://www.luogu.com.cn/contest/308153"
-    },
-    {
-      "platform": "luogu",
-      "name": "RedStone OI Round 1 & 送钱赛",
-      "start_time": "2026-02-15 14:00:00",
-      "duration": "4小时0分钟",
-      "url": "https://www.luogu.com.cn/contest/222594"
     }
   ]
 }
